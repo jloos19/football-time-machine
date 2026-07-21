@@ -1,0 +1,1954 @@
+[
+  {
+    "n": 1,
+    "title": "Opening Night",
+    "match": "Germany vs Bolivia",
+    "date": "June 17, 1994",
+    "city": "Chicago, Illinois",
+    "stage": "Group Stage",
+    "intro": "Germany enter as defending champions and one of the tournament’s established powers. Bolivia return to the World Cup after a long absence and arrive with the confidence of a strong qualifying campaign. The opening match is less about certainty than nerves: one side carries expectation, the other opportunity.",
+    "world": "The World Cup has arrived in the United States for the first time. Supporters are filling American stadiums, television coverage is expanding, and a country still learning the rhythms of the sport is about to host its biggest event.",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jlylo",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:45:18",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "tournament": "Nothing has happened yet. Twenty-four teams begin level, every group is open, and every prediction is still only a prediction.",
+    "watchFor": "Take in the occasion before focusing on the football. The ceremony, the crowd and the unfamiliar setting all help explain why this tournament felt different from any before it.",
+    "postMatch": {
+      "score": "Germany 1–0 Bolivia",
+      "halftime": "Halftime: 0–0",
+      "goal": "Jürgen Klinsmann 61′",
+      "keyEvents": [
+        "Klinsmann broke the deadlock after Germany had struggled to turn control into chances.",
+        "Marco Etcheverry was sent off shortly after entering as a substitute.",
+        "Bolivia stayed competitive for long stretches despite entering as underdogs."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Jürgen Klinsmann",
+          "team": "Germany",
+          "role": "Match winner",
+          "summary": "Scored the only goal and repeatedly threatened with his movement behind the defense."
+        },
+        {
+          "name": "Lothar Matthäus",
+          "team": "Germany",
+          "role": "Control and leadership",
+          "summary": "Directed Germany’s shape and helped prevent Bolivia from building sustained pressure."
+        },
+        {
+          "name": "Carlos Trucco",
+          "team": "Bolivia",
+          "role": "Kept Bolivia alive",
+          "summary": "Made several important stops and kept the match within reach."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-01",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 2,
+    "title": "Late Heat",
+    "match": "Spain vs South Korea",
+    "date": "June 17, 1994",
+    "city": "Dallas, Texas",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jm0aq",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:49:21",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The tournament’s first full day stretches from Chicago to Dallas. American television audiences are beginning to discover how quickly a World Cup can create several stories at once.",
+    "tournament": "The holders have opened the competition, but Group C remains wide open. Spain and South Korea now get their first chance to shape it.",
+    "intro": "Spain arrive with experience, technical quality and expectations of progressing. South Korea bring energy and ambition, but face a difficult opening assignment. In a three-match group stage, even an early draw or defeat can immediately change the pressure surrounding the next game.",
+    "watchFor": "Notice the contrast in rhythm. Spain want control; South Korea are more comfortable when the match becomes quick and open.",
+    "postMatch": {
+      "score": "Spain 2–2 South Korea",
+      "halftime": "Halftime: 2–0",
+      "goal": "Julio Salinas 51′; Goikoetxea 56′; Hong Myung-bo 85′; Seo Jung-won 90′",
+      "keyEvents": [
+        "Spain built a two-goal lead early in the second half.",
+        "South Korea scored twice in the final minutes to level the match.",
+        "The comeback immediately changed the shape of Group C."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Hong Myung-bo",
+          "team": "South Korea",
+          "role": "Comeback catalyst",
+          "summary": "Scored from distance and gave South Korea belief late in the match."
+        },
+        {
+          "name": "Seo Jung-won",
+          "team": "South Korea",
+          "role": "Late equalizer",
+          "summary": "Completed the comeback in the final minute."
+        },
+        {
+          "name": "Goikoetxea",
+          "team": "Spain",
+          "role": "Creative influence",
+          "summary": "Scored Spain’s second and was central to their strongest attacking spell."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-02",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 3,
+    "title": "Home Soil",
+    "match": "United States vs Switzerland",
+    "date": "June 18, 1994",
+    "city": "Pontiac, Michigan",
+    "stage": "Group Stage",
+    "intro": "The United States have spent years preparing for this moment. Switzerland arrive with a technically accomplished team and no interest in playing a supporting role in the host nation’s story. The indoor setting at the Pontiac Silverdome adds another layer to an already unusual occasion.",
+    "world": "The hosts now enter the tournament. For the United States, this is not only a sporting event but a test of whether soccer can claim a lasting place in the American landscape.",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9j9ohy",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:54:36",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "tournament": "Group A has begun elsewhere, but this is the first appearance for both the United States and Switzerland.",
+    "watchFor": "Listen to the crowd. The atmosphere shifts whenever the hosts build momentum, and the reaction tells you how much is riding on the match.",
+    "postMatch": {
+      "score": "United States 1–1 Switzerland",
+      "halftime": "Halftime: 0–1",
+      "goal": "Georges Bregy 39′; Eric Wynalda 44′",
+      "keyEvents": [
+        "Bregy opened the scoring with a free kick.",
+        "Wynalda answered before halftime with a free kick of his own.",
+        "The first indoor World Cup match ended level."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Eric Wynalda",
+          "team": "United States",
+          "role": "Equalizer",
+          "summary": "Produced the hosts’ first goal of the tournament with a superb free kick."
+        },
+        {
+          "name": "Georges Bregy",
+          "team": "Switzerland",
+          "role": "Set-piece quality",
+          "summary": "Opened the scoring and controlled Switzerland’s attacking rhythm."
+        },
+        {
+          "name": "Tony Meola",
+          "team": "United States",
+          "role": "Composure in goal",
+          "summary": "Handled pressure well and helped preserve the point."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-03",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 4,
+    "title": "Heavy Weather",
+    "match": "Italy vs Republic of Ireland",
+    "date": "June 18, 1994",
+    "city": "East Rutherford, New Jersey",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jxdve",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:48:03",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "New York and New Jersey are welcoming one of Europe’s most anticipated opening fixtures. The tournament is already beginning to feel national in scale.",
+    "tournament": "Group E starts with two teams carrying very different expectations but equally little room for error.",
+    "intro": "Italy arrive with one of the tournament’s most recognizable squads and the burden that follows a traditional power. The Republic of Ireland have built their reputation on organization, belief and a willingness to make elite opponents uncomfortable.",
+    "watchFor": "Pay attention to space. Italy are patient when building; Ireland are happiest when the match becomes physical, direct and emotionally charged.",
+    "postMatch": {
+      "score": "Italy 0–1 Republic of Ireland",
+      "halftime": "Halftime: 0–1",
+      "goal": "Ray Houghton 11′",
+      "keyEvents": [
+        "Houghton struck early from outside the area.",
+        "Ireland defended their lead with discipline and intensity.",
+        "Italy began the tournament under immediate pressure."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Ray Houghton",
+          "team": "Republic of Ireland",
+          "role": "Decisive scorer",
+          "summary": "Delivered the match’s defining moment with an early long-range finish."
+        },
+        {
+          "name": "Paul McGrath",
+          "team": "Republic of Ireland",
+          "role": "Defensive anchor",
+          "summary": "Produced a commanding performance against Italy’s forwards."
+        },
+        {
+          "name": "Packie Bonner",
+          "team": "Republic of Ireland",
+          "role": "Protected the lead",
+          "summary": "Stayed composed under late Italian pressure."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-04",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 5,
+    "title": "Expectations",
+    "match": "Brazil vs Russia",
+    "date": "June 20, 1994",
+    "city": "Palo Alto, California",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jefts",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:47:59",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The World Cup reaches California, where warm weather and packed stadiums are helping create one of the tournament’s defining atmospheres.",
+    "tournament": "Brazil and Russia enter Group B after the group’s opening match produced no separation between the other two teams.",
+    "intro": "Brazil arrive as one of the favorites and as a nation carrying the expectation that accompanies its history. Russia are beginning a new international chapter and face an immediate test against one of the most technically gifted teams in the field.",
+    "watchFor": "Watch how Brazil create chances without rushing. Their patience around the penalty area is often as important as their flair.",
+    "postMatch": {
+      "score": "Brazil 2–0 Russia",
+      "halftime": "Halftime: 1–0",
+      "goal": "Romário 26′; Raí 52′ (pen.)",
+      "keyEvents": [
+        "Romário opened the scoring from a corner.",
+        "Raí converted a second-half penalty.",
+        "Brazil controlled the game without needing to overextend."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Romário",
+          "team": "Brazil",
+          "role": "Attacking focal point",
+          "summary": "Scored the opener and constantly occupied Russia’s central defenders."
+        },
+        {
+          "name": "Bebeto",
+          "team": "Brazil",
+          "role": "Movement and link play",
+          "summary": "Created space around Romário and helped connect midfield to attack."
+        },
+        {
+          "name": "Dunga",
+          "team": "Brazil",
+          "role": "Midfield control",
+          "summary": "Protected Brazil’s shape and kept Russia from building momentum."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-05",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 6,
+    "title": "Total Belief",
+    "match": "Netherlands vs Saudi Arabia",
+    "date": "June 20, 1994",
+    "city": "Washington, D.C.",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9k8szy",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:38:09",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "Washington, D.C. hosts another first-round match as the tournament continues to spread across the country.",
+    "tournament": "Belgium have already taken an early step in Group F. The Netherlands and Saudi Arabia now begin their campaigns knowing the group has a leader.",
+    "intro": "The Netherlands bring a reputation for attacking football and technical confidence. Saudi Arabia are appearing at their first World Cup and enter with little external expectation but plenty of freedom.",
+    "watchFor": "Notice the difference in width. The Netherlands try to stretch the field; Saudi Arabia look for moments to move quickly through the middle.",
+    "postMatch": {
+      "score": "Netherlands 2–1 Saudi Arabia",
+      "halftime": "Halftime: 0–1",
+      "goal": "Fuad Amin 18′; Wim Jonk 50′; Gaston Taument 86′",
+      "keyEvents": [
+        "Saudi Arabia took a surprise first-half lead.",
+        "Jonk equalized shortly after halftime.",
+        "Taument’s late goal completed the turnaround."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Gaston Taument",
+          "team": "Netherlands",
+          "role": "Late match winner",
+          "summary": "Changed the result with a decisive late intervention."
+        },
+        {
+          "name": "Wim Jonk",
+          "team": "Netherlands",
+          "role": "Restored control",
+          "summary": "Equalized and helped the Dutch regain confidence."
+        },
+        {
+          "name": "Fuad Amin",
+          "team": "Saudi Arabia",
+          "role": "Fearless opener",
+          "summary": "Gave the debutants an early lead and belief."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-06",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 7,
+    "title": "One Last Dance",
+    "match": "Argentina vs Greece",
+    "date": "June 21, 1994",
+    "city": "Foxborough, Massachusetts",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jsu1y",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:50:59",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "By now, the tournament has several overlapping stories: the host nation, the defending champions, and the first appearances of the leading contenders.",
+    "tournament": "Nigeria have made an immediate impression in Group D. Argentina and Greece now begin with a clear picture of the standard already set.",
+    "intro": "Argentina arrive with star power, experience and the confidence of a team expected to matter. Greece are newcomers to this stage and face one of the tournament’s most intimidating opening assignments.",
+    "watchFor": "Watch Argentina’s movement between midfield and attack. The danger often begins before the final pass is played.",
+    "postMatch": {
+      "score": "Argentina 4–0 Greece",
+      "halftime": "Halftime: 2–0",
+      "goal": "Gabriel Batistuta 2′, 45′, 90′ (pen.); Diego Maradona 60′",
+      "keyEvents": [
+        "Batistuta scored a hat trick.",
+        "Maradona finished a flowing team move in the second half.",
+        "Argentina delivered one of the group stage’s strongest opening performances."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Gabriel Batistuta",
+          "team": "Argentina",
+          "role": "Hat-trick scorer",
+          "summary": "Combined power, timing and finishing to dominate the match."
+        },
+        {
+          "name": "Diego Maradona",
+          "team": "Argentina",
+          "role": "Creative leader",
+          "summary": "Controlled the attack and scored the game’s most elaborate team goal."
+        },
+        {
+          "name": "Fernando Redondo",
+          "team": "Argentina",
+          "role": "Midfield platform",
+          "summary": "Allowed Argentina’s attackers to play with freedom."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-07",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 8,
+    "title": "Old Powers",
+    "match": "Germany vs Spain",
+    "date": "June 21, 1994",
+    "city": "Chicago, Illinois",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jmqqk",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:45:34",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "Chicago hosts its second major match in four days, and the early novelty of the tournament is giving way to genuine group-stage pressure.",
+    "tournament": "Germany have three points; Spain and South Korea have one each. The second matchday in Group C begins with every team still alive.",
+    "intro": "Germany can take control of the group. Spain need to build on their opening performance and avoid allowing the defending champions to dictate the pace. It is the first selected match in which both teams already understand the consequences of the table.",
+    "watchFor": "Notice how each team reacts after losing possession. The match often turns on which side can reorganize more quickly.",
+    "postMatch": {
+      "score": "Germany 1–1 Spain",
+      "halftime": "Halftime: 0–1",
+      "goal": "Goikoetxea 14′; Jürgen Klinsmann 48′",
+      "keyEvents": [
+        "Spain led through Goikoetxea’s early goal.",
+        "Klinsmann equalized just after halftime.",
+        "Neither side could take full control of Group C."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Jürgen Klinsmann",
+          "team": "Germany",
+          "role": "Equalizer",
+          "summary": "Responded immediately after halftime and rescued a point."
+        },
+        {
+          "name": "Goikoetxea",
+          "team": "Spain",
+          "role": "Early breakthrough",
+          "summary": "Gave Spain the lead and posed a constant set-piece threat."
+        },
+        {
+          "name": "Fernando Hierro",
+          "team": "Spain",
+          "role": "Defensive authority",
+          "summary": "Helped Spain withstand Germany’s second-half pressure."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-08",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 9,
+    "title": "New Arrivals",
+    "match": "Nigeria vs Bulgaria",
+    "date": "June 21, 1994",
+    "city": "Dallas, Texas",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jsu20",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:47:15",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "Dallas is emerging as one of the tournament’s loudest and hottest venues, a setting that rewards energy and resilience.",
+    "tournament": "Argentina have opened strongly. Nigeria and Bulgaria now meet knowing a decisive result could immediately reshape Group D.",
+    "intro": "Nigeria arrive with athleticism, confidence and a generation eager to announce itself. Bulgaria bring technical ability and greater European experience. Neither side can afford to treat this as a cautious opening exercise.",
+    "watchFor": "Look for the speed of transitions. Both teams can turn a loose ball into an attack almost immediately.",
+    "postMatch": {
+      "score": "Nigeria 3–0 Bulgaria",
+      "halftime": "Halftime: 2–0",
+      "goal": "Rashidi Yekini 21′; Daniel Amokachi 43′; Emmanuel Amunike 55′",
+      "keyEvents": [
+        "Yekini scored Nigeria’s first World Cup goal.",
+        "Nigeria added two more through Amokachi and Amunike.",
+        "The debutants announced themselves with pace and confidence."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Rashidi Yekini",
+          "team": "Nigeria",
+          "role": "Historic opener",
+          "summary": "Scored Nigeria’s first World Cup goal and set the emotional tone."
+        },
+        {
+          "name": "Daniel Amokachi",
+          "team": "Nigeria",
+          "role": "Power and transition",
+          "summary": "Drove directly at Bulgaria and scored before halftime."
+        },
+        {
+          "name": "Sunday Oliseh",
+          "team": "Nigeria",
+          "role": "Midfield balance",
+          "summary": "Helped Nigeria control transitions and protect the defense."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-09",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 10,
+    "title": "Home Pressure",
+    "match": "United States vs Colombia",
+    "date": "June 22, 1994",
+    "city": "Pasadena, California",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9ja742",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:49:23",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The host nation moves west, and attention follows. American interest is growing, but so is the pressure.",
+    "tournament": "Romania lead Group A, while the United States and Switzerland have one point each. Colombia now enter a match that already feels urgent.",
+    "intro": "The United States can put themselves in a strong position with a result. Colombia arrived with major expectations and now face a team lifted by the home crowd. The emotional balance of the match may matter as much as the tactical one.",
+    "watchFor": "Notice how the crowd responds to moments of danger. The atmosphere can push the hosts forward, but it can also make the match feel faster than it is.",
+    "postMatch": {
+      "score": "United States 2–1 Colombia",
+      "halftime": "Halftime: 1–0",
+      "goal": "Andrés Escobar 35′ (own goal); Earnie Stewart 52′; Adolfo Valencia 90′",
+      "keyEvents": [
+        "An own goal gave the United States the lead.",
+        "Stewart doubled it early in the second half.",
+        "Colombia’s late goal arrived too late to complete a comeback."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Earnie Stewart",
+          "team": "United States",
+          "role": "Decisive attacker",
+          "summary": "Scored the second goal and stretched Colombia with his running."
+        },
+        {
+          "name": "Tab Ramos",
+          "team": "United States",
+          "role": "Creative outlet",
+          "summary": "Helped the hosts progress the ball and relieved pressure."
+        },
+        {
+          "name": "Tony Meola",
+          "team": "United States",
+          "role": "Last line of defense",
+          "summary": "Made important saves as Colombia pushed forward."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-10",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 11,
+    "title": "No Margin",
+    "match": "Italy vs Norway",
+    "date": "June 23, 1994",
+    "city": "East Rutherford, New Jersey",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jyzqi",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:42:48",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The tournament’s first week is ending, and several traditional powers are already discovering how little room the format allows.",
+    "tournament": "The Republic of Ireland lead Group E. Norway and Italy enter this meeting with the table beginning to create real pressure.",
+    "intro": "Italy need composure after a difficult start. Norway bring discipline, strength and a willingness to make the match uncomfortable. This is the kind of group game where patience can become tension very quickly.",
+    "watchFor": "Focus on the opening twenty minutes. One team will try to settle the match; the other will try to keep it unsettled.",
+    "postMatch": {
+      "score": "Italy 1–0 Norway",
+      "halftime": "Halftime: 0–0",
+      "goal": "Dino Baggio 69′",
+      "keyEvents": [
+        "Goalkeeper Gianluca Pagliuca was sent off in the first half.",
+        "Italy played most of the match with ten men.",
+        "Dino Baggio’s header delivered a vital win."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Dino Baggio",
+          "team": "Italy",
+          "role": "Match winner",
+          "summary": "Scored the decisive header when Italy were under severe pressure."
+        },
+        {
+          "name": "Roberto Baggio",
+          "team": "Italy",
+          "role": "Carried the attack",
+          "summary": "Provided creativity and calm despite Italy’s numerical disadvantage."
+        },
+        {
+          "name": "Luca Marchegiani",
+          "team": "Italy",
+          "role": "Emergency goalkeeper",
+          "summary": "Entered after the red card and preserved the clean sheet."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-11",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 12,
+    "title": "The Second Test",
+    "match": "Brazil vs Cameroon",
+    "date": "June 24, 1994",
+    "city": "Palo Alto, California",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jfba4",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:48:14",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "California hosts another Brazil match as the tournament begins to separate contenders from teams under pressure.",
+    "tournament": "Brazil have three points. Cameroon and Sweden have one each, while Russia are still searching for their first.",
+    "intro": "Brazil can strengthen their control of Group B. Cameroon are talented, athletic and capable of disrupting any opponent, but they need the match to become less predictable than Brazil would prefer.",
+    "watchFor": "Watch how Brazil use short combinations to draw defenders out before attacking the space left behind.",
+    "postMatch": {
+      "score": "Brazil 3–0 Cameroon",
+      "halftime": "Halftime: 1–0",
+      "goal": "Romário 39′; Márcio Santos 66′; Bebeto 72′",
+      "keyEvents": [
+        "Romário scored before halftime.",
+        "Cameroon’s Rigobert Song was sent off.",
+        "Brazil added two second-half goals to secure the result."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Romário",
+          "team": "Brazil",
+          "role": "Opened the match",
+          "summary": "Scored again and remained Brazil’s most dangerous forward."
+        },
+        {
+          "name": "Bebeto",
+          "team": "Brazil",
+          "role": "Finished the contest",
+          "summary": "Added the third and linked intelligently with Romário."
+        },
+        {
+          "name": "Márcio Santos",
+          "team": "Brazil",
+          "role": "Two-way contribution",
+          "summary": "Defended confidently and scored from a set piece."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-12",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 13,
+    "title": "Neighbors",
+    "match": "Netherlands vs Belgium",
+    "date": "June 25, 1994",
+    "city": "Orlando, Florida",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9ka1q4",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:41:20",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "By the second weekend, supporters have begun adopting teams beyond their own, and several venues are developing distinct personalities.",
+    "tournament": "Belgium have three points. The Netherlands and Saudi Arabia have already met, and Group F now moves into its second round.",
+    "intro": "The Netherlands need a response. Belgium can take command of the group. Familiarity between the two countries adds an edge, even though the tournament setting makes caution understandable.",
+    "watchFor": "Notice the tempo after turnovers. Both sides are comfortable moving quickly when the other team is out of shape.",
+    "postMatch": {
+      "score": "Netherlands 0–1 Belgium",
+      "halftime": "Halftime: 0–0",
+      "goal": "Philippe Albert 65′",
+      "keyEvents": [
+        "Albert scored the only goal.",
+        "Belgium protected the lead with disciplined defending.",
+        "The result tightened Group F significantly."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Philippe Albert",
+          "team": "Belgium",
+          "role": "Match winner",
+          "summary": "Stepped forward from defense to score the decisive goal."
+        },
+        {
+          "name": "Michel Preud’homme",
+          "team": "Belgium",
+          "role": "Goalkeeping excellence",
+          "summary": "Produced several important saves to preserve the clean sheet."
+        },
+        {
+          "name": "Franky Van der Elst",
+          "team": "Belgium",
+          "role": "Midfield discipline",
+          "summary": "Helped disrupt the Netherlands’ passing rhythm."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-13",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 14,
+    "title": "Speed and Nerve",
+    "match": "Argentina vs Nigeria",
+    "date": "June 25, 1994",
+    "city": "Foxborough, Massachusetts",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jtcje",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:54:29",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The tournament is now established. Opening-day curiosity has been replaced by the daily rhythm of standings, pressure and survival.",
+    "tournament": "Argentina lead Group D after their opening win. Nigeria also have three points, making this an early meeting between the group’s two leaders.",
+    "intro": "Both teams can attack with speed, but they approach control differently. Argentina rely on experience and individual quality; Nigeria bring pace, confidence and a willingness to play without fear.",
+    "watchFor": "Look at how each midfield protects its defenders. The team that manages the space behind the ball may control the match.",
+    "postMatch": {
+      "score": "Argentina 2–1 Nigeria",
+      "halftime": "Halftime: 2–1",
+      "goal": "Samson Siasia 8′; Claudio Caniggia 21′, 28′",
+      "keyEvents": [
+        "Nigeria scored first through Siasia.",
+        "Caniggia answered with two goals in seven minutes.",
+        "Argentina then managed the second half to protect the lead."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Claudio Caniggia",
+          "team": "Argentina",
+          "role": "Two-goal response",
+          "summary": "Turned the match with two quick finishes."
+        },
+        {
+          "name": "Diego Maradona",
+          "team": "Argentina",
+          "role": "Creator",
+          "summary": "Supplied the set-piece intelligence and passing that unlocked Nigeria."
+        },
+        {
+          "name": "Samson Siasia",
+          "team": "Nigeria",
+          "role": "Early threat",
+          "summary": "Gave Nigeria the lead and consistently attacked space."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-14",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 15,
+    "title": "The Hosts’ Horizon",
+    "match": "United States vs Romania",
+    "date": "June 26, 1994",
+    "city": "Pasadena, California",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jdrqi",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:56:48",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The final round of group matches begins. From here, simultaneous kickoffs and changing tables create a different kind of tension.",
+    "tournament": "Romania lead Group A. The United States, Switzerland and Colombia remain in contention, and every decision now carries qualification consequences.",
+    "intro": "The hosts reach their final group match with the stadium, the country and the table all watching. Romania have already shown they can punish mistakes. The United States must balance ambition with the danger of leaving space behind.",
+    "watchFor": "Keep an eye on the game state. The same score can feel reassuring in one minute and dangerous in the next.",
+    "postMatch": {
+      "score": "United States 0–1 Romania",
+      "halftime": "Halftime: 0–1",
+      "goal": "Dan Petrescu 18′",
+      "keyEvents": [
+        "Petrescu scored from a tight angle.",
+        "Romania defended the lead with composure.",
+        "The result completed Group A."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Dan Petrescu",
+          "team": "Romania",
+          "role": "Decisive scorer",
+          "summary": "Converted Romania’s clearest early chance."
+        },
+        {
+          "name": "Gheorghe Hagi",
+          "team": "Romania",
+          "role": "Creative control",
+          "summary": "Managed the tempo and helped Romania escape pressure."
+        },
+        {
+          "name": "Tony Meola",
+          "team": "United States",
+          "role": "Kept it close",
+          "summary": "Made saves that kept the hosts within one goal."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-15",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 16,
+    "title": "Final Turn",
+    "match": "Germany vs South Korea",
+    "date": "June 27, 1994",
+    "city": "Dallas, Texas",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jqiau",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:45:44",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The tournament’s schedule is tightening, and several groups are being settled on the same day.",
+    "tournament": "Germany lead Group C, with Spain and South Korea still within reach. The final matches are being played simultaneously.",
+    "intro": "Germany can finish the group strongly, but South Korea still have something to play for. The defending champions cannot assume control simply because of reputation; the final group match often exposes fatigue and nerves.",
+    "watchFor": "Notice the energy levels. The American heat and the compressed schedule begin to matter more at this stage.",
+    "postMatch": {
+      "score": "Germany 3–2 South Korea",
+      "halftime": "Halftime: 3–0",
+      "goal": "Jürgen Klinsmann 12′, 37′; Karl-Heinz Riedle 20′; Hwang Sun-hong 52′; Hong Myung-bo 63′",
+      "keyEvents": [
+        "Germany led by three at halftime.",
+        "South Korea scored twice after the break.",
+        "Germany survived a dramatic second-half comeback."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Jürgen Klinsmann",
+          "team": "Germany",
+          "role": "Two-goal leader",
+          "summary": "Built Germany’s lead with clinical movement and finishing."
+        },
+        {
+          "name": "Hong Myung-bo",
+          "team": "South Korea",
+          "role": "Comeback leader",
+          "summary": "Scored and drove South Korea forward from defense."
+        },
+        {
+          "name": "Hwang Sun-hong",
+          "team": "South Korea",
+          "role": "Changed the mood",
+          "summary": "His goal began the second-half recovery."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-16",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 17,
+    "title": "The Tightest Group",
+    "match": "Italy vs Mexico",
+    "date": "June 28, 1994",
+    "city": "Washington, D.C.",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9k2qyu",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:52:46",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The final group matches are producing rapid changes in who appears safe and who appears vulnerable.",
+    "tournament": "Group E is exceptionally tight. Every team still has a route forward, and the simultaneous match elsewhere in the group remains hidden.",
+    "intro": "Italy and Mexico enter knowing that small margins may decide everything. Both have already experienced the volatility of this group, and neither can rely on reputation or previous results.",
+    "watchFor": "Watch how cautious decisions accumulate. A team can appear patient one minute and suddenly become urgent the next.",
+    "postMatch": {
+      "score": "Italy 1–1 Mexico",
+      "halftime": "Halftime: 0–0",
+      "goal": "Daniele Massaro 48′; Marcelino Bernal 57′",
+      "keyEvents": [
+        "Massaro gave Italy the lead after halftime.",
+        "Bernal equalized nine minutes later.",
+        "The draw completed an exceptionally tight Group E."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Marcelino Bernal",
+          "team": "Mexico",
+          "role": "Equalizer",
+          "summary": "Responded quickly and secured Mexico’s position."
+        },
+        {
+          "name": "Daniele Massaro",
+          "team": "Italy",
+          "role": "Breakthrough",
+          "summary": "Finished Italy’s best move to open the scoring."
+        },
+        {
+          "name": "Jorge Campos",
+          "team": "Mexico",
+          "role": "Command in goal",
+          "summary": "Handled Italy’s pressure and helped protect the draw."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-17",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 18,
+    "title": "Measure of a Contender",
+    "match": "Brazil vs Sweden",
+    "date": "June 28, 1994",
+    "city": "Pontiac, Michigan",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jhgl0",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:40:10",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The tournament has moved from introduction to elimination. Every remaining group match now closes a chapter.",
+    "tournament": "Brazil lead Group B. Sweden are well placed, while Russia and Cameroon play simultaneously elsewhere.",
+    "intro": "Brazil and Sweden have both shown enough to inspire confidence, but the group is not formally complete. The balance between protecting position and chasing momentum makes this a different challenge from the earlier matches.",
+    "watchFor": "Notice whether either team takes early risks. Sometimes the table encourages control rather than spectacle.",
+    "postMatch": {
+      "score": "Brazil 1–1 Sweden",
+      "halftime": "Halftime: 0–1",
+      "goal": "Kenneth Andersson 23′; Romário 47′",
+      "keyEvents": [
+        "Sweden led through Andersson.",
+        "Romário equalized just after halftime.",
+        "Both teams completed Group B in strong positions."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Kenneth Andersson",
+          "team": "Sweden",
+          "role": "Aerial focal point",
+          "summary": "Scored and gave Brazil’s defenders a persistent physical challenge."
+        },
+        {
+          "name": "Romário",
+          "team": "Brazil",
+          "role": "Reliable finisher",
+          "summary": "Equalized with another sharp penalty-area finish."
+        },
+        {
+          "name": "Tomas Brolin",
+          "team": "Sweden",
+          "role": "Creative connector",
+          "summary": "Helped Sweden move from midfield into attack."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-18",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 19,
+    "title": "Nothing Assured",
+    "match": "Belgium vs Saudi Arabia",
+    "date": "June 29, 1994",
+    "city": "Washington, D.C.",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9kb6ro",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:54:25",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The final day of Group F arrives with the group still unsettled and several possible finishing orders.",
+    "tournament": "Belgium lead the group. Saudi Arabia and the Netherlands remain in contention, while Morocco play simultaneously elsewhere.",
+    "intro": "Belgium can secure a strong finish. Saudi Arabia have already shown they belong at this level and now face another test of composure. The pressure is not only to create chances, but to understand what the match requires.",
+    "watchFor": "Watch the spaces behind the fullbacks. Both teams can be dangerous when the other commits too many players forward.",
+    "postMatch": {
+      "score": "Belgium 0–1 Saudi Arabia",
+      "halftime": "Halftime: 0–1",
+      "goal": "Saeed Al-Owairan 5′",
+      "keyEvents": [
+        "Al-Owairan scored after a long solo run.",
+        "Saudi Arabia protected the lead for the remaining 85 minutes.",
+        "The result transformed the final Group F standings."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Saeed Al-Owairan",
+          "team": "Saudi Arabia",
+          "role": "Match-defining run",
+          "summary": "Produced one of the tournament’s most memorable individual goals."
+        },
+        {
+          "name": "Mohamed Al-Deayea",
+          "team": "Saudi Arabia",
+          "role": "Protected the lead",
+          "summary": "Handled Belgium’s pressure with authority."
+        },
+        {
+          "name": "Fuad Amin",
+          "team": "Saudi Arabia",
+          "role": "Midfield energy",
+          "summary": "Helped Saudi Arabia defend and counter for the full match."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-19",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 20,
+    "title": "Last Chance",
+    "match": "Argentina vs Bulgaria",
+    "date": "June 30, 1994",
+    "city": "Dallas, Texas",
+    "stage": "Group Stage",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9jvcl2",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:46:38",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The group stage is ending. By the final whistle, the knockout tournament will be set.",
+    "tournament": "Argentina and Nigeria are in strong positions, while Bulgaria remain alive. Greece and Nigeria play simultaneously in the group’s other match.",
+    "intro": "Argentina enter their final group match with expectations still surrounding them. Bulgaria need a performance that matches the urgency of the moment. This is the last selected group-stage episode before the tournament becomes win-or-go-home.",
+    "watchFor": "Notice the emotional tone. Final group matches often change character quickly once the first major moment arrives.",
+    "postMatch": {
+      "score": "Argentina 0–2 Bulgaria",
+      "halftime": "Halftime: 0–0",
+      "goal": "Hristo Stoichkov 61′; Nasko Sirakov 90′",
+      "keyEvents": [
+        "Stoichkov broke the deadlock in the second half.",
+        "Sirakov added a late second.",
+        "Bulgaria’s win reshaped the final Group D order."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Hristo Stoichkov",
+          "team": "Bulgaria",
+          "role": "Decisive attacker",
+          "summary": "Scored the breakthrough and constantly challenged Argentina’s back line."
+        },
+        {
+          "name": "Nasko Sirakov",
+          "team": "Bulgaria",
+          "role": "Late assurance",
+          "summary": "Finished the match with the second goal."
+        },
+        {
+          "name": "Borislav Mihaylov",
+          "team": "Bulgaria",
+          "role": "Clean-sheet foundation",
+          "summary": "Handled Argentina’s attacks and gave Bulgaria confidence."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-20",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 21,
+    "title": "Knockout Chapter",
+    "match": "Germany vs Belgium",
+    "date": "July 2, 1994",
+    "city": "Chicago, Illinois",
+    "stage": "Round of 16",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9kdnsg",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:51:49",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The World Cup has entered its knockout phase. There are no more points, no second matches and no room to recover.",
+    "tournament": "Sixteen teams remain. Germany and Belgium have survived the group stage and now meet with a quarterfinal place at stake.",
+    "intro": "Germany bring the experience of defending champions. Belgium have shown they can navigate a difficult group. The structure changes everything: caution can preserve a match, but one mistake can end a tournament.",
+    "watchFor": "Pay attention to the first goal’s importance. In knockout football, it can alter both teams’ risk tolerance immediately.",
+    "postMatch": {
+      "score": "Germany 3–2 Belgium",
+      "halftime": "Halftime: 3–1",
+      "goal": "Rudi Völler 6′, 39′; Georges Grün 8′; Jürgen Klinsmann 10′; Philippe Albert 90′",
+      "keyEvents": [
+        "The teams exchanged three goals in the opening ten minutes.",
+        "Völler’s second gave Germany a two-goal halftime cushion.",
+        "Belgium scored late but could not force extra time."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Rudi Völler",
+          "team": "Germany",
+          "role": "Two-goal veteran",
+          "summary": "Punished Belgium’s defensive gaps with two composed finishes."
+        },
+        {
+          "name": "Jürgen Klinsmann",
+          "team": "Germany",
+          "role": "Constant threat",
+          "summary": "Scored and stretched Belgium throughout the first half."
+        },
+        {
+          "name": "Georges Grün",
+          "team": "Belgium",
+          "role": "Early response",
+          "summary": "Equalized quickly and kept Belgium competitive."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-21",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 22,
+    "title": "Knockout Chapter",
+    "match": "Spain vs Switzerland",
+    "date": "July 2, 1994",
+    "city": "Washington, D.C.",
+    "stage": "Round of 16",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9kfgb8",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:52:27",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The knockout stage continues across the country, with every match now creating the next round in real time.",
+    "tournament": "Spain and Switzerland have advanced from very different groups. One will leave Washington with its tournament still alive.",
+    "intro": "Spain bring technical quality and the expectation that comes with a talented squad. Switzerland have already shown resilience and organization. The longer the match remains level, the more pressure shifts toward the favorite.",
+    "watchFor": "Notice how Switzerland protect central areas and how Spain try to move the defense from side to side.",
+    "postMatch": {
+      "score": "Spain 3–0 Switzerland",
+      "halftime": "Halftime: 1–0",
+      "goal": "Fernando Hierro 15′; Luis Enrique 74′; Txiki Begiristain 86′ (pen.)",
+      "keyEvents": [
+        "Hierro scored early.",
+        "Spain added two second-half goals.",
+        "Switzerland’s tournament ended without finding a response."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Fernando Hierro",
+          "team": "Spain",
+          "role": "Set the tone",
+          "summary": "Scored early and led the defense."
+        },
+        {
+          "name": "Luis Enrique",
+          "team": "Spain",
+          "role": "Two-way influence",
+          "summary": "Pressed, ran beyond midfield and scored the second."
+        },
+        {
+          "name": "Andoni Zubizarreta",
+          "team": "Spain",
+          "role": "Clean-sheet security",
+          "summary": "Handled Switzerland’s limited chances confidently."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-22",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 23,
+    "title": "Knockout Chapter",
+    "match": "Saudi Arabia vs Sweden",
+    "date": "July 3, 1994",
+    "city": "Dallas, Texas",
+    "stage": "Round of 16",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9kfwuc",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:41:36",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "Dallas hosts another knockout match, and the heat is now part of the tournament’s competitive landscape.",
+    "tournament": "Saudi Arabia and Sweden have both emerged from the group stage with confidence and distinct identities.",
+    "intro": "Saudi Arabia are carrying the momentum of a memorable group campaign. Sweden bring experience, physical presence and a calmness suited to knockout football. The contrast is less about status than about who can impose the preferred rhythm.",
+    "watchFor": "Look for set pieces. In tight knockout games, dead-ball situations can become the clearest route to goal.",
+    "postMatch": {
+      "score": "Saudi Arabia 1–3 Sweden",
+      "halftime": "Halftime: 0–1",
+      "goal": "Martin Dahlin 6′; Kennet Andersson 51′, 88′; Fahad Al-Ghesheyan 85′",
+      "keyEvents": [
+        "Dahlin scored early.",
+        "Andersson added two second-half goals.",
+        "Saudi Arabia briefly threatened a comeback late."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Kennet Andersson",
+          "team": "Sweden",
+          "role": "Two-goal target",
+          "summary": "Dominated aerially and finished twice."
+        },
+        {
+          "name": "Martin Dahlin",
+          "team": "Sweden",
+          "role": "Fast start",
+          "summary": "Gave Sweden immediate control with an early goal."
+        },
+        {
+          "name": "Tomas Brolin",
+          "team": "Sweden",
+          "role": "Creative engine",
+          "summary": "Linked midfield and attack throughout."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-23",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 24,
+    "title": "Knockout Chapter",
+    "match": "Romania vs Argentina",
+    "date": "July 3, 1994",
+    "city": "Pasadena, California",
+    "stage": "Round of 16",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9khr56",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:53:38",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The Rose Bowl welcomes one of the round’s most anticipated matches.",
+    "tournament": "Romania have impressed in Group A. Argentina have advanced from Group D and arrive with enormous attention surrounding them.",
+    "intro": "Romania combine technical quality with a willingness to attack. Argentina possess individual talent and tournament experience. Both teams are capable of turning a quiet spell into a dangerous attack with very little warning.",
+    "watchFor": "Watch the midfielders receiving on the half-turn. Much of the match’s creativity begins in those moments.",
+    "postMatch": {
+      "score": "Romania 3–2 Argentina",
+      "halftime": "Halftime: 2–1",
+      "goal": "Ilie Dumitrescu 11′, 18′; Gabriel Batistuta 16′ (pen.); Gheorghe Hagi 58′; Abel Balbo 75′",
+      "keyEvents": [
+        "Three goals arrived in the opening 18 minutes.",
+        "Hagi extended Romania’s lead in the second half.",
+        "Balbo’s goal created a tense finish."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Ilie Dumitrescu",
+          "team": "Romania",
+          "role": "Two-goal spark",
+          "summary": "Scored twice early and repeatedly attacked Argentina’s defensive gaps."
+        },
+        {
+          "name": "Gheorghe Hagi",
+          "team": "Romania",
+          "role": "Creative master",
+          "summary": "Controlled transitions and scored the decisive third goal."
+        },
+        {
+          "name": "Gabriel Batistuta",
+          "team": "Argentina",
+          "role": "Persistent threat",
+          "summary": "Converted the penalty and kept Romania under pressure."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-24",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 25,
+    "title": "Knockout Chapter",
+    "match": "Netherlands vs Republic of Ireland",
+    "date": "July 4, 1994",
+    "city": "Orlando, Florida",
+    "stage": "Round of 16",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9kje8u",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:46:18",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The knockout schedule reaches Orlando, where the margins are narrowing with every match.",
+    "tournament": "The Netherlands and the Republic of Ireland have each survived groups that demanded patience and resilience.",
+    "intro": "The Netherlands want the ball and usually want the game played on their terms. Ireland are comfortable defending, competing and waiting for the match to offer them a moment. The longer the contest stays close, the more important concentration becomes.",
+    "watchFor": "Notice how Ireland defend the penalty area and how the Netherlands try to create width around it.",
+    "postMatch": {
+      "score": "Netherlands 2–0 Republic of Ireland",
+      "halftime": "Halftime: 2–0",
+      "goal": "Dennis Bergkamp 11′; Wim Jonk 41′",
+      "keyEvents": [
+        "Bergkamp scored early.",
+        "Jonk doubled the lead before halftime.",
+        "The Netherlands controlled the second half."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Dennis Bergkamp",
+          "team": "Netherlands",
+          "role": "Early breakthrough",
+          "summary": "Created separation with a composed finish."
+        },
+        {
+          "name": "Wim Jonk",
+          "team": "Netherlands",
+          "role": "Long-range quality",
+          "summary": "Scored the second and controlled midfield possession."
+        },
+        {
+          "name": "Frank de Boer",
+          "team": "Netherlands",
+          "role": "Defensive distribution",
+          "summary": "Helped the Dutch build calmly from the back."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-25",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 26,
+    "title": "Knockout Chapter",
+    "match": "Brazil vs United States",
+    "date": "July 4, 1994",
+    "city": "Palo Alto, California",
+    "stage": "Round of 16",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9kkjh4",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:48:30",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "Independence Day brings the host nation back onto the field, this time with no safety net.",
+    "tournament": "The United States have reached the knockout stage on home soil. Brazil stand between them and a place in the quarterfinals.",
+    "intro": "The hosts now face one of the tournament favorites. Brazil have been controlled and confident; the United States have relied on organization, energy and home support. The occasion guarantees emotion, but the match will still be decided by discipline.",
+    "watchFor": "Listen to the crowd whenever the United States cross midfield. The atmosphere is part of the pressure Brazil must manage.",
+    "postMatch": {
+      "score": "Brazil 1–0 United States",
+      "halftime": "Halftime: 0–0",
+      "goal": "Bebeto 72′",
+      "keyEvents": [
+        "Leonardo was sent off before halftime.",
+        "Brazil played with ten men for most of the second half.",
+        "Bebeto scored the only goal."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Bebeto",
+          "team": "Brazil",
+          "role": "Match winner",
+          "summary": "Found the decisive space and finished Brazil’s best move."
+        },
+        {
+          "name": "Romário",
+          "team": "Brazil",
+          "role": "Created the opening",
+          "summary": "His movement and combination play helped produce the goal."
+        },
+        {
+          "name": "Tony Meola",
+          "team": "United States",
+          "role": "Outstanding resistance",
+          "summary": "Made several saves and kept the hosts alive."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-26",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 27,
+    "title": "Knockout Chapter",
+    "match": "Nigeria vs Italy",
+    "date": "July 5, 1994",
+    "city": "Foxborough, Massachusetts",
+    "stage": "Round of 16",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9kn130",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:41:13 + 37:59",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist.",
+      "continuationUrl": "https://www.dailymotion.com/video/x9ko9aq",
+      "continuationLabel": "Continue: extra time / penalties"
+    },
+    "world": "The final day of the round of 16 begins in Foxborough.",
+    "tournament": "Nigeria have announced themselves as one of the tournament’s most exciting teams. Italy have survived a difficult group and remain dangerous.",
+    "intro": "Nigeria bring speed, confidence and little fear. Italy bring experience and the ability to remain alive in difficult matches. The contrast makes this one of the round’s most intriguing fixtures.",
+    "watchFor": "Do not stop after the regulation-time video. This archive splits the continuation into a separate link if the match requires it.",
+    "postMatch": {
+      "score": "Nigeria 1–2 Italy (a.e.t.)",
+      "halftime": "Halftime: 1–0",
+      "goal": "Emmanuel Amunike 25′; Roberto Baggio 88′, 102′ (pen.)",
+      "keyEvents": [
+        "Nigeria led until the 88th minute.",
+        "Roberto Baggio forced extra time.",
+        "His penalty in extra time completed Italy’s comeback."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Roberto Baggio",
+          "team": "Italy",
+          "role": "Tournament-saving performance",
+          "summary": "Scored both goals under enormous pressure."
+        },
+        {
+          "name": "Emmanuel Amunike",
+          "team": "Nigeria",
+          "role": "Opened the match",
+          "summary": "Put Nigeria ahead and remained a direct threat."
+        },
+        {
+          "name": "Dino Baggio",
+          "team": "Italy",
+          "role": "Midfield resilience",
+          "summary": "Helped Italy survive with ten men and reach extra time."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-27",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 28,
+    "title": "Knockout Chapter",
+    "match": "Mexico vs Bulgaria",
+    "date": "July 5, 1994",
+    "city": "East Rutherford, New Jersey",
+    "stage": "Round of 16",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9kqjzu",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:51:48 + 46:59",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist.",
+      "continuationUrl": "https://www.dailymotion.com/video/x9kqn50",
+      "continuationLabel": "Continue: extra time / penalties"
+    },
+    "world": "The last round-of-16 place is decided in New Jersey.",
+    "tournament": "Mexico and Bulgaria have both navigated demanding groups and now face the possibility of extra time or penalties.",
+    "intro": "Mexico bring technical control and strong support. Bulgaria have attacking quality and the belief earned from their group campaign. At this stage, the match can become as much a test of nerve as of football.",
+    "watchFor": "The replay may continue in a second video. Use the continuation link without looking at comments or recommendations.",
+    "postMatch": {
+      "score": "Mexico 1–1 Bulgaria (Bulgaria won 3–1 on pens)",
+      "halftime": "Halftime: 1–1",
+      "goal": "Hristo Stoichkov 7′; Alberto García Aspe 18′ (pen.)",
+      "keyEvents": [
+        "Both goals came in the first 18 minutes.",
+        "The match remained level through extra time.",
+        "Bulgaria won the penalty shootout 3–1."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Borislav Mihaylov",
+          "team": "Bulgaria",
+          "role": "Shootout hero",
+          "summary": "Made decisive saves in the penalty shootout."
+        },
+        {
+          "name": "Hristo Stoichkov",
+          "team": "Bulgaria",
+          "role": "Early scorer",
+          "summary": "Opened the match with another forceful finish."
+        },
+        {
+          "name": "Jorge Campos",
+          "team": "Mexico",
+          "role": "Kept Mexico alive",
+          "summary": "Made important saves through regulation and extra time."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-28",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 29,
+    "title": "Knockout Chapter",
+    "match": "Italy vs Spain",
+    "date": "July 9, 1994",
+    "city": "Foxborough, Massachusetts",
+    "stage": "Quarterfinal",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9ksn32",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:47:36",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The quarterfinals begin. Eight teams remain, and the tournament’s shape is becoming clearer without becoming predictable.",
+    "tournament": "Italy and Spain have survived very different paths to reach Foxborough.",
+    "intro": "Spain arrive with technical confidence. Italy have repeatedly found ways to stay alive under pressure. Quarterfinals often reward the team that manages emotion and game state rather than the team that simply attacks more.",
+    "watchFor": "Notice the duel between patience and urgency. Both teams can keep the ball, but neither wants to be exposed after losing it.",
+    "postMatch": {
+      "score": "Italy 2–1 Spain",
+      "halftime": "Halftime: 1–0",
+      "goal": "Dino Baggio 25′; José Luis Caminero 58′; Roberto Baggio 88′",
+      "keyEvents": [
+        "Dino Baggio gave Italy the lead.",
+        "Caminero equalized in the second half.",
+        "Roberto Baggio scored the winner late."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Roberto Baggio",
+          "team": "Italy",
+          "role": "Late match winner",
+          "summary": "Produced the decisive finish when extra time seemed likely."
+        },
+        {
+          "name": "Dino Baggio",
+          "team": "Italy",
+          "role": "Midfield scoring threat",
+          "summary": "Opened the scoring and covered enormous ground."
+        },
+        {
+          "name": "José Luis Caminero",
+          "team": "Spain",
+          "role": "Equalizer and drive",
+          "summary": "Restored Spain’s belief and pushed the team forward."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-29",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 30,
+    "title": "Knockout Chapter",
+    "match": "Netherlands vs Brazil",
+    "date": "July 9, 1994",
+    "city": "Dallas, Texas",
+    "stage": "Quarterfinal",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9ku6ro",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:51:36",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "Dallas hosts a quarterfinal between two of the tournament’s most recognizable football nations.",
+    "tournament": "The Netherlands and Brazil have each advanced with their attacking identity intact.",
+    "intro": "Brazil have looked composed and efficient. The Netherlands have the structure and talent to challenge any opponent. This is a meeting of two teams comfortable with the ball, but not necessarily comfortable without it.",
+    "watchFor": "Watch how quickly both sides attack after regaining possession. The first few seconds after a turnover are especially dangerous.",
+    "postMatch": {
+      "score": "Netherlands 2–3 Brazil",
+      "halftime": "Halftime: 0–0",
+      "goal": "Romário 53′; Bebeto 63′; Dennis Bergkamp 64′; Aron Winter 76′; Branco 81′",
+      "keyEvents": [
+        "All five goals came in the second half.",
+        "The Netherlands recovered from two goals down.",
+        "Branco’s free kick decided the quarterfinal."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Branco",
+          "team": "Brazil",
+          "role": "Decisive free kick",
+          "summary": "Scored the winning goal from distance."
+        },
+        {
+          "name": "Romário",
+          "team": "Brazil",
+          "role": "Opened the game",
+          "summary": "His finish transformed a tense match."
+        },
+        {
+          "name": "Dennis Bergkamp",
+          "team": "Netherlands",
+          "role": "Comeback catalyst",
+          "summary": "Responded immediately and reignited the Netherlands."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-30",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 31,
+    "title": "Knockout Chapter",
+    "match": "Bulgaria vs Germany",
+    "date": "July 10, 1994",
+    "city": "East Rutherford, New Jersey",
+    "stage": "Quarterfinal",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9kx414",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:47:22",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The quarterfinals move to New Jersey, where the defending champions face one of the tournament’s growing stories.",
+    "tournament": "Germany have reached another major knockout match. Bulgaria arrive with confidence from a strong group stage and round-of-16 victory.",
+    "intro": "Germany carry experience, structure and the expectation of progress. Bulgaria possess creative players capable of changing a match suddenly. The longer the game stays close, the more belief matters.",
+    "watchFor": "Pay attention to free kicks around the penalty area. Both teams have players capable of making those moments decisive.",
+    "postMatch": {
+      "score": "Bulgaria 2–1 Germany",
+      "halftime": "Halftime: 0–0",
+      "goal": "Lothar Matthäus 47′ (pen.); Hristo Stoichkov 75′; Yordan Letchkov 78′",
+      "keyEvents": [
+        "Germany led from a penalty.",
+        "Stoichkov equalized with a free kick.",
+        "Letchkov scored the winner three minutes later."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Hristo Stoichkov",
+          "team": "Bulgaria",
+          "role": "Changed the match",
+          "summary": "His free kick erased Germany’s lead and shifted momentum."
+        },
+        {
+          "name": "Yordan Letchkov",
+          "team": "Bulgaria",
+          "role": "Historic winner",
+          "summary": "Timed his run perfectly to head Bulgaria in front."
+        },
+        {
+          "name": "Borislav Mihaylov",
+          "team": "Bulgaria",
+          "role": "Defensive confidence",
+          "summary": "Kept Bulgaria close until the late turnaround."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-31",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 32,
+    "title": "Knockout Chapter",
+    "match": "Romania vs Sweden",
+    "date": "July 10, 1994",
+    "city": "Palo Alto, California",
+    "stage": "Quarterfinal",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9l265e",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:48:33 + 51:05",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist.",
+      "continuationUrl": "https://www.dailymotion.com/video/x9l2ija",
+      "continuationLabel": "Continue: extra time / penalties"
+    },
+    "world": "The final quarterfinal takes place in California with the last semifinal place at stake.",
+    "tournament": "Romania and Sweden have each produced convincing reasons to believe their tournament can continue.",
+    "intro": "Romania bring imagination and attacking confidence. Sweden bring organization, aerial strength and calm. Neither team sees itself as an outsider anymore.",
+    "watchFor": "This replay may require a continuation video. Avoid opening the second link until the first video ends.",
+    "postMatch": {
+      "score": "Romania 2–2 Sweden (Sweden won 5–4 on pens)",
+      "halftime": "Halftime: 0–0",
+      "goal": "Tomas Brolin 78′; Florin Răducioiu 88′, 101′; Kennet Andersson 115′",
+      "keyEvents": [
+        "Romania equalized late in regulation.",
+        "Răducioiu scored again in extra time.",
+        "Andersson forced penalties, where Sweden won 5–4."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Thomas Ravelli",
+          "team": "Sweden",
+          "role": "Shootout hero",
+          "summary": "Saved the decisive penalty and kept Sweden alive earlier."
+        },
+        {
+          "name": "Florin Răducioiu",
+          "team": "Romania",
+          "role": "Two-goal performance",
+          "summary": "Scored in regulation and extra time."
+        },
+        {
+          "name": "Kennet Andersson",
+          "team": "Sweden",
+          "role": "Late rescue",
+          "summary": "Equalized in extra time with an aerial finish."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-32",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 33,
+    "title": "Knockout Chapter",
+    "match": "Bulgaria vs Italy",
+    "date": "July 13, 1994",
+    "city": "East Rutherford, New Jersey",
+    "stage": "Semifinal",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9l4nb0",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:50:24",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The semifinals begin. Four teams remain, and every player is now one match from the final.",
+    "tournament": "Bulgaria and Italy have survived pressure, close games and changing expectations to reach New Jersey.",
+    "intro": "Bulgaria are playing with the freedom of a team that has already exceeded many outside expectations. Italy bring the experience of a traditional power and the resilience of a team repeatedly tested.",
+    "watchFor": "Notice how the match changes after the first clear chance. Semifinals can be cautious until one moment alters the emotional balance.",
+    "postMatch": {
+      "score": "Bulgaria 1–2 Italy",
+      "halftime": "Halftime: 1–2",
+      "goal": "Roberto Baggio 21′, 25′; Hristo Stoichkov 44′ (pen.)",
+      "keyEvents": [
+        "Roberto Baggio scored twice in four minutes.",
+        "Stoichkov pulled one back before halftime.",
+        "Italy protected the lead through the second half."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Roberto Baggio",
+          "team": "Italy",
+          "role": "Semifinal difference",
+          "summary": "Scored both Italian goals with precision."
+        },
+        {
+          "name": "Hristo Stoichkov",
+          "team": "Bulgaria",
+          "role": "Kept hope alive",
+          "summary": "Converted the penalty and remained Bulgaria’s main threat."
+        },
+        {
+          "name": "Franco Baresi",
+          "team": "Italy",
+          "role": "Defensive leadership",
+          "summary": "Organized Italy through sustained second-half pressure."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-33",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 34,
+    "title": "Knockout Chapter",
+    "match": "Sweden vs Brazil",
+    "date": "July 13, 1994",
+    "city": "Pasadena, California",
+    "stage": "Semifinal",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9l4nay",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:45:14",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "The second semifinal brings the tournament back to the Rose Bowl.",
+    "tournament": "Sweden and Brazil have already met once in the group stage. Now the consequence is entirely different.",
+    "intro": "Familiarity removes some uncertainty but increases the tactical tension. Brazil know Sweden’s strengths; Sweden know Brazil’s patterns. A place in the final now depends on who adapts better.",
+    "watchFor": "Compare the opening to their earlier meeting. Knockout stakes can change the pace and risk level of the same matchup.",
+    "postMatch": {
+      "score": "Sweden 0–1 Brazil",
+      "halftime": "Halftime: 0–0",
+      "goal": "Romário 80′",
+      "keyEvents": [
+        "Sweden defended deep and kept the match level for 80 minutes.",
+        "Romário scored with a header.",
+        "Brazil protected the narrow lead to the final whistle."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Romário",
+          "team": "Brazil",
+          "role": "Semifinal winner",
+          "summary": "Found space in a crowded penalty area and scored the decisive header."
+        },
+        {
+          "name": "Jorginho",
+          "team": "Brazil",
+          "role": "Created the goal",
+          "summary": "Delivered the cross for Romário and provided width."
+        },
+        {
+          "name": "Thomas Ravelli",
+          "team": "Sweden",
+          "role": "Strong resistance",
+          "summary": "Made saves that kept Sweden in the contest."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-34",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 35,
+    "title": "Knockout Chapter",
+    "match": "Sweden vs Bulgaria",
+    "date": "July 16, 1994",
+    "city": "Pasadena, California",
+    "stage": "Third Place",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9l75na",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:45:07",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist."
+    },
+    "world": "One match remains before the final, but this game has its own meaning for two teams closing memorable campaigns.",
+    "tournament": "Sweden and Bulgaria meet for third place after falling one step short of the final.",
+    "intro": "The emotional challenge is unusual: both teams must recover quickly from semifinal disappointment and find a reason to finish strongly. These matches can become open because the fear of elimination has already passed.",
+    "watchFor": "Expect more freedom than in the semifinals. Players often take risks they might avoid in a knockout match.",
+    "postMatch": {
+      "score": "Sweden 4–0 Bulgaria",
+      "halftime": "Halftime: 4–0",
+      "goal": "Tomas Brolin 8′; Mild 30′; Henrik Larsson 37′; Kennet Andersson 39′",
+      "keyEvents": [
+        "Sweden scored four times in the first half.",
+        "Brolin opened the scoring early.",
+        "The second half was played at a calmer pace."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Tomas Brolin",
+          "team": "Sweden",
+          "role": "Set the tone",
+          "summary": "Scored early and drove Sweden’s attacking play."
+        },
+        {
+          "name": "Kennet Andersson",
+          "team": "Sweden",
+          "role": "Aerial presence",
+          "summary": "Added the fourth and occupied Bulgaria’s defense."
+        },
+        {
+          "name": "Henrik Larsson",
+          "team": "Sweden",
+          "role": "Young impact",
+          "summary": "Scored his first World Cup goal in a lively performance."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-35",
+    "tournamentId": "usa-1994"
+  },
+  {
+    "n": 36,
+    "title": "Knockout Chapter",
+    "match": "Brazil vs Italy",
+    "date": "July 17, 1994",
+    "city": "Pasadena, California",
+    "stage": "Final",
+    "replay": {
+      "url": "https://www.dailymotion.com/video/x9l7piu",
+      "source": "Old Football Matches / Dailymotion",
+      "status": "full_match_verified",
+      "label": "Watch full match",
+      "runtime": "1:44:57 + 1:30:07",
+      "verifiedDate": "2026-07-20",
+      "note": "Correct matchup and full-match-length runtime confirmed from the archive playlist.",
+      "continuationUrl": "https://www.dailymotion.com/video/x9l7q3q",
+      "continuationLabel": "Continue: extra time / penalties"
+    },
+    "world": "After one month, the tournament reaches its final match at the Rose Bowl.",
+    "tournament": "Brazil and Italy are the last two teams standing. Everything before this has led to one final afternoon.",
+    "intro": "Both nations understand this stage and the weight attached to it. Brazil have built their campaign around control, movement and attacking quality. Italy have survived adversity and reached the final through resilience and discipline. There is no next match.",
+    "watchFor": "The archive splits the continuation if extra time or penalties are required. Finish the regulation video before opening the second link.",
+    "postMatch": {
+      "score": "Brazil 0–0 Italy (Brazil won 3–2 on pens)",
+      "halftime": "Halftime: 0–0",
+      "goal": "No goals — Brazil won the shootout 3–2",
+      "keyEvents": [
+        "The final remained scoreless through 120 minutes.",
+        "Brazil converted three penalties in the shootout.",
+        "Cláudio Taffarel saved Massaro’s penalty before Roberto Baggio missed the final kick."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Cláudio Taffarel",
+          "team": "Brazil",
+          "role": "Shootout hero",
+          "summary": "Saved a penalty and projected calm throughout the shootout."
+        },
+        {
+          "name": "Franco Baresi",
+          "team": "Italy",
+          "role": "Defensive masterclass",
+          "summary": "Returned from injury and led Italy through 120 scoreless minutes."
+        },
+        {
+          "name": "Romário",
+          "team": "Brazil",
+          "role": "Persistent attacking threat",
+          "summary": "Created Brazil’s most dangerous moments and converted in the shootout."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive."
+    },
+    "id": "usa-1994-36",
+    "tournamentId": "usa-1994"
+  }
+]
