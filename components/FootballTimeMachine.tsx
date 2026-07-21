@@ -123,16 +123,23 @@ export function FootballTimeMachine() {
       {screen.type === "home" && (
         <>
           <section className="home-hero">
-            <div className="hero-noise" />
             <div className="hero-copy">
               <p className="kicker">A SPOILER-FREE ARCHIVE OF FOOTBALL HISTORY</p>
-              <h1>THE PAST.<br/><em>LIVE AGAIN.</em></h1>
-              <p className="hero-dek">Step into classic tournaments without knowing what happens next.</p>
-              <button className="cta" onClick={()=>setScreen({type:"collection"})}>Enter the World Cups</button>
+              <h1>EXPERIENCE<br/><em>THE STORY.</em></h1>
+              <p className="hero-dek">Classic tournaments, revealed one match at a time. No brackets. No hindsight. No spoilers.</p>
+              <div className="hero-actions">
+                <button className="cta" onClick={()=>setScreen({type:"collection"})}>Explore World Cups</button>
+                <span className="hero-status"><b>USA ’94</b> available now</span>
+              </div>
             </div>
-            <div className="year-stack" aria-hidden="true">
-              <span>94</span><span>98</span><span>02</span>
-            </div>
+            <aside className="hero-manifesto">
+              <span>HOW IT WORKS</span>
+              <ol>
+                <li><b>01</b><div><strong>Read the moment</strong><small>Only what was known before kickoff.</small></div></li>
+                <li><b>02</b><div><strong>Watch the match</strong><small>Full replays, curated in order.</small></div></li>
+                <li><b>03</b><div><strong>Unlock the story</strong><small>Scores, key moments and impact players.</small></div></li>
+              </ol>
+            </aside>
           </section>
           <section className="shelf">
             <div className="shelf-head">
@@ -140,11 +147,13 @@ export function FootballTimeMachine() {
               <p>World Cups are only the beginning.</p>
             </div>
             <div className="collection-grid">
-              <button className="collection-card live" onClick={()=>setScreen({type:"collection"})}>
-                <span>COLLECTION ONE</span><h3>World Cups</h3><p>1994–2022</p><strong>Explore collection →</strong>
+              <button className="collection-card live world-cup-cover" onClick={()=>setScreen({type:"collection"})}>
+                <div className="collection-index">01</div>
+                <span>ACTIVE COLLECTION</span><h3>World Cups</h3><p>Eight tournaments from 1994 to 2022.</p><strong>Explore collection →</strong>
               </button>
               {["Champions League","European Championships","Copa América","Women’s World Cup"].map(name=>(
                 <article className="collection-card muted-card" key={name}>
+                  <div className="collection-index">—</div>
                   <span>FUTURE COLLECTION</span><h3>{name}</h3><p>Coming soon</p>
                 </article>
               ))}
@@ -196,6 +205,17 @@ export function FootballTimeMachine() {
               <strong>{activeSeason.episodes.length}</strong><span>matches</span>
             </div>
           </section>
+          {activeSeason.status==="available" && (()=>{
+            const nextEpisode = activeSeason.episodes.find(ep=>!completed.has(ep.n) && unlocked(ep.n)) ?? activeSeason.episodes[0];
+            return <section className="continue-panel">
+              <div className="continue-copy">
+                <span>{completed.size===0?"BEGIN THE TOURNAMENT":"CONTINUE YOUR JOURNEY"}</span>
+                <strong>{nextEpisode.title}</strong>
+                <p>{nextEpisode.match} · {nextEpisode.date}</p>
+              </div>
+              <button onClick={()=>setSelectedEpisode(nextEpisode)}>{completed.size===0?"Start Episode 1":"Continue watching"} →</button>
+            </section>;
+          })()}
           <section className="progress-panel">
             <div><span>YOUR PROGRESS</span><strong>{completed.size} of {activeSeason.episodes.length} complete</strong></div>
             <div className="progress-track"><div style={{width:`${activeSeason.episodes.length ? completed.size/activeSeason.episodes.length*100 : 0}%`}} /></div>
@@ -217,11 +237,11 @@ export function FootballTimeMachine() {
                     disabled={!isUnlocked}
                     onClick={()=>setSelectedEpisode(ep)}
                   >
-                    <span>EPISODE {String(ep.n).padStart(2,"0")}</span>
+                    <div className="episode-topline"><span>EPISODE {String(ep.n).padStart(2,"0")}</span><small>{ep.stage}</small></div>
                     <h3>{hidden?"CLASSIFIED":ep.title}</h3>
                     <p>{hidden?"Fixture hidden":ep.match}</p>
-                    <small>{ep.stage} · {hidden?"Unlock to reveal":ep.date}</small>
-                    <strong>{done?"✓ COMPLETED":isUnlocked?"WATCH":"LOCKED"}</strong>
+                    <small className="episode-date">{hidden?"Unlock to reveal":ep.date}</small>
+                    <strong>{done?"✓ COMPLETED":isUnlocked?"OPEN MATCH":"LOCKED"}</strong>
                   </button>
                 );
               })}
