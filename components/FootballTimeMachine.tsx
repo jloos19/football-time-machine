@@ -3,12 +3,14 @@
 import { useEffect, useMemo, useState } from "react";
 import { Episode, Season, seasons } from "@/data/seasons";
 import { HomePage } from "@/components/home/HomePage";
-import { progressKey } from "@/lib/progress";
+import { TournamentIntro } from "@/components/TournamentIntro";
+import { progressKey, markJourneyEntered } from "@/lib/progress";
 
 type Screen =
   | { type: "home" }
   | { type: "collection" }
-  | { type: "season"; seasonId: string };
+  | { type: "tournament-intro"; seasonId: string; returnTo: "home" | "collection" }
+  | { type: "season"; seasonId: string; returnTo: "home" | "collection" };
 
 const GROUPS_94: Record<string, string[]> = {
   A: ["United States", "Switzerland", "Romania", "Colombia"],
@@ -87,11 +89,31 @@ export function FootballTimeMachine() {
   const [screen, setScreen] = useState<Screen>({type:"home"});
   const [selectedEpisode, setSelectedEpisode] = useState<Episode | null>(null);
   const [completed, setCompleted] = useState<Set<number>>(new Set());
+  const [progressRevision, setProgressRevision] = useState(0);
 
   const activeSeason = useMemo(() => {
-    if (screen.type !== "season") return null;
+    if (screen.type !== "season" && screen.type !== "tournament-intro") return null;
     return seasons.find(s => s.id === screen.seasonId) ?? null;
   }, [screen]);
+
+  const introSeason = useMemo(() => {
+    if (screen.type !== "tournament-intro") return null;
+    return seasons.find(s => s.id === screen.seasonId) ?? null;
+  }, [screen]);
+
+  function navigateToSeason(seasonId: string, returnTo: "home" | "collection") {
+    const season = seasons.find(s => s.id === seasonId);
+    if (season?.intro) {
+      setScreen({ type: "tournament-intro", seasonId, returnTo });
+      return;
+    }
+    setScreen({ type: "season", seasonId, returnTo });
+  }
+
+  function enterJourney(seasonId: string, returnTo: "home" | "collection") {
+    markJourneyEntered(seasonId);
+    setScreen({ type: "season", seasonId, returnTo });
+  }
 
   useEffect(() => {
     if (!activeSeason) return;
@@ -103,6 +125,7 @@ export function FootballTimeMachine() {
     if (!activeSeason) return;
     setCompleted(next);
     localStorage.setItem(progressStorageKey(activeSeason.id), JSON.stringify([...next]));
+    setProgressRevision((revision) => revision + 1);
   }
 
   function toggleComplete(ep: Episode) {
@@ -114,8 +137,12 @@ export function FootballTimeMachine() {
   const unlocked = (n:number) => n === 1 || completed.has(n-1);
 
   return (
-    <main className={screen.type === "home" ? "main--home" : "main--app"}>
-      {screen.type !== "home" && (
+    <main className={
+      screen.type === "home" ? "main--home"
+      : screen.type === "tournament-intro" ? "main--intro"
+      : "main--app"
+    }>
+      {screen.type !== "home" && screen.type !== "tournament-intro" && (
         <header className="topbar">
           <button onClick={() => setScreen({ type: "home" })} className="wordmark">
             Football <span>Time Machine</span>
@@ -130,8 +157,20 @@ export function FootballTimeMachine() {
 
       {screen.type === "home" && (
         <HomePage
+          progressRevision={progressRevision}
           onNavigateToWorldCups={() => setScreen({ type: "collection" })}
-          onSelectSeason={(seasonId) => setScreen({ type: "season", seasonId })}
+          onSelectSeason={(seasonId) => navigateToSeason(seasonId, "home")}
+        />
+      )}
+
+      {screen.type === "tournament-intro" && introSeason?.intro && (
+        <TournamentIntro
+          season={introSeason}
+          onEnter={() => enterJourney(introSeason.id, screen.returnTo)}
+          onBack={() => {
+            setScreen({ type: screen.returnTo });
+            setProgressRevision((revision) => revision + 1);
+          }}
         />
       )}
 
@@ -154,7 +193,7 @@ export function FootballTimeMachine() {
                   key={season.id}
                   className={`season-card ${season.theme} ${season.status}`}
                   disabled={season.status==="coming-soon"}
-                  onClick={()=>setScreen({type:"season",seasonId:season.id})}
+                  onClick={() => navigateToSeason(season.id, "collection")}
                 >
                   <span className="season-year">{season.year}</span>
                   <h3>{season.name}</h3>
@@ -167,31 +206,48 @@ export function FootballTimeMachine() {
         </>
       )}
 
-      {screen.type === "season" && activeSeason && (
+      {screen.type === "season" && activeSeason && (() => {
+        const matchTotal = activeSeason.episodes.length;
+        const allComplete = matchTotal > 0 && activeSeason.episodes.every((ep) => completed.has(ep.n));
+        const nextMatch = activeSeason.episodes.find((ep) => !completed.has(ep.n) && unlocked(ep.n)) ?? null;
+
+        return (
         <>
           <section className={`season-hero ${activeSeason.theme}`}>
-            <button className="back" onClick={()=>setScreen({type:"collection"})}>← World Cups</button>
+            <button className="back" onClick={() => setScreen({ type: screen.returnTo })}>← World Cups</button>
             <p className="kicker">{activeSeason.status==="available"?"TOURNAMENT EDITION":"SEASON IN DEVELOPMENT"}</p>
             <h1>{activeSeason.name}</h1>
             <p>{activeSeason.tagline}</p>
-            <div className="season-stat">
-              <strong>{activeSeason.episodes.length}</strong><span>matches</span>
+            <div className="season-stat" aria-label={`${completed.size} of ${matchTotal} matches complete`}>
+              <strong>{completed.size}</strong>
+              <span className="season-stat-total">of {matchTotal}</span>
+              <span className="season-stat-label">matches</span>
             </div>
           </section>
-          {activeSeason.status==="available" && (()=>{
-            const nextEpisode = activeSeason.episodes.find(ep=>!completed.has(ep.n) && unlocked(ep.n)) ?? activeSeason.episodes[0];
-            return <section className="continue-panel">
+          {activeSeason.status==="available" && allComplete && (
+            <section className="continue-panel continue-panel--complete">
+              <div className="continue-copy">
+                <span>JOURNEY COMPLETE</span>
+                <strong>{activeSeason.name}</strong>
+                <p>All {matchTotal} matches experienced.</p>
+              </div>
+            </section>
+          )}
+          {activeSeason.status==="available" && !allComplete && nextMatch && (
+            <section className="continue-panel">
               <div className="continue-copy">
                 <span>{completed.size===0?"BEGIN THE TOURNAMENT":"CONTINUE YOUR JOURNEY"}</span>
-                <strong>{nextEpisode.title}</strong>
-                <p>{nextEpisode.match} · {nextEpisode.date}</p>
+                <strong>Match {String(nextMatch.n).padStart(2,"0")} · {nextMatch.title}</strong>
+                <p>{nextMatch.match} · {nextMatch.date}</p>
               </div>
-              <button onClick={()=>setSelectedEpisode(nextEpisode)}>{completed.size===0?"Start Episode 1":"Continue watching"} →</button>
-            </section>;
-          })()}
+              <button onClick={()=>setSelectedEpisode(nextMatch)}>
+                {completed.size===0?`Start Match ${nextMatch.n}`:"Continue Watching"} →
+              </button>
+            </section>
+          )}
           <section className="progress-panel">
-            <div><span>YOUR PROGRESS</span><strong>{completed.size} of {activeSeason.episodes.length} complete</strong></div>
-            <div className="progress-track"><div style={{width:`${activeSeason.episodes.length ? completed.size/activeSeason.episodes.length*100 : 0}%`}} /></div>
+            <div><span>YOUR PROGRESS</span><strong>{completed.size} of {matchTotal} complete</strong></div>
+            <div className="progress-track"><div style={{width:`${matchTotal ? completed.size/matchTotal*100 : 0}%`}} /></div>
           </section>
           <section className="episodes-section">
             <div className="section-title">
@@ -203,31 +259,40 @@ export function FootballTimeMachine() {
                 const isUnlocked = activeSeason.status==="available" && unlocked(ep.n);
                 const hidden = activeSeason.status==="available" && !isUnlocked && ep.n > 20;
                 const done = completed.has(ep.n);
+                const isNext = nextMatch?.n === ep.n;
+                const statusLabel = done
+                  ? "✓ COMPLETED"
+                  : isNext
+                    ? completed.size > 0 ? "CONTINUE MATCH" : "OPEN MATCH"
+                    : isUnlocked
+                      ? "OPEN MATCH"
+                      : "LOCKED";
                 return (
                   <button
                     key={ep.id}
-                    className={`episode-card ${done?"done":""} ${!isUnlocked?"locked":""}`}
+                    className={`episode-card ${done?"done":""} ${isNext?"next":""} ${!isUnlocked?"locked":""}`}
                     disabled={!isUnlocked}
                     onClick={()=>setSelectedEpisode(ep)}
                   >
-                    <div className="episode-topline"><span>EPISODE {String(ep.n).padStart(2,"0")}</span><small>{ep.stage}</small></div>
+                    <div className="episode-topline"><span>MATCH {String(ep.n).padStart(2,"0")}</span><small>{ep.stage}</small></div>
                     <h3>{hidden?"CLASSIFIED":ep.title}</h3>
                     <p>{hidden?"Fixture hidden":ep.match}</p>
                     <small className="episode-date">{hidden?"Unlock to reveal":ep.date}</small>
-                    <strong>{done?"✓ COMPLETED":isUnlocked?"OPEN MATCH":"LOCKED"}</strong>
+                    <strong>{statusLabel}</strong>
                   </button>
                 );
               })}
             </div>
           </section>
         </>
-      )}
+        );
+      })()}
 
       {selectedEpisode && activeSeason && (
         <div className="modal-backdrop" onMouseDown={()=>setSelectedEpisode(null)}>
           <article className="episode-modal" onMouseDown={e=>e.stopPropagation()}>
             <button className="close" onClick={()=>setSelectedEpisode(null)}>×</button>
-            <p className="kicker red">EPISODE {selectedEpisode.n}</p>
+            <p className="kicker red">MATCH {String(selectedEpisode.n).padStart(2, "0")}</p>
             <h2>{selectedEpisode.title}</h2>
             <h3 className="match-name">{selectedEpisode.match}</h3>
             <p className="episode-meta">{selectedEpisode.date} · {selectedEpisode.city} {selectedEpisode.replay?.runtime ? `· ${selectedEpisode.replay.runtime}` : ""}</p>
@@ -276,7 +341,7 @@ export function FootballTimeMachine() {
         </div>
       )}
 
-      {screen.type !== "home" && (
+      {screen.type !== "home" && screen.type !== "tournament-intro" && (
         <footer className="app-footer">Where football history is experienced—not explained.</footer>
       )}
     </main>

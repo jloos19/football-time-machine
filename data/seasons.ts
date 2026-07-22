@@ -41,6 +41,16 @@ export type Episode = {
   status?: string;
 };
 
+export type TournamentIntroContent = {
+  eyebrow: string;
+  dateRange: string;
+  tagline: string;
+  body: string[];
+  ctaBegin: string;
+  ctaContinue: string;
+  backLabel: string;
+};
+
 export type Season = {
   id: string;
   year: number;
@@ -50,6 +60,7 @@ export type Season = {
   theme: "usa94" | "france98" | "korea2002" | "germany2006" | "sa2010" | "brazil2014";
   status: "available" | "in-development" | "coming-soon";
   episodes: Episode[];
+  intro?: TournamentIntroContent;
 };
 
 export const seasons: Season[] = [
@@ -62,6 +73,18 @@ export const seasons: Season[] = [
     theme: "usa94",
     status: "available",
     episodes: usa1994 as Episode[],
+    intro: {
+      eyebrow: "WORLD CUP JOURNEY",
+      dateRange: "June 17 – July 17, 1994",
+      tagline: "A nation prepares to host the world’s game.",
+      body: [
+        "For the first time, football’s greatest tournament arrives in the United States. Twenty-four nations come carrying expectation, pressure and possibility. Some are established powers. Others are about to introduce themselves to the world.",
+        "No one knows which story will define the summer.",
+      ],
+      ctaBegin: "Begin Journey",
+      ctaContinue: "Continue Journey",
+      backLabel: "Back to World Cups",
+    },
   },
   {
     id: "france-1998",

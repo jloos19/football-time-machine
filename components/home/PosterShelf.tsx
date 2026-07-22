@@ -2,14 +2,15 @@
 
 import { useEffect, useState } from "react";
 import { worldCupPosters } from "@/data/worldCupPosters";
-import { readProgress } from "@/lib/progress";
+import { getSeasonMatchTotal, readProgress } from "@/lib/progress";
 import { WorldCupPoster } from "./WorldCupPoster";
 
 type PosterShelfProps = {
   onSelectSeason: (seasonId: string) => void;
+  progressRevision?: number;
 };
 
-export function PosterShelf({ onSelectSeason }: PosterShelfProps) {
+export function PosterShelf({ onSelectSeason, progressRevision = 0 }: PosterShelfProps) {
   const [progress, setProgress] = useState<Record<string, number>>({});
 
   useEffect(() => {
@@ -18,7 +19,7 @@ export function PosterShelf({ onSelectSeason }: PosterShelfProps) {
       next[poster.seasonId] = readProgress(poster.seasonId);
     });
     setProgress(next);
-  }, []);
+  }, [progressRevision]);
 
   return (
     <section className="poster-shelf" id="archive" aria-labelledby="poster-shelf-title">
@@ -43,6 +44,7 @@ export function PosterShelf({ onSelectSeason }: PosterShelfProps) {
             <WorldCupPoster
               poster={poster}
               completed={progress[poster.seasonId] ?? 0}
+              matchTotal={getSeasonMatchTotal(poster.seasonId)}
               onSelect={onSelectSeason}
             />
           </div>

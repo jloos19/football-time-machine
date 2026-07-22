@@ -1,4 +1,3 @@
-import { WORLD_CUP_MATCH_TOTAL } from "@/lib/progress";
 import { getPosterImagePath } from "@/lib/posters";
 import type { WorldCupPosterData } from "@/data/worldCupPosters";
 import { Poster } from "@/components/Poster";
@@ -6,12 +5,13 @@ import { Poster } from "@/components/Poster";
 type WorldCupPosterProps = {
   poster: WorldCupPosterData;
   completed: number;
+  matchTotal: number;
   onSelect: (seasonId: string) => void;
 };
 
-export function WorldCupPoster({ poster, completed, onSelect }: WorldCupPosterProps) {
+export function WorldCupPoster({ poster, completed, matchTotal, onSelect }: WorldCupPosterProps) {
   const isAvailable = poster.status === "available" || poster.status === "in-development";
-  const progressPct = (completed / WORLD_CUP_MATCH_TOTAL) * 100;
+  const progressPct = matchTotal > 0 ? (completed / matchTotal) * 100 : 0;
 
   return (
     <button
@@ -19,7 +19,7 @@ export function WorldCupPoster({ poster, completed, onSelect }: WorldCupPosterPr
       className={`world-cup-poster ${!isAvailable ? "world-cup-poster--locked" : ""}`}
       disabled={!isAvailable}
       onClick={() => onSelect(poster.seasonId)}
-      aria-label={`${poster.tournament}, ${poster.country}, ${completed} of ${WORLD_CUP_MATCH_TOTAL} matches complete`}
+      aria-label={`${poster.tournament}, ${poster.country}, ${completed} of ${matchTotal} matches complete`}
     >
       <div className="world-cup-poster__frame">
         <Poster
@@ -35,7 +35,7 @@ export function WorldCupPoster({ poster, completed, onSelect }: WorldCupPosterPr
           <span className="world-cup-poster__country">{poster.country}</span>
           <div className="world-cup-poster__progress">
             <span>
-              Progress · {completed}/{WORLD_CUP_MATCH_TOTAL} matches
+              Progress · {completed}/{matchTotal} matches
             </span>
             <div className="world-cup-poster__progress-track">
               <div className="world-cup-poster__progress-fill" style={{ width: `${progressPct}%` }} />

@@ -7,9 +7,10 @@ import { SiteNav } from "./SiteNav";
 type HomePageProps = {
   onNavigateToWorldCups: () => void;
   onSelectSeason: (seasonId: string) => void;
+  progressRevision?: number;
 };
 
-export function HomePage({ onNavigateToWorldCups, onSelectSeason }: HomePageProps) {
+export function HomePage({ onNavigateToWorldCups, onSelectSeason, progressRevision }: HomePageProps) {
   function scrollToArchive() {
     document.getElementById("archive")?.scrollIntoView({ behavior: "smooth", block: "start" });
   }
@@ -18,7 +19,7 @@ export function HomePage({ onNavigateToWorldCups, onSelectSeason }: HomePageProp
     <div className="home-page">
       <SiteNav onWorldCups={onNavigateToWorldCups} onScrollToArchive={scrollToArchive} />
       <Hero onBegin={scrollToArchive} />
-      <PosterShelf onSelectSeason={onSelectSeason} />
+      <PosterShelf onSelectSeason={onSelectSeason} progressRevision={progressRevision} />
       <footer className="home-footer">
         <p>Where football history is experienced — not explained.</p>
       </footer>
