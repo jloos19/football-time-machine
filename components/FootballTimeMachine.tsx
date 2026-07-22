@@ -2,6 +2,8 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { Episode, Season, seasons } from "@/data/seasons";
+import { HomePage } from "@/components/home/HomePage";
+import { progressKey } from "@/lib/progress";
 
 type Screen =
   | { type: "home" }
@@ -48,8 +50,8 @@ const MATCH_SLOT_94: Record<string, number> = {
   "Belgium vs Saudi Arabia":28,"Argentina vs Bulgaria":29,
 };
 
-function progressKey(id: string) {
-  return `ftm-progress-${id}`;
+function progressStorageKey(id: string) {
+  return progressKey(id);
 }
 
 function standingsForEpisode(episode: Episode) {
@@ -93,14 +95,14 @@ export function FootballTimeMachine() {
 
   useEffect(() => {
     if (!activeSeason) return;
-    const saved = JSON.parse(localStorage.getItem(progressKey(activeSeason.id)) || "[]");
+    const saved = JSON.parse(localStorage.getItem(progressStorageKey(activeSeason.id)) || "[]");
     setCompleted(new Set(saved));
   }, [activeSeason]);
 
   function saveProgress(next: Set<number>) {
     if (!activeSeason) return;
     setCompleted(next);
-    localStorage.setItem(progressKey(activeSeason.id), JSON.stringify([...next]));
+    localStorage.setItem(progressStorageKey(activeSeason.id), JSON.stringify([...next]));
   }
 
   function toggleComplete(ep: Episode) {
@@ -112,54 +114,25 @@ export function FootballTimeMachine() {
   const unlocked = (n:number) => n === 1 || completed.has(n-1);
 
   return (
-    <main>
-      <header className="topbar">
-        <button onClick={()=>setScreen({type:"home"})} className="wordmark">
-          FOOTBALL <span>TIME MACHINE</span>
-        </button>
-        <span className="topbar-note">EXPERIENCE HISTORY FORWARDS</span>
-      </header>
+    <main className={screen.type === "home" ? "main--home" : "main--app"}>
+      {screen.type !== "home" && (
+        <header className="topbar">
+          <button onClick={() => setScreen({ type: "home" })} className="wordmark">
+            Football <span>Time Machine</span>
+          </button>
+          <nav className="topbar-nav" aria-label="Secondary">
+            <button type="button" onClick={() => setScreen({ type: "collection" })}>
+              World Cups
+            </button>
+          </nav>
+        </header>
+      )}
 
       {screen.type === "home" && (
-        <>
-          <section className="home-hero">
-            <div className="hero-copy">
-              <p className="kicker">A SPOILER-FREE ARCHIVE OF FOOTBALL HISTORY</p>
-              <h1>EXPERIENCE<br/><em>THE STORY.</em></h1>
-              <p className="hero-dek">Classic tournaments, revealed one match at a time. No brackets. No hindsight. No spoilers.</p>
-              <div className="hero-actions">
-                <button className="cta" onClick={()=>setScreen({type:"collection"})}>Explore World Cups</button>
-                <span className="hero-status"><b>USA ’94</b> available now</span>
-              </div>
-            </div>
-            <aside className="hero-manifesto">
-              <span>HOW IT WORKS</span>
-              <ol>
-                <li><b>01</b><div><strong>Read the moment</strong><small>Only what was known before kickoff.</small></div></li>
-                <li><b>02</b><div><strong>Watch the match</strong><small>Full replays, curated in order.</small></div></li>
-                <li><b>03</b><div><strong>Unlock the story</strong><small>Scores, key moments and impact players.</small></div></li>
-              </ol>
-            </aside>
-          </section>
-          <section className="shelf">
-            <div className="shelf-head">
-              <div><p className="kicker red">COLLECTIONS</p><h2>Choose a destination</h2></div>
-              <p>World Cups are only the beginning.</p>
-            </div>
-            <div className="collection-grid">
-              <button className="collection-card live world-cup-cover" onClick={()=>setScreen({type:"collection"})}>
-                <div className="collection-index">01</div>
-                <span>ACTIVE COLLECTION</span><h3>World Cups</h3><p>Eight tournaments from 1994 to 2022.</p><strong>Explore collection →</strong>
-              </button>
-              {["Champions League","European Championships","Copa América","Women’s World Cup"].map(name=>(
-                <article className="collection-card muted-card" key={name}>
-                  <div className="collection-index">—</div>
-                  <span>FUTURE COLLECTION</span><h3>{name}</h3><p>Coming soon</p>
-                </article>
-              ))}
-            </div>
-          </section>
-        </>
+        <HomePage
+          onNavigateToWorldCups={() => setScreen({ type: "collection" })}
+          onSelectSeason={(seasonId) => setScreen({ type: "season", seasonId })}
+        />
       )}
 
       {screen.type === "collection" && (
@@ -303,7 +276,9 @@ export function FootballTimeMachine() {
         </div>
       )}
 
-      <footer>Where football history is experienced—not explained.</footer>
+      {screen.type !== "home" && (
+        <footer className="app-footer">Where football history is experienced—not explained.</footer>
+      )}
     </main>
   );
 }

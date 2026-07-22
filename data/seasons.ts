@@ -47,7 +47,7 @@ export type Season = {
   name: string;
   host: string;
   tagline: string;
-  theme: "usa94" | "france98";
+  theme: "usa94" | "france98" | "korea2002" | "germany2006" | "sa2010" | "brazil2014";
   status: "available" | "in-development" | "coming-soon";
   episodes: Episode[];
 };
@@ -79,7 +79,37 @@ export const seasons: Season[] = [
     name: "Korea/Japan 2002",
     host: "Korea / Japan",
     tagline: "The World Cup goes east.",
-    theme: "france98",
+    theme: "korea2002",
+    status: "coming-soon",
+    episodes: [],
+  },
+  {
+    id: "germany-2006",
+    year: 2006,
+    name: "Germany 2006",
+    host: "Germany",
+    tagline: "A summer fairy tale.",
+    theme: "germany2006",
+    status: "coming-soon",
+    episodes: [],
+  },
+  {
+    id: "south-africa-2010",
+    year: 2010,
+    name: "South Africa 2010",
+    host: "South Africa",
+    tagline: "The first World Cup on African soil.",
+    theme: "sa2010",
+    status: "coming-soon",
+    episodes: [],
+  },
+  {
+    id: "brazil-2014",
+    year: 2014,
+    name: "Brazil 2014",
+    host: "Brazil",
+    tagline: "All in one rhythm.",
+    theme: "brazil2014",
     status: "coming-soon",
     episodes: [],
   },
