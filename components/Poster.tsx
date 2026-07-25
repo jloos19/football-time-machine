@@ -37,7 +37,7 @@ export function Poster({
           src={src}
           alt={decorative ? "" : alt}
           fill
-          sizes="(max-width: 768px) 45vw, 260px"
+          sizes="(max-width: 768px) 78vw, 336px"
           className="poster__image"
           onError={() => setUseFallback(true)}
         />

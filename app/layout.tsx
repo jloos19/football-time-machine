@@ -1,5 +1,6 @@
 import { Cormorant_Garamond, Inter } from "next/font/google";
 import type { Metadata } from "next";
+import { AppShell } from "@/components/AppShell";
 import "./globals.css";
 
 const serif = Cormorant_Garamond({
@@ -24,7 +25,9 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`${serif.variable} ${sans.variable}`}>
-      <body>{children}</body>
+      <body>
+        <AppShell>{children}</AppShell>
+      </body>
     </html>
   );
 }

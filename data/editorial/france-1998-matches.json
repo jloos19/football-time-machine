@@ -1,0 +1,3455 @@
+[
+  {
+    "canonicalMatchId": "france-1998-c01",
+    "preMatch": {
+      "sceneSetter": "Brazil and Scotland step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "The World Cup returns to Europe for the first time since Italy hosted twelve years earlier. Thirty-two nations have arrived, and the tournament opens beneath the shadow of the Stade de France.",
+      "inTheTournament": "Nothing has happened yet. Thirty-two teams begin level across eight groups, and every prediction is still only a prediction.",
+      "whyItMatters": "Brazil arrive as defending champions and one of the tournament's most feared sides. Scotland return to the World Cup with experience and ambition. The opening match sets the tone for a competition expanding to thirty-two nations for the first time."
+    },
+    "postMatch": {
+      "score": "Brazil 2–1 Scotland",
+      "halftime": "Halftime: 1–1",
+      "goal": "César Sampaio 5′; John Collins 38′ (pen.); Tom Boyd 74′ (o.g.)",
+      "matchReport": "Sampaio gave Brazil an early lead. Collins converted a penalty to equalize before halftime. Boyd's own goal decided a tight opening match.",
+      "keyMoments": [
+        {
+          "minute": "5'",
+          "title": "César Sampaio scores"
+        },
+        {
+          "minute": "38'",
+          "title": "John Collins (pen.) scores"
+        },
+        {
+          "minute": "74'",
+          "title": "Tom Boyd (o.g.) scores"
+        },
+        {
+          "title": "Sampaio gave Brazil an early lead"
+        },
+        {
+          "title": "Collins converted a penalty to equalize before halftime"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "César Sampaio",
+          "team": "Brazil",
+          "role": "Early breakthrough",
+          "description": "Scored inside the first ten minutes and set Brazil's attacking tone."
+        },
+        {
+          "player": "John Collins",
+          "team": "Scotland",
+          "role": "Equalizer",
+          "description": "Converted from the spot and kept Scotland competitive."
+        },
+        {
+          "player": "Tom Boyd",
+          "team": "Scotland",
+          "role": "Unfortunate decider",
+          "description": "Deflected a cross into his own net in the closing stages."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c02",
+    "preMatch": {
+      "sceneSetter": "Morocco and Norway step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "The first evening of the tournament spreads from Saint-Denis to Montpellier as Europe discovers how quickly a thirty-two-team World Cup can produce parallel stories.",
+      "inTheTournament": "Brazil have opened Group A, but Morocco and Norway now get their first chance to shape it.",
+      "whyItMatters": "Morocco bring technical quality and the confidence of African football's rising profile. Norway arrive with physical strength and European tournament experience. In a four-team group, the first result can immediately alter the pressure surrounding the next game."
+    },
+    "postMatch": {
+      "score": "Morocco 2–2 Norway",
+      "halftime": "Halftime: 2–1",
+      "goal": "Mustapha Hadji 2′; Youssef Hadda 45′; Tore André Flo 62′; Kjetil Rekdal 90′",
+      "matchReport": "Hadji opened the scoring inside two minutes. Norway fought back through Flo and a late Rekdal equalizer. Neither side could find a winner in a dramatic finish.",
+      "keyMoments": [
+        {
+          "minute": "2'",
+          "title": "Mustapha Hadji scores"
+        },
+        {
+          "minute": "45'",
+          "title": "Youssef Hadda scores"
+        },
+        {
+          "minute": "62'",
+          "title": "Tore André Flo scores"
+        },
+        {
+          "minute": "90'",
+          "title": "Kjetil Rekdal scores"
+        },
+        {
+          "title": "Hadji opened the scoring inside two minutes"
+        },
+        {
+          "title": "Norway fought back through Flo and a late Rekdal equalizer"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Mustapha Hadji",
+          "team": "Morocco",
+          "role": "Instant impact",
+          "description": "Scored almost immediately and drove Morocco's early dominance."
+        },
+        {
+          "player": "Tore André Flo",
+          "team": "Norway",
+          "role": "Aerial threat",
+          "description": "Halved the deficit and kept Norway in the contest."
+        },
+        {
+          "player": "Kjetil Rekdal",
+          "team": "Norway",
+          "role": "Late rescue",
+          "description": "Equalized deep in stoppage time."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c03",
+    "preMatch": {
+      "sceneSetter": "Italy and Chile step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Italy and Chile bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Italy can set the terms of the contest with its own strengths. Chile have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Italy 2–2 Chile",
+      "halftime": "Halftime: 1–1",
+      "goal": "Vieri 10′; Salas 45+′; Salas 49′; R.Baggio 85′ (pen.)",
+      "matchReport": "Italy and Chile finished 2–2. The recorded scoring sequence was Vieri 10′; Salas 45+′; Salas 49′; R.Baggio 85′ (pen.). The halftime score was 1–1, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "10'",
+          "title": "Vieri scores",
+          "description": "Vieri scored for Italy."
+        },
+        {
+          "minute": "45+'",
+          "title": "Salas scores",
+          "description": "Salas scored for Chile."
+        },
+        {
+          "minute": "49'",
+          "title": "Salas scores",
+          "description": "Salas scored for Chile."
+        },
+        {
+          "minute": "85'",
+          "title": "R.Baggio scores",
+          "description": "R.Baggio scored for Italy."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Vieri",
+          "team": "Italy",
+          "role": "Goalscorer",
+          "description": "Scored for Italy in this match."
+        },
+        {
+          "player": "Salas",
+          "team": "Chile",
+          "role": "Goalscorer",
+          "description": "Scored for Chile in this match."
+        },
+        {
+          "player": "Salas",
+          "team": "Chile",
+          "role": "Goalscorer",
+          "description": "Scored for Chile in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c04",
+    "preMatch": {
+      "sceneSetter": "Cameroon and Austria step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Cameroon and Austria bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Cameroon can set the terms of the contest with its own strengths. Austria have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Cameroon 1–1 Austria",
+      "halftime": "Halftime: 0–0",
+      "goal": "Njanka 78′; Polster 90+′",
+      "matchReport": "Cameroon and Austria finished 1–1. The recorded scoring sequence was Njanka 78′; Polster 90+′. The halftime score was 0–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "78'",
+          "title": "Njanka scores",
+          "description": "Njanka scored for Cameroon."
+        },
+        {
+          "minute": "90+'",
+          "title": "Polster scores",
+          "description": "Polster scored for Austria."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Njanka",
+          "team": "Cameroon",
+          "role": "Goalscorer",
+          "description": "Scored for Cameroon in this match."
+        },
+        {
+          "player": "Polster",
+          "team": "Austria",
+          "role": "Goalscorer",
+          "description": "Scored for Austria in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c05",
+    "preMatch": {
+      "sceneSetter": "Paraguay and Bulgaria step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Paraguay and Bulgaria bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Paraguay can set the terms of the contest with its own strengths. Bulgaria have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Paraguay 0–0 Bulgaria",
+      "halftime": "Halftime: 0–0",
+      "goal": "No goals",
+      "matchReport": "Paraguay and Bulgaria cancelled each other out in a cautious Group D meeting. Clear chances were scarce as Chilavert organised a firm Paraguayan line. The shared point left both sides still searching for a first tournament win.",
+      "keyMoments": [
+        {
+          "title": "Goalless stalemate",
+          "description": "Neither side broke the deadlock in Montpellier."
+        },
+        {
+          "title": "Defences hold firm",
+          "description": "Set pieces and half-chances come to nothing."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "José Luis Chilavert",
+          "team": "Paraguay",
+          "role": "Commanding goalkeeper",
+          "description": "Organised Paraguay’s defensive shape and kept Bulgaria at bay."
+        },
+        {
+          "player": "Krasimir Balakov",
+          "team": "Bulgaria",
+          "role": "Creative spark",
+          "description": "Offered Bulgaria’s clearest invention without finding a finishing touch."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c06",
+    "preMatch": {
+      "sceneSetter": "France and South Africa step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "France and South Africa bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "France can set the terms of the contest with its own strengths. South Africa have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "France 3–0 South Africa",
+      "halftime": "Halftime: 1–0",
+      "goal": "Dugarry 34′; Issa 77′ (o.g.); Henry 90+′",
+      "matchReport": "France and South Africa finished 3–0. The recorded scoring sequence was Dugarry 34′; Issa 77′ (o.g.); Henry 90+′. The halftime score was 1–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "34'",
+          "title": "Dugarry scores",
+          "description": "Dugarry scored for France."
+        },
+        {
+          "minute": "77'",
+          "title": "Issa scores",
+          "description": "Issa scored for France."
+        },
+        {
+          "minute": "90+'",
+          "title": "Henry scores",
+          "description": "Henry scored for France."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Dugarry",
+          "team": "France",
+          "role": "Goalscorer",
+          "description": "Scored for France in this match."
+        },
+        {
+          "player": "Issa",
+          "team": "France",
+          "role": "Goalscorer",
+          "description": "Scored for France in this match."
+        },
+        {
+          "player": "Henry",
+          "team": "France",
+          "role": "Goalscorer",
+          "description": "Scored for France in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c07",
+    "preMatch": {
+      "sceneSetter": "South Korea and Mexico step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "South Korea and Mexico bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "South Korea can set the terms of the contest with its own strengths. Mexico have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "South Korea 1–3 Mexico",
+      "halftime": "Halftime: 0–1",
+      "goal": "Ha Seok-ju 20′; Pelaez 54′; Hernández 74′; Hernández 84′",
+      "matchReport": "South Korea and Mexico finished 1–3. The recorded scoring sequence was Ha Seok-ju 20′; Pelaez 54′; Hernández 74′; Hernández 84′. The halftime score was 0–1, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "20'",
+          "title": "Ha Seok-ju scores",
+          "description": "Ha Seok-ju scored for South Korea."
+        },
+        {
+          "minute": "54'",
+          "title": "Pelaez scores",
+          "description": "Pelaez scored for Mexico."
+        },
+        {
+          "minute": "74'",
+          "title": "Hernández scores",
+          "description": "Hernández scored for Mexico."
+        },
+        {
+          "minute": "84'",
+          "title": "Hernández scores",
+          "description": "Hernández scored for Mexico."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Ha Seok-ju",
+          "team": "South Korea",
+          "role": "Goalscorer",
+          "description": "Scored for South Korea in this match."
+        },
+        {
+          "player": "Pelaez",
+          "team": "Mexico",
+          "role": "Goalscorer",
+          "description": "Scored for Mexico in this match."
+        },
+        {
+          "player": "Hernández",
+          "team": "Mexico",
+          "role": "Goalscorer",
+          "description": "Scored for Mexico in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c08",
+    "preMatch": {
+      "sceneSetter": "Netherlands and Belgium step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Parc des Princes hosts the Netherlands against Belgium as Group E opens in Paris.",
+      "inTheTournament": "Group E begins with a Low Countries derby. Mexico and South Korea share the section.",
+      "whyItMatters": "The Netherlands arrive with attacking expectation and technical depth. Belgium bring European organization and local knowledge of a fierce rivalry. An opening Group E assignment leaves little room for caution."
+    },
+    "postMatch": {
+      "score": "Netherlands 0–0 Belgium",
+      "halftime": "Halftime: 0–0",
+      "goal": "No goals",
+      "matchReport": "Both sides created chances without converting. The derby finished goalless. Group E opened with a shared point.",
+      "keyMoments": [
+        {
+          "title": "Both sides created chances without converting"
+        },
+        {
+          "title": "The derby finished goalless"
+        },
+        {
+          "title": "Group E opened with a shared point"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Frank de Boer",
+          "team": "Netherlands",
+          "role": "Defensive control",
+          "description": "Anchored the Dutch back line through a tense derby."
+        },
+        {
+          "player": "Marc Wilmots",
+          "team": "Belgium",
+          "role": "Midfield drive",
+          "description": "Pushed Belgium forward and kept the contest unsettled."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c09",
+    "preMatch": {
+      "sceneSetter": "Spain and Nigeria step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Nantes hosts Spain and Nigeria as Group D continues to take shape across western France.",
+      "inTheTournament": "Group D has already opened. Spain and Nigeria now begin their campaigns knowing Paraguay and Bulgaria share the section.",
+      "whyItMatters": "Spain arrive with European pedigree and attacking expectation. Nigeria bring pace, power and African Cup experience. An opening assignment in a four-team group leaves little room for caution."
+    },
+    "postMatch": {
+      "score": "Spain 2–3 Nigeria",
+      "halftime": "Halftime: 1–1",
+      "goal": "Fernando Hierro 21′ (pen.); Mutiu Adepoju 24′; Raúl 47′; Sunday Oliseh 47′; Victor Ikpeba 80′",
+      "matchReport": "Hierro converted an early penalty to put Spain ahead. Adepoju equalized quickly for Nigeria. Raúl and Oliseh traded goals either side of the restart. Ikpeba sealed Nigeria's victory late in the second half.",
+      "keyMoments": [
+        {
+          "minute": "21'",
+          "title": "Fernando Hierro (pen.) scores"
+        },
+        {
+          "minute": "24'",
+          "title": "Mutiu Adepoju scores"
+        },
+        {
+          "minute": "47'",
+          "title": "Raúl scores"
+        },
+        {
+          "minute": "47'",
+          "title": "Sunday Oliseh scores"
+        },
+        {
+          "minute": "80'",
+          "title": "Victor Ikpeba scores"
+        },
+        {
+          "title": "Hierro converted an early penalty to put Spain ahead"
+        },
+        {
+          "title": "Adepoju equalized quickly for Nigeria"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Sunday Oliseh",
+          "team": "Nigeria",
+          "role": "Midfield thunderbolt",
+          "description": "Struck from distance to restore Nigeria's lead after Spain had leveled."
+        },
+        {
+          "player": "Victor Ikpeba",
+          "team": "Nigeria",
+          "role": "Late finish",
+          "description": "Converted the goal that confirmed Spain's opening defeat."
+        },
+        {
+          "player": "Raúl",
+          "team": "Spain",
+          "role": "Equalizer",
+          "description": "Briefly restored parity before Nigeria pulled away again."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c10",
+    "preMatch": {
+      "sceneSetter": "Yugoslavia and Iran step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Yugoslavia and Iran bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Yugoslavia can set the terms of the contest with its own strengths. Iran have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Yugoslavia 1–0 Iran",
+      "halftime": "Halftime: 0–0",
+      "goal": "Mihajlović 72′",
+      "matchReport": "Yugoslavia and Iran finished 1–0. The recorded scoring sequence was Mihajlović 72′. The halftime score was 0–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "72'",
+          "title": "Mihajlović scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Siniša Mihajlović",
+          "team": "Yugoslavia",
+          "role": "Match winner",
+          "description": "Struck the decisive free-kick against Iran."
+        },
+        {
+          "player": "Predrag Mijatović",
+          "team": "Yugoslavia",
+          "role": "Attacking threat",
+          "description": "Linked Yugoslavia’s forward play throughout."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c11",
+    "preMatch": {
+      "sceneSetter": "Croatia and Jamaica step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Lens hosts one of the tournament's most atmospheric grounds as Croatia make their World Cup debut against Jamaica, also appearing on football's biggest stage for the first time.",
+      "inTheTournament": "Argentina have opened Group H with a narrow win over Japan. Croatia and Jamaica now meet knowing the first result in this four-team group can define the room for error ahead.",
+      "whyItMatters": "Croatia arrive with technical quality, Balkan flair and a golden generation ready to announce itself. Jamaica bring Caribbean energy, Reggae Boyz pride and the fearlessness of a nation making its World Cup debut. Both sides know an opening victory can reshape an entire group."
+    },
+    "postMatch": {
+      "score": "Croatia 3–1 Jamaica",
+      "halftime": "Halftime: 1–1",
+      "goal": "Mario Stanić 27′; Robbie Earle 45′; Robert Prosinečki 53′; Davor Šuker 69′",
+      "matchReport": "Stanić gave Croatia an early lead with a composed finish. Earle equalized on the stroke of halftime — Jamaica's first World Cup goal. Prosinečki restored Croatia's lead with a trademark free kick. Šuker sealed the win and announced Croatia as a team to watch.",
+      "keyMoments": [
+        {
+          "minute": "27'",
+          "title": "Mario Stanić scores"
+        },
+        {
+          "minute": "45'",
+          "title": "Robbie Earle scores"
+        },
+        {
+          "minute": "53'",
+          "title": "Robert Prosinečki scores"
+        },
+        {
+          "minute": "69'",
+          "title": "Davor Šuker scores"
+        },
+        {
+          "title": "Stanić gave Croatia an early lead with a composed finish"
+        },
+        {
+          "title": "Earle equalized on the stroke of halftime — Jamaica's first World Cup goal"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Robert Prosinečki",
+          "team": "Croatia",
+          "role": "Decisive quality",
+          "description": "Scored a brilliant free kick that swung the match back in Croatia's favour."
+        },
+        {
+          "player": "Davor Šuker",
+          "team": "Croatia",
+          "role": "Finisher",
+          "description": "Added the third goal and set the tone for Croatia's tournament."
+        },
+        {
+          "player": "Robbie Earle",
+          "team": "Jamaica",
+          "role": "Historic moment",
+          "description": "Scored Jamaica's first World Cup goal and briefly levelled the contest."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c12",
+    "preMatch": {
+      "sceneSetter": "Argentina and Japan step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Argentina and Japan bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Argentina can set the terms of the contest with its own strengths. Japan have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Argentina 1–0 Japan",
+      "halftime": "Halftime: 1–0",
+      "goal": "Batistuta 28′",
+      "matchReport": "Argentina and Japan finished 1–0. The recorded scoring sequence was Batistuta 28′. The halftime score was 1–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "28'",
+          "title": "Batistuta scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Gabriel Batistuta",
+          "team": "Argentina",
+          "role": "Match winner",
+          "description": "Scored the only goal against Japan in Toulouse."
+        },
+        {
+          "player": "Juan Sebastián Verón",
+          "team": "Argentina",
+          "role": "Midfield control",
+          "description": "Dictated tempo as Argentina managed the contest."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c13",
+    "preMatch": {
+      "sceneSetter": "Romania and Colombia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Romania and Colombia bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Romania can set the terms of the contest with its own strengths. Colombia have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Romania 1–0 Colombia",
+      "halftime": "Halftime: 1–0",
+      "goal": "A.Ilie 45+′",
+      "matchReport": "Romania and Colombia finished 1–0. The recorded scoring sequence was A.Ilie 45+′. The halftime score was 1–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "45+'",
+          "title": "A.Ilie scores",
+          "description": "A.Ilie scored for Romania."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Adrian Ilie",
+          "team": "Romania",
+          "role": "Match winner",
+          "description": "Scored before half-time to defeat Colombia."
+        },
+        {
+          "player": "Gheorghe Hagi",
+          "team": "Romania",
+          "role": "Creative lead",
+          "description": "Orchestrated Romania’s most dangerous passages."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c14",
+    "preMatch": {
+      "sceneSetter": "England and Tunisia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "England and Tunisia bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "England can set the terms of the contest with its own strengths. Tunisia have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "England 2–0 Tunisia",
+      "halftime": "Halftime: 1–0",
+      "goal": "Shearer 43′; Scholes 89′",
+      "matchReport": "England and Tunisia finished 2–0. The recorded scoring sequence was Shearer 43′; Scholes 89′. The halftime score was 1–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "43'",
+          "title": "Shearer scores",
+          "description": "Shearer scored for England."
+        },
+        {
+          "minute": "89'",
+          "title": "Scholes scores",
+          "description": "Scholes scored for England."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Shearer",
+          "team": "England",
+          "role": "Goalscorer",
+          "description": "Scored for England in this match."
+        },
+        {
+          "player": "Scholes",
+          "team": "England",
+          "role": "Goalscorer",
+          "description": "Scored for England in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c15",
+    "preMatch": {
+      "sceneSetter": "Germany and United States step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Parc des Princes stages Germany against the United States as Group F gathers momentum in Paris.",
+      "inTheTournament": "Group F is underway. Germany and the United States now meet knowing early points will define the room for error ahead.",
+      "whyItMatters": "Germany arrive with European pedigree and the expectation of a deep tournament run. The United States bring organization, athleticism and the confidence of a side that reached the round of 16 four years earlier. Neither can treat an opening Group F assignment lightly."
+    },
+    "postMatch": {
+      "score": "Germany 2–0 United States",
+      "halftime": "Halftime: 1–0",
+      "goal": "Andreas Möller 9′; Jürgen Klinsmann 65′",
+      "matchReport": "Möller gave Germany an early lead from close range. Klinsmann doubled the advantage in the second half. Germany controlled the contest and opened Group F with a win.",
+      "keyMoments": [
+        {
+          "minute": "9'",
+          "title": "Andreas Möller scores"
+        },
+        {
+          "minute": "65'",
+          "title": "Jürgen Klinsmann scores"
+        },
+        {
+          "title": "Möller gave Germany an early lead from close range"
+        },
+        {
+          "title": "Klinsmann doubled the advantage in the second half"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Andreas Möller",
+          "team": "Germany",
+          "role": "Early breakthrough",
+          "description": "Opened the scoring and set Germany's tempo."
+        },
+        {
+          "player": "Jürgen Klinsmann",
+          "team": "Germany",
+          "role": "Second goal",
+          "description": "Finished the contest and underlined Germany's attacking quality."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c16",
+    "preMatch": {
+      "sceneSetter": "Scotland and Norway step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Scotland and Norway bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Scotland can set the terms of the contest with its own strengths. Norway have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Scotland 1–1 Norway",
+      "halftime": "Halftime: 0–0",
+      "goal": "H.Flo 46′; Burley 66′",
+      "matchReport": "Scotland and Norway finished 1–1. The recorded scoring sequence was H.Flo 46′; Burley 66′. The halftime score was 0–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "46'",
+          "title": "H.Flo scores",
+          "description": "H.Flo scored for Norway."
+        },
+        {
+          "minute": "66'",
+          "title": "Burley scores",
+          "description": "Burley scored for Scotland."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "H.Flo",
+          "team": "Norway",
+          "role": "Goalscorer",
+          "description": "Scored for Norway in this match."
+        },
+        {
+          "player": "Burley",
+          "team": "Scotland",
+          "role": "Goalscorer",
+          "description": "Scored for Scotland in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c17",
+    "preMatch": {
+      "sceneSetter": "Brazil and Morocco step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Brazil and Morocco bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Brazil can set the terms of the contest with its own strengths. Morocco have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Brazil 3–0 Morocco",
+      "halftime": "Halftime: 2–0",
+      "goal": "Ronaldo 9′; Rivaldo 45+′; Bebeto 50′",
+      "matchReport": "Brazil and Morocco finished 3–0. The recorded scoring sequence was Ronaldo 9′; Rivaldo 45+′; Bebeto 50′. The halftime score was 2–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "9'",
+          "title": "Ronaldo scores",
+          "description": "Ronaldo scored for Brazil."
+        },
+        {
+          "minute": "45+'",
+          "title": "Rivaldo scores",
+          "description": "Rivaldo scored for Brazil."
+        },
+        {
+          "minute": "50'",
+          "title": "Bebeto scores",
+          "description": "Bebeto scored for Brazil."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Ronaldo",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "description": "Scored for Brazil in this match."
+        },
+        {
+          "player": "Rivaldo",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "description": "Scored for Brazil in this match."
+        },
+        {
+          "player": "Bebeto",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "description": "Scored for Brazil in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c18",
+    "preMatch": {
+      "sceneSetter": "Chile and Austria step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Chile and Austria bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Chile can set the terms of the contest with its own strengths. Austria have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Chile 1–1 Austria",
+      "halftime": "Halftime: 0–0",
+      "goal": "Salas 70′; Vastic 90+′",
+      "matchReport": "Chile and Austria finished 1–1. The recorded scoring sequence was Salas 70′; Vastic 90+′. The halftime score was 0–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "70'",
+          "title": "Salas scores",
+          "description": "Salas scored for Chile."
+        },
+        {
+          "minute": "90+'",
+          "title": "Vastic scores",
+          "description": "Vastic scored for Austria."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Salas",
+          "team": "Chile",
+          "role": "Goalscorer",
+          "description": "Scored for Chile in this match."
+        },
+        {
+          "player": "Vastic",
+          "team": "Austria",
+          "role": "Goalscorer",
+          "description": "Scored for Austria in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c19",
+    "preMatch": {
+      "sceneSetter": "Italy and Cameroon step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Montpellier stages Italy's second Group B assignment as Cameroon look to recover from an opening draw.",
+      "inTheTournament": "Group B continues to take shape. Italy and Cameroon now meet knowing the first decisive result would reshape the section overnight.",
+      "whyItMatters": "Italy bring defensive structure and attacking depth. Cameroon arrive with pace and physical presence. The first decisive result in Group B would reshape the section overnight."
+    },
+    "postMatch": {
+      "score": "Italy 3–0 Cameroon",
+      "halftime": "Halftime: 1–0",
+      "goal": "Luigi Di Biagio 7′; Christian Vieri 75′, 89′",
+      "matchReport": "Di Biagio gave Italy an early lead. Vieri scored twice late to complete the victory. Italy took control of Group B.",
+      "keyMoments": [
+        {
+          "minute": "7'",
+          "title": "Luigi Di Biagio scores"
+        },
+        {
+          "minute": "75'",
+          "title": "Christian Vieri scores"
+        },
+        {
+          "minute": "89'",
+          "title": "Christian Vieri scores"
+        },
+        {
+          "title": "Di Biagio gave Italy an early lead"
+        },
+        {
+          "title": "Vieri scored twice late to complete the victory"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Christian Vieri",
+          "team": "Italy",
+          "role": "Brace",
+          "description": "Finished the contest with two late goals."
+        },
+        {
+          "player": "Luigi Di Biagio",
+          "team": "Italy",
+          "role": "Early breakthrough",
+          "description": "Opened the scoring and set Italy's tempo."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c20",
+    "preMatch": {
+      "sceneSetter": "South Africa and Saudi Arabia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "The Stade de France welcomes South Africa and Saudi Arabia as Group C continues to take shape.",
+      "inTheTournament": "France have already opened Group C. South Africa and Saudi Arabia now chase their first points of the tournament.",
+      "whyItMatters": "South Africa arrive for a first World Cup campaign with energy and ambition. Saudi Arabia bring Asian Cup pedigree and the need for a result. Neither side can afford to fall behind early in the group."
+    },
+    "postMatch": {
+      "score": "South Africa 2–2 Saudi Arabia",
+      "halftime": "Halftime: 1–1",
+      "goal": "Shaun Bartlett 19′, 90+4′ (pen.); Sami Al-Jaber 45′ (pen.); Yousuf Al-Thunayan 74′ (pen.)",
+      "matchReport": "Bartlett opened the scoring for South Africa. Two Saudi penalties leveled and then led the contest. Bartlett converted a stoppage-time penalty to share the points.",
+      "keyMoments": [
+        {
+          "minute": "19'",
+          "title": "Shaun Bartlett scores"
+        },
+        {
+          "minute": "4'",
+          "title": "Shaun Bartlett (pen.) scores"
+        },
+        {
+          "minute": "45'",
+          "title": "Sami Al-Jaber (pen.) scores"
+        },
+        {
+          "minute": "74'",
+          "title": "Yousuf Al-Thunayan (pen.) scores"
+        },
+        {
+          "title": "Bartlett opened the scoring for South Africa"
+        },
+        {
+          "title": "Two Saudi penalties leveled and then led the contest"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Shaun Bartlett",
+          "team": "South Africa",
+          "role": "Brace",
+          "description": "Scored early and rescued a point from the spot at the death."
+        },
+        {
+          "player": "Sami Al-Jaber",
+          "team": "Saudi Arabia",
+          "role": "Penalty equalizer",
+          "description": "Kept Saudi Arabia in the contest before halftime."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c21",
+    "preMatch": {
+      "sceneSetter": "France and Denmark step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "The host nation's second match arrives with the entire country watching to see whether the opening victory was the beginning of something larger.",
+      "inTheTournament": "France have started well in Group C, but Denmark arrive with organization and the experience of strong recent European campaigns.",
+      "whyItMatters": "France carry the weight of a nation's expectations into every match. Denmark bring Scandinavian discipline and the ability to frustrate more talented opponents. The host nation cannot afford complacency in a group where every point matters."
+    },
+    "postMatch": {
+      "score": "France 2–1 Denmark",
+      "halftime": "Halftime: 1–0",
+      "goal": "David Trezéguet 44′; Thierry Henry 69′; Allan Nielsen 83′",
+      "matchReport": "Trezéguet gave France a first-half lead. Henry extended the advantage before Nielsen pulled one back. France held on to maintain their perfect start.",
+      "keyMoments": [
+        {
+          "minute": "44'",
+          "title": "David Trezéguet scores"
+        },
+        {
+          "minute": "69'",
+          "title": "Thierry Henry scores"
+        },
+        {
+          "minute": "83'",
+          "title": "Allan Nielsen scores"
+        },
+        {
+          "title": "Trezéguet gave France a first-half lead"
+        },
+        {
+          "title": "Henry extended the advantage before Nielsen pulled one back"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Thierry Henry",
+          "team": "France",
+          "role": "Decisive finish",
+          "description": "Scored the goal that proved the difference."
+        },
+        {
+          "player": "David Trezéguet",
+          "team": "France",
+          "role": "Opening strike",
+          "description": "Gave France control before the break."
+        },
+        {
+          "player": "Peter Schmeichel",
+          "team": "Denmark",
+          "role": "Resistance",
+          "description": "Kept Denmark in the match with several important saves."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c22",
+    "preMatch": {
+      "sceneSetter": "Mexico and Belgium step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Bordeaux stages a Group E meeting between Mexico and Belgium as both sides search for separation.",
+      "inTheTournament": "Group E remains finely balanced. Mexico and Belgium now meet knowing a draw keeps the mathematics crowded.",
+      "whyItMatters": "Mexico bring attacking flair and tournament experience. Belgium arrive with European structure and midfield craft. In a group featuring the Netherlands, every shared point carries weight."
+    },
+    "postMatch": {
+      "score": "Mexico 2–2 Belgium",
+      "halftime": "Halftime: 0–1",
+      "goal": "Marc Wilmots 42′, 47′; Alberto García Aspe 55′ (pen.); Cuauhtémoc Blanco 62′",
+      "matchReport": "Wilmots scored either side of halftime to put Belgium ahead. García Aspe converted a penalty to begin Mexico's recovery. Blanco completed the comeback for a shared point.",
+      "keyMoments": [
+        {
+          "minute": "42'",
+          "title": "Marc Wilmots scores"
+        },
+        {
+          "minute": "47'",
+          "title": "Marc Wilmots scores"
+        },
+        {
+          "minute": "55'",
+          "title": "Alberto García Aspe (pen.) scores"
+        },
+        {
+          "minute": "62'",
+          "title": "Cuauhtémoc Blanco scores"
+        },
+        {
+          "title": "Wilmots scored either side of halftime to put Belgium ahead"
+        },
+        {
+          "title": "García Aspe converted a penalty to begin Mexico's recovery"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Marc Wilmots",
+          "team": "Belgium",
+          "role": "Brace",
+          "description": "Scored twice to put Belgium in control."
+        },
+        {
+          "player": "Cuauhtémoc Blanco",
+          "team": "Mexico",
+          "role": "Equalizer",
+          "description": "Finished the comeback that preserved Mexico's standing."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c23",
+    "preMatch": {
+      "sceneSetter": "Nigeria and Bulgaria step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Nigeria and Bulgaria bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Nigeria can set the terms of the contest with its own strengths. Bulgaria have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Nigeria 1–0 Bulgaria",
+      "halftime": "Halftime: 1–0",
+      "goal": "Ipkeba 27′",
+      "matchReport": "Nigeria and Bulgaria finished 1–0. The recorded scoring sequence was Ipkeba 27′. The halftime score was 1–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "27'",
+          "title": "Ipkeba scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Victor Ikpeba",
+          "team": "Nigeria",
+          "role": "Match winner",
+          "description": "Scored the only goal against Bulgaria in Paris."
+        },
+        {
+          "player": "Jay-Jay Okocha",
+          "team": "Nigeria",
+          "role": "Creative spark",
+          "description": "Drove Nigeria’s transitions throughout."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c24",
+    "preMatch": {
+      "sceneSetter": "South Korea and Netherlands step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "South Korea and Netherlands bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "South Korea can set the terms of the contest with its own strengths. Netherlands have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "South Korea 0–5 Netherlands",
+      "halftime": "Halftime: 2–0",
+      "goal": "Cocu 37′; Overmars 41′; Bergkamp 71′; van Hooijdonk 79′",
+      "matchReport": "South Korea and Netherlands finished 0–5. The recorded scoring sequence was Cocu 37′; Overmars 41′; Bergkamp 71′; van Hooijdonk 79′. The halftime score was 2–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "37'",
+          "title": "Cocu scores",
+          "description": "Cocu scored for Netherlands."
+        },
+        {
+          "minute": "41'",
+          "title": "Overmars scores",
+          "description": "Overmars scored for Netherlands."
+        },
+        {
+          "minute": "71'",
+          "title": "Bergkamp scores",
+          "description": "Bergkamp scored for Netherlands."
+        },
+        {
+          "minute": "79'",
+          "title": "van Hooijdonk scores",
+          "description": "van Hooijdonk scored for Netherlands."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Cocu",
+          "team": "Netherlands",
+          "role": "Goalscorer",
+          "description": "Scored for Netherlands in this match."
+        },
+        {
+          "player": "Overmars",
+          "team": "Netherlands",
+          "role": "Goalscorer",
+          "description": "Scored for Netherlands in this match."
+        },
+        {
+          "player": "Bergkamp",
+          "team": "Netherlands",
+          "role": "Goalscorer",
+          "description": "Scored for Netherlands in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c25",
+    "preMatch": {
+      "sceneSetter": "Spain and Paraguay step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Saint-Étienne stages Spain against Paraguay as Group D continues to tighten.",
+      "inTheTournament": "Nigeria lead Group D. Spain need a result against Paraguay to restore their campaign.",
+      "whyItMatters": "Spain arrive under pressure after an opening defeat. Paraguay bring defensive resolve and counter-attacking threat. Group D's mathematics leave little margin for another slip."
+    },
+    "postMatch": {
+      "score": "Spain 0–0 Paraguay",
+      "halftime": "Halftime: 0–0",
+      "goal": "No goals",
+      "matchReport": "Spain dominated possession without breaking through. Paraguay defended deep and held firm. Both sides remained level in Group D.",
+      "keyMoments": [
+        {
+          "title": "Spain dominated possession without breaking through"
+        },
+        {
+          "title": "Paraguay defended deep and held firm"
+        },
+        {
+          "title": "Both sides remained level in Group D"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "José Luis Chilavert",
+          "team": "Paraguay",
+          "role": "Goalkeeping command",
+          "description": "Organized Paraguay's resistance and preserved the point."
+        },
+        {
+          "player": "Raúl",
+          "team": "Spain",
+          "role": "Attacking threat",
+          "description": "Led Spain's search for a breakthrough that never came."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c26",
+    "preMatch": {
+      "sceneSetter": "Iran and United States step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Lyon hosts Iran against the United States as Group F delivers one of the tournament's most charged fixtures.",
+      "inTheTournament": "Group F remains open. Iran and the United States now meet knowing the result will reshape the section.",
+      "whyItMatters": "Iran arrive with organization and set-piece threat. The United States bring athleticism and tournament experience. Beyond the pitch, the fixture carries a weight few World Cup matches ever match."
+    },
+    "postMatch": {
+      "score": "Iran 2–1 United States",
+      "halftime": "Halftime: 1–1",
+      "goal": "Estili 40′; McBride 43′; Mahdavikia 84′",
+      "matchReport": "Estili gave Iran the lead before halftime. McBride equalized almost immediately for the United States. Mahdavikia struck late to seal Iran's victory.",
+      "keyMoments": [
+        {
+          "minute": "40'",
+          "title": "Estili scores"
+        },
+        {
+          "minute": "43'",
+          "title": "McBride scores"
+        },
+        {
+          "minute": "84'",
+          "title": "Mahdavikia scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Mehdi Mahdavikia",
+          "team": "Iran",
+          "role": "Match winner",
+          "description": "Finished the decisive late goal that secured Iran's win."
+        },
+        {
+          "player": "Brian McBride",
+          "team": "United States",
+          "role": "Equalizer",
+          "description": "Restored parity and kept the United States in the contest."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c27",
+    "preMatch": {
+      "sceneSetter": "Germany and Yugoslavia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Germany and Yugoslavia bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Germany can set the terms of the contest with its own strengths. Yugoslavia have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Germany 2–2 Yugoslavia",
+      "halftime": "Halftime: 0–1",
+      "goal": "Mijatović 13′; Stojković 54′; Mihajlović 73′ (o.g.); Bierhoff 80′",
+      "matchReport": "Germany and Yugoslavia finished 2–2. The recorded scoring sequence was Mijatović 13′; Stojković 54′; Mihajlović 73′ (o.g.); Bierhoff 80′. The halftime score was 0–1, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "13'",
+          "title": "Mijatović scores",
+          "description": "Mijatović scored for Yugoslavia."
+        },
+        {
+          "minute": "54'",
+          "title": "Stojković scores",
+          "description": "Stojković scored for Yugoslavia."
+        },
+        {
+          "minute": "73'",
+          "title": "Mihajlović scores",
+          "description": "Mihajlović scored for Germany."
+        },
+        {
+          "minute": "80'",
+          "title": "Bierhoff scores",
+          "description": "Bierhoff scored for Germany."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Mijatović",
+          "team": "Yugoslavia",
+          "role": "Goalscorer",
+          "description": "Scored for Yugoslavia in this match."
+        },
+        {
+          "player": "Stojković",
+          "team": "Yugoslavia",
+          "role": "Goalscorer",
+          "description": "Scored for Yugoslavia in this match."
+        },
+        {
+          "player": "Mihajlović",
+          "team": "Germany",
+          "role": "Goalscorer",
+          "description": "Scored for Germany in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c28",
+    "preMatch": {
+      "sceneSetter": "Japan and Jamaica step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Toulouse hosts Japan and Jamaica as two debutant World Cup nations chase a first victory in Group H.",
+      "inTheTournament": "Argentina and Croatia have already taken points in Group H. Japan and Jamaica now meet with both still searching for a win.",
+      "whyItMatters": "Japan arrive for a first World Cup finals with discipline and organization. Jamaica bring Caribbean energy and the ambition of a historic breakthrough. A first win would transform either campaign."
+    },
+    "postMatch": {
+      "score": "Japan 1–2 Jamaica",
+      "halftime": "Halftime: 0–1",
+      "goal": "Theodore Whitmore 39′, 54′; Masashi Nakayama 74′",
+      "matchReport": "Whitmore scored twice to put Jamaica in control. Nakayama pulled one back for Japan. Jamaica claimed a first World Cup finals victory.",
+      "keyMoments": [
+        {
+          "minute": "39'",
+          "title": "Theodore Whitmore scores"
+        },
+        {
+          "minute": "54'",
+          "title": "Theodore Whitmore scores"
+        },
+        {
+          "minute": "74'",
+          "title": "Masashi Nakayama scores"
+        },
+        {
+          "title": "Whitmore scored twice to put Jamaica in control"
+        },
+        {
+          "title": "Nakayama pulled one back for Japan"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Theodore Whitmore",
+          "team": "Jamaica",
+          "role": "Brace",
+          "description": "Scored twice and delivered Jamaica's landmark win."
+        },
+        {
+          "player": "Masashi Nakayama",
+          "team": "Japan",
+          "role": "Consolation",
+          "description": "Found Japan's reply but could not force a draw."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c29",
+    "preMatch": {
+      "sceneSetter": "Argentina and Croatia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Bordeaux hosts one of the group stage's most anticipated meetings as two talented European and South American sides collide.",
+      "inTheTournament": "Group H has produced tight, competitive matches. Argentina and Croatia meet with both teams knowing this fixture may decide the group.",
+      "whyItMatters": "Argentina arrive with individual brilliance and the expectation of topping their group. Croatia bring technical quality and the confidence of a nation making its World Cup mark. Both teams have talent to decide this match in a single moment."
+    },
+    "postMatch": {
+      "score": "Argentina 1–0 Croatia",
+      "halftime": "Halftime: 0–0",
+      "goal": "Javier Pineda 36′",
+      "matchReport": "A tight match was decided by a single first-half goal. Croatia created chances but could not find an equalizer. Argentina secured the result that kept them atop Group H.",
+      "keyMoments": [
+        {
+          "minute": "36'",
+          "title": "Javier Pineda scores"
+        },
+        {
+          "title": "A tight match was decided by a single first-half goal"
+        },
+        {
+          "title": "Croatia created chances but could not find an equalizer"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Javier Pineda",
+          "team": "Argentina",
+          "role": "Match winner",
+          "description": "Scored the only goal in a tense, technical contest."
+        },
+        {
+          "player": "Juan Sebastián Verón",
+          "team": "Argentina",
+          "role": "Midfield control",
+          "description": "Directed Argentina's rhythm throughout."
+        },
+        {
+          "player": "Davor Šuker",
+          "team": "Croatia",
+          "role": "Constant threat",
+          "description": "Croatia's most dangerous player in a frustrating defeat."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c30",
+    "preMatch": {
+      "sceneSetter": "Colombia and Tunisia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Colombia and Tunisia bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Colombia can set the terms of the contest with its own strengths. Tunisia have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Colombia 1–0 Tunisia",
+      "halftime": "Halftime: 0–0",
+      "goal": "Preciado 83′",
+      "matchReport": "Colombia and Tunisia finished 1–0. The recorded scoring sequence was Preciado 83′. The halftime score was 0–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "83'",
+          "title": "Preciado scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Léider Preciado",
+          "team": "Colombia",
+          "role": "Match winner",
+          "description": "Scored late to defeat Tunisia in Montpellier."
+        },
+        {
+          "player": "Carlos Valderrama",
+          "team": "Colombia",
+          "role": "Playmaker",
+          "description": "Dictated Colombia’s midfield rhythm."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c31",
+    "preMatch": {
+      "sceneSetter": "Romania and England step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Toulouse stages Romania against England as Group G reaches a decisive mid-group meeting.",
+      "inTheTournament": "Group G is finely balanced. Romania and England now meet knowing a win would seize early control.",
+      "whyItMatters": "Romania arrive with European craft and tournament composure. England bring attacking talent and the expectation of a deep run. Group G's middle fixture can redefine both campaigns overnight."
+    },
+    "postMatch": {
+      "score": "Romania 2–1 England",
+      "halftime": "Halftime: 0–0",
+      "goal": "Viorel Moldovan 47′; Michael Owen 79′; Dan Petrescu 90′",
+      "matchReport": "Moldovan broke the deadlock after halftime. Owen equalized late for England. Petrescu scored in the final minute to win it for Romania.",
+      "keyMoments": [
+        {
+          "minute": "47'",
+          "title": "Viorel Moldovan scores"
+        },
+        {
+          "minute": "79'",
+          "title": "Michael Owen scores"
+        },
+        {
+          "minute": "90'",
+          "title": "Dan Petrescu scores"
+        },
+        {
+          "title": "Moldovan broke the deadlock after halftime"
+        },
+        {
+          "title": "Owen equalized late for England"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Dan Petrescu",
+          "team": "Romania",
+          "role": "Late winner",
+          "description": "Converted the stoppage-time finish that stunned England."
+        },
+        {
+          "player": "Michael Owen",
+          "team": "England",
+          "role": "Equalizer",
+          "description": "Briefly restored parity before Romania struck again."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c32",
+    "preMatch": {
+      "sceneSetter": "Brazil and Norway step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "The group stage reaches its decisive phase as teams across France discover whether their early work has been enough.",
+      "inTheTournament": "Group A has produced surprises. Brazil and Norway meet with qualification still uncertain for both sides.",
+      "whyItMatters": "Brazil expected to dominate this group, but Norway have proved stubborn opponents throughout. Both teams know that the wrong result here could mean an unexpected early exit for one of the tournament's favorites."
+    },
+    "postMatch": {
+      "score": "Brazil 1–2 Norway",
+      "halftime": "Halftime: 0–1",
+      "goal": "Kjetil Rekdal 50′; Tore André Flo 71′; Bebeto 78′",
+      "matchReport": "Norway took control with two second-half goals. Bebeto pulled one back but Brazil could not find an equalizer. One of the tournament's earliest major upsets reshaped Group A.",
+      "keyMoments": [
+        {
+          "minute": "50'",
+          "title": "Kjetil Rekdal scores"
+        },
+        {
+          "minute": "71'",
+          "title": "Tore André Flo scores"
+        },
+        {
+          "minute": "78'",
+          "title": "Bebeto scores"
+        },
+        {
+          "title": "Norway took control with two second-half goals"
+        },
+        {
+          "title": "One of the tournament's earliest major upsets reshaped Group A"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Tore André Flo",
+          "team": "Norway",
+          "role": "Decisive finish",
+          "description": "Scored the goal that put Norway in front."
+        },
+        {
+          "player": "Kjetil Rekdal",
+          "team": "Norway",
+          "role": "Opening strike",
+          "description": "Gave Norway the lead shortly after halftime."
+        },
+        {
+          "player": "Bebeto",
+          "team": "Brazil",
+          "role": "Late hope",
+          "description": "Scored but could not spark a Brazilian comeback."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c33",
+    "preMatch": {
+      "sceneSetter": "Scotland and Morocco step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Scotland and Morocco bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Scotland can set the terms of the contest with its own strengths. Morocco have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Scotland 0–3 Morocco",
+      "halftime": "Halftime: 1–0",
+      "goal": "Bassir 22′; Hadda 47′; Bassir 84′",
+      "matchReport": "Scotland and Morocco finished 0–3. The recorded scoring sequence was Bassir 22′; Hadda 47′; Bassir 84′. The halftime score was 1–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "22'",
+          "title": "Bassir scores",
+          "description": "Bassir scored for Morocco."
+        },
+        {
+          "minute": "47'",
+          "title": "Hadda scores",
+          "description": "Hadda scored for Morocco."
+        },
+        {
+          "minute": "84'",
+          "title": "Bassir scores",
+          "description": "Bassir scored for Morocco."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Bassir",
+          "team": "Morocco",
+          "role": "Goalscorer",
+          "description": "Scored for Morocco in this match."
+        },
+        {
+          "player": "Hadda",
+          "team": "Morocco",
+          "role": "Goalscorer",
+          "description": "Scored for Morocco in this match."
+        },
+        {
+          "player": "Bassir",
+          "team": "Morocco",
+          "role": "Goalscorer",
+          "description": "Scored for Morocco in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c34",
+    "preMatch": {
+      "sceneSetter": "Italy and Austria step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "The Stade de France stages Italy against Austria as Group B reaches its final round of fixtures.",
+      "inTheTournament": "Italy lead Group B. Austria still need a result to keep qualification alive on the final matchday.",
+      "whyItMatters": "Italy arrive with qualification within reach and attacking confidence. Austria bring urgency and the knowledge that only a win keeps their tournament alive. Group B's final afternoon will settle the section."
+    },
+    "postMatch": {
+      "score": "Italy 2–1 Austria",
+      "halftime": "Halftime: 0–0",
+      "goal": "Christian Vieri 49′; Roberto Baggio 89′; Andreas Herzog 90′ (pen.)",
+      "matchReport": "Vieri broke the deadlock after halftime. Baggio added a late second for Italy. Herzog converted a stoppage-time penalty for Austria.",
+      "keyMoments": [
+        {
+          "minute": "49'",
+          "title": "Christian Vieri scores"
+        },
+        {
+          "minute": "89'",
+          "title": "Roberto Baggio scores"
+        },
+        {
+          "minute": "90'",
+          "title": "Andreas Herzog (pen.) scores"
+        },
+        {
+          "title": "Vieri broke the deadlock after halftime"
+        },
+        {
+          "title": "Baggio added a late second for Italy"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Christian Vieri",
+          "team": "Italy",
+          "role": "Breakthrough",
+          "description": "Opened the scoring and steered Italy toward first place."
+        },
+        {
+          "player": "Roberto Baggio",
+          "team": "Italy",
+          "role": "Late insurance",
+          "description": "Added the finish that secured the result."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c35",
+    "preMatch": {
+      "sceneSetter": "Chile and Cameroon step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Nantes hosts Chile and Cameroon on Group B's final matchday as both sides chase a path into the knockout rounds.",
+      "inTheTournament": "Italy are already in control of Group B. Chile and Cameroon now meet knowing a draw can still decide second place.",
+      "whyItMatters": "Chile arrive unbeaten and hunting qualification. Cameroon need a win to overturn the mathematics. On the final day of the group, caution and ambition collide."
+    },
+    "postMatch": {
+      "score": "Chile 1–1 Cameroon",
+      "halftime": "Halftime: 1–0",
+      "goal": "José Luis Sierra 20′; Patrick Mboma 56′",
+      "matchReport": "Sierra gave Chile a first-half lead. Mboma equalized after the break. Chile's third draw secured second place in Group B.",
+      "keyMoments": [
+        {
+          "minute": "20'",
+          "title": "José Luis Sierra scores"
+        },
+        {
+          "minute": "56'",
+          "title": "Patrick Mboma scores"
+        },
+        {
+          "title": "Sierra gave Chile a first-half lead"
+        },
+        {
+          "title": "Mboma equalized after the break"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "José Luis Sierra",
+          "team": "Chile",
+          "role": "Early lead",
+          "description": "Put Chile ahead and kept qualification on track."
+        },
+        {
+          "player": "Patrick Mboma",
+          "team": "Cameroon",
+          "role": "Equalizer",
+          "description": "Restored parity but could not force the win Cameroon needed."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c36",
+    "preMatch": {
+      "sceneSetter": "France and Saudi Arabia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Nantes stages France against Saudi Arabia as the hosts look to complete a perfect Group C campaign.",
+      "inTheTournament": "France lead Group C. Saudi Arabia arrive needing a result to stay alive on the final matchday.",
+      "whyItMatters": "France bring home support and tournament momentum. Saudi Arabia arrive under pressure and searching for a first win. The hosts can seal top spot with another controlled performance."
+    },
+    "postMatch": {
+      "score": "France 4–0 Saudi Arabia",
+      "halftime": "Halftime: 1–0",
+      "goal": "Thierry Henry 36′, 77′; David Trezeguet 68′; Bixente Lizarazu 85′",
+      "matchReport": "Henry opened the scoring before halftime. Trezeguet and Henry extended the lead after the break. Lizarazu completed a dominant French victory.",
+      "keyMoments": [
+        {
+          "minute": "36'",
+          "title": "Thierry Henry scores"
+        },
+        {
+          "minute": "77'",
+          "title": "Thierry Henry scores"
+        },
+        {
+          "minute": "68'",
+          "title": "David Trezeguet scores"
+        },
+        {
+          "minute": "85'",
+          "title": "Bixente Lizarazu scores"
+        },
+        {
+          "title": "Henry opened the scoring before halftime"
+        },
+        {
+          "title": "Trezeguet and Henry extended the lead after the break"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Thierry Henry",
+          "team": "France",
+          "role": "Brace",
+          "description": "Scored twice and drove the hosts' attacking rhythm."
+        },
+        {
+          "player": "David Trezeguet",
+          "team": "France",
+          "role": "Clinical finish",
+          "description": "Added the goal that broke the contest open."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c37",
+    "preMatch": {
+      "sceneSetter": "South Africa and Denmark step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "South Africa and Denmark bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "South Africa can set the terms of the contest with its own strengths. Denmark have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "South Africa 1–1 Denmark",
+      "halftime": "Halftime: 1–0",
+      "goal": "A.Nielsen 13′; McCarthy 52′",
+      "matchReport": "South Africa and Denmark finished 1–1. The recorded scoring sequence was A.Nielsen 13′; McCarthy 52′. The halftime score was 1–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "13'",
+          "title": "A.Nielsen scores",
+          "description": "A.Nielsen scored for Denmark."
+        },
+        {
+          "minute": "52'",
+          "title": "McCarthy scores",
+          "description": "McCarthy scored for South Africa."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "A.Nielsen",
+          "team": "Denmark",
+          "role": "Goalscorer",
+          "description": "Scored for Denmark in this match."
+        },
+        {
+          "player": "McCarthy",
+          "team": "South Africa",
+          "role": "Goalscorer",
+          "description": "Scored for South Africa in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c38",
+    "preMatch": {
+      "sceneSetter": "Nigeria and Paraguay step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Nigeria and Paraguay bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Nigeria can set the terms of the contest with its own strengths. Paraguay have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Nigeria 1–3 Paraguay",
+      "halftime": "Halftime: 1–1",
+      "goal": "Oruma 11′; Benitez 59′; Cardoso 86′",
+      "matchReport": "Nigeria and Paraguay finished 1–3. The recorded scoring sequence was Oruma 11′; Benitez 59′; Cardoso 86′. The halftime score was 1–1, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "11'",
+          "title": "Oruma scores",
+          "description": "Oruma scored for Paraguay."
+        },
+        {
+          "minute": "59'",
+          "title": "Benitez scores",
+          "description": "Benitez scored for Paraguay."
+        },
+        {
+          "minute": "86'",
+          "title": "Cardoso scores",
+          "description": "Cardoso scored for Paraguay."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Oruma",
+          "team": "Paraguay",
+          "role": "Goalscorer",
+          "description": "Scored for Paraguay in this match."
+        },
+        {
+          "player": "Benitez",
+          "team": "Paraguay",
+          "role": "Goalscorer",
+          "description": "Scored for Paraguay in this match."
+        },
+        {
+          "player": "Cardoso",
+          "team": "Paraguay",
+          "role": "Goalscorer",
+          "description": "Scored for Paraguay in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c39",
+    "preMatch": {
+      "sceneSetter": "Spain and Bulgaria step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Spain and Bulgaria bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Spain can set the terms of the contest with its own strengths. Bulgaria have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Spain 6–1 Bulgaria",
+      "halftime": "Halftime: 2–0",
+      "goal": "Hierro 6′ (pen.); Luis Enrique 19′; Morientes 53′; Kostadinov 56′",
+      "matchReport": "Spain and Bulgaria finished 6–1. The recorded scoring sequence was Hierro 6′ (pen.); Luis Enrique 19′; Morientes 53′; Kostadinov 56′. The halftime score was 2–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "6'",
+          "title": "Hierro scores",
+          "description": "Hierro scored for Spain."
+        },
+        {
+          "minute": "19'",
+          "title": "Luis Enrique scores",
+          "description": "Luis Enrique scored for Spain."
+        },
+        {
+          "minute": "53'",
+          "title": "Morientes scores",
+          "description": "Morientes scored for Spain."
+        },
+        {
+          "minute": "56'",
+          "title": "Kostadinov scores",
+          "description": "Kostadinov scored for Bulgaria."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Hierro",
+          "team": "Spain",
+          "role": "Goalscorer",
+          "description": "Scored for Spain in this match."
+        },
+        {
+          "player": "Luis Enrique",
+          "team": "Spain",
+          "role": "Goalscorer",
+          "description": "Scored for Spain in this match."
+        },
+        {
+          "player": "Morientes",
+          "team": "Spain",
+          "role": "Goalscorer",
+          "description": "Scored for Spain in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c40",
+    "preMatch": {
+      "sceneSetter": "Netherlands and Mexico step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Netherlands and Mexico bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Netherlands can set the terms of the contest with its own strengths. Mexico have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Netherlands 2–2 Mexico",
+      "halftime": "Halftime: 2–0",
+      "goal": "Cocu 4′; R.de Boer 19′; Pelaez 75′; Hernández 90+′",
+      "matchReport": "Netherlands and Mexico finished 2–2. The recorded scoring sequence was Cocu 4′; R.de Boer 19′; Pelaez 75′; Hernández 90+′. The halftime score was 2–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "4'",
+          "title": "Cocu scores",
+          "description": "Cocu scored for Netherlands."
+        },
+        {
+          "minute": "19'",
+          "title": "R.de Boer scores",
+          "description": "R.de Boer scored for Netherlands."
+        },
+        {
+          "minute": "75'",
+          "title": "Pelaez scores",
+          "description": "Pelaez scored for Mexico."
+        },
+        {
+          "minute": "90+'",
+          "title": "Hernández scores",
+          "description": "Hernández scored for Mexico."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Cocu",
+          "team": "Netherlands",
+          "role": "Goalscorer",
+          "description": "Scored for Netherlands in this match."
+        },
+        {
+          "player": "R.de Boer",
+          "team": "Netherlands",
+          "role": "Goalscorer",
+          "description": "Scored for Netherlands in this match."
+        },
+        {
+          "player": "Pelaez",
+          "team": "Mexico",
+          "role": "Goalscorer",
+          "description": "Scored for Mexico in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c41",
+    "preMatch": {
+      "sceneSetter": "Belgium and South Korea step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Belgium and South Korea bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Belgium can set the terms of the contest with its own strengths. South Korea have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Belgium 1–1 South Korea",
+      "halftime": "Halftime: 1–0",
+      "goal": "Nilis 6′; Yoo-Sang chul 71′",
+      "matchReport": "Belgium and South Korea finished 1–1. The recorded scoring sequence was Nilis 6′; Yoo-Sang chul 71′. The halftime score was 1–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "6'",
+          "title": "Nilis scores",
+          "description": "Nilis scored for Belgium."
+        },
+        {
+          "minute": "71'",
+          "title": "Yoo-Sang chul scores",
+          "description": "Yoo-Sang chul scored for South Korea."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Nilis",
+          "team": "Belgium",
+          "role": "Goalscorer",
+          "description": "Scored for Belgium in this match."
+        },
+        {
+          "player": "Yoo-Sang chul",
+          "team": "South Korea",
+          "role": "Goalscorer",
+          "description": "Scored for South Korea in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c42",
+    "preMatch": {
+      "sceneSetter": "Germany and Iran step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Germany and Iran bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Germany can set the terms of the contest with its own strengths. Iran have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Germany 2–0 Iran",
+      "halftime": "Halftime: 0–0",
+      "goal": "Bierhoff 50′; Klinsmann 57′",
+      "matchReport": "Germany and Iran finished 2–0. The recorded scoring sequence was Bierhoff 50′; Klinsmann 57′. The halftime score was 0–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "50'",
+          "title": "Bierhoff scores",
+          "description": "Bierhoff scored for Germany."
+        },
+        {
+          "minute": "57'",
+          "title": "Klinsmann scores",
+          "description": "Klinsmann scored for Germany."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Bierhoff",
+          "team": "Germany",
+          "role": "Goalscorer",
+          "description": "Scored for Germany in this match."
+        },
+        {
+          "player": "Klinsmann",
+          "team": "Germany",
+          "role": "Goalscorer",
+          "description": "Scored for Germany in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c43",
+    "preMatch": {
+      "sceneSetter": "United States and Yugoslavia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "United States and Yugoslavia bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "United States can set the terms of the contest with its own strengths. Yugoslavia have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "United States 0–1 Yugoslavia",
+      "halftime": "Halftime: 1–0",
+      "goal": "Komljenović 4′",
+      "matchReport": "United States and Yugoslavia finished 0–1. The recorded scoring sequence was Komljenović 4′. The halftime score was 1–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "4'",
+          "title": "Komljenović scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Slobodan Komljenović",
+          "team": "Yugoslavia",
+          "role": "Match winner",
+          "description": "Scored early to defeat the United States in Paris."
+        },
+        {
+          "player": "Kasey Keller",
+          "team": "United States",
+          "role": "Busy goalkeeper",
+          "description": "Kept the United States competitive after the early setback."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c44",
+    "preMatch": {
+      "sceneSetter": "Colombia and England step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Lens hosts Colombia against England as Group G reaches its closing assignment.",
+      "inTheTournament": "England need a result to secure passage. Colombia arrive searching for a late route into the knockout rounds.",
+      "whyItMatters": "England bring urgency and attacking depth. Colombia arrive with nothing to lose and the hope of a historic recovery. Group G's final night will decide who advances."
+    },
+    "postMatch": {
+      "score": "Colombia 0–2 England",
+      "halftime": "Halftime: 0–2",
+      "goal": "Darren Anderton 20′; David Beckham 29′",
+      "matchReport": "Anderton opened the scoring in the first half. Beckham doubled the lead from a free kick. England secured qualification from Group G.",
+      "keyMoments": [
+        {
+          "minute": "20'",
+          "title": "Darren Anderton scores"
+        },
+        {
+          "minute": "29'",
+          "title": "David Beckham scores"
+        },
+        {
+          "title": "Anderton opened the scoring in the first half"
+        },
+        {
+          "title": "Beckham doubled the lead from a free kick"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "David Beckham",
+          "team": "England",
+          "role": "Free-kick finish",
+          "description": "Struck the second goal that settled England's passage."
+        },
+        {
+          "player": "Darren Anderton",
+          "team": "England",
+          "role": "Early breakthrough",
+          "description": "Opened the scoring and set England's tempo."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c45",
+    "preMatch": {
+      "sceneSetter": "Romania and Tunisia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Romania and Tunisia bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Romania can set the terms of the contest with its own strengths. Tunisia have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Romania 1–1 Tunisia",
+      "halftime": "Halftime: 0–1",
+      "goal": "Souayah 10′ (pen.); Moldovan 72′",
+      "matchReport": "Romania and Tunisia finished 1–1. The recorded scoring sequence was Souayah 10′ (pen.); Moldovan 72′. The halftime score was 0–1, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "10'",
+          "title": "Souayah scores",
+          "description": "Souayah scored for Tunisia."
+        },
+        {
+          "minute": "72'",
+          "title": "Moldovan scores",
+          "description": "Moldovan scored for Romania."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Souayah",
+          "team": "Tunisia",
+          "role": "Goalscorer",
+          "description": "Scored for Tunisia in this match."
+        },
+        {
+          "player": "Moldovan",
+          "team": "Romania",
+          "role": "Goalscorer",
+          "description": "Scored for Romania in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c46",
+    "preMatch": {
+      "sceneSetter": "Argentina and Jamaica step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Argentina and Jamaica bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Argentina can set the terms of the contest with its own strengths. Jamaica have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Argentina 5–0 Jamaica",
+      "halftime": "Halftime: 1–0",
+      "goal": "Ortega 32′; Ortega 55′; Batistuta 72′; Batistuta 79′",
+      "matchReport": "Argentina and Jamaica finished 5–0. The recorded scoring sequence was Ortega 32′; Ortega 55′; Batistuta 72′; Batistuta 79′. The halftime score was 1–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "32'",
+          "title": "Ortega scores",
+          "description": "Ortega scored for Argentina."
+        },
+        {
+          "minute": "55'",
+          "title": "Ortega scores",
+          "description": "Ortega scored for Argentina."
+        },
+        {
+          "minute": "72'",
+          "title": "Batistuta scores",
+          "description": "Batistuta scored for Argentina."
+        },
+        {
+          "minute": "79'",
+          "title": "Batistuta scores",
+          "description": "Batistuta scored for Argentina."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Ortega",
+          "team": "Argentina",
+          "role": "Goalscorer",
+          "description": "Scored for Argentina in this match."
+        },
+        {
+          "player": "Ortega",
+          "team": "Argentina",
+          "role": "Goalscorer",
+          "description": "Scored for Argentina in this match."
+        },
+        {
+          "player": "Batistuta",
+          "team": "Argentina",
+          "role": "Goalscorer",
+          "description": "Scored for Argentina in this match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c47",
+    "preMatch": {
+      "sceneSetter": "Japan and Croatia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Japan and Croatia bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Japan can set the terms of the contest with its own strengths. Croatia have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Japan 0–1 Croatia",
+      "halftime": "Halftime: 0–0",
+      "goal": "Šuker 77′",
+      "matchReport": "Japan and Croatia finished 0–1. The recorded scoring sequence was Šuker 77′. The halftime score was 0–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "77'",
+          "title": "Šuker scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Davor Šuker",
+          "team": "Croatia",
+          "role": "Match winner",
+          "description": "Scored the only goal against Japan in Nantes."
+        },
+        {
+          "player": "Zvonimir Boban",
+          "team": "Croatia",
+          "role": "Midfield control",
+          "description": "Helped Croatia manage the contest after taking the lead."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c48",
+    "preMatch": {
+      "sceneSetter": "Italy and Norway step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "The knockout stage begins as the tournament sheds eight nations in a single weekend of sudden-death football.",
+      "inTheTournament": "Italy and Norway survived the group stage through different paths. Now there is no second chance.",
+      "whyItMatters": "Italy bring defensive organization and tournament experience. Norway arrive with the confidence of having beaten Brazil in the group stage. Knockout football removes the safety net of a draw — one team advances, one goes home."
+    },
+    "postMatch": {
+      "score": "Italy 1–0 Norway",
+      "halftime": "Halftime: 1–0",
+      "goal": "Christian Vieri 18′",
+      "matchReport": "Vieri scored early and Italy protected their lead. Norway pressed but could not find an equalizer. Italy advanced to the quarterfinals.",
+      "keyMoments": [
+        {
+          "minute": "18'",
+          "title": "Christian Vieri scores"
+        },
+        {
+          "title": "Vieri scored early and Italy protected their lead"
+        },
+        {
+          "title": "Norway pressed but could not find an equalizer"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Christian Vieri",
+          "team": "Italy",
+          "role": "Early decider",
+          "description": "Scored inside twenty minutes and gave Italy control."
+        },
+        {
+          "player": "Paolo Maldini",
+          "team": "Italy",
+          "role": "Defensive masterclass",
+          "description": "Organized Italy through sustained Norwegian pressure."
+        },
+        {
+          "player": "Tore André Flo",
+          "team": "Norway",
+          "role": "Persistent threat",
+          "description": "Norway's most dangerous player in a frustrating defeat."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c49",
+    "preMatch": {
+      "sceneSetter": "Brazil and Chile step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Paris hosts the defending champions as the knockout stage produces its first South American duel.",
+      "inTheTournament": "Brazil survived a surprising group stage. Chile arrive with the flair that made them one of South America's most watchable sides.",
+      "whyItMatters": "Brazil expected to dominate the tournament but stumbled in the group stage. Chile bring attacking quality and the fearlessness of a team with nothing to lose. The defending champions cannot afford another flat performance."
+    },
+    "postMatch": {
+      "score": "Brazil 4–1 Chile",
+      "halftime": "Halftime: 1–0",
+      "goal": "Ronaldo 45′; Marcelo Salas 67′; Rivaldo 68′; Gonzalo Jara 68′ (o.g.); Ronaldo 80′",
+      "matchReport": "Ronaldo scored twice as Brazil finally found their rhythm. Salas briefly gave Chile hope before Brazil pulled away. The defending champions announced their knockout intent.",
+      "keyMoments": [
+        {
+          "minute": "45'",
+          "title": "Ronaldo scores"
+        },
+        {
+          "minute": "67'",
+          "title": "Marcelo Salas scores"
+        },
+        {
+          "minute": "68'",
+          "title": "Rivaldo scores"
+        },
+        {
+          "minute": "68'",
+          "title": "Gonzalo Jara (o.g.) scores"
+        },
+        {
+          "minute": "80'",
+          "title": "Ronaldo scores"
+        },
+        {
+          "title": "Salas briefly gave Chile hope before Brazil pulled away"
+        },
+        {
+          "title": "The defending champions announced their knockout intent"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Ronaldo",
+          "team": "Brazil",
+          "role": "Brace",
+          "description": "Scored twice and looked like the player Brazil had been waiting for."
+        },
+        {
+          "player": "Rivaldo",
+          "team": "Brazil",
+          "role": "Creative force",
+          "description": "Drove Brazil's attacking play throughout."
+        },
+        {
+          "player": "Marcelo Salas",
+          "team": "Chile",
+          "role": "Brief resistance",
+          "description": "Scored Chile's only goal and kept them competitive."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c50",
+    "preMatch": {
+      "sceneSetter": "Denmark and Saudi Arabia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Denmark and Saudi Arabia bring distinct football traditions to France 98. The expanded 32-team finals have made every host city a stage for a new meeting of styles.",
+      "inTheTournament": "Before kickoff, this group stage fixture has not yet altered the tournament standings.",
+      "whyItMatters": "Denmark can set the terms of the contest with its own strengths. Saudi Arabia have the same opportunity, so the match begins with genuine consequence for both teams."
+    },
+    "postMatch": {
+      "score": "Denmark 1–0 Saudi Arabia",
+      "halftime": "Halftime: 0–0",
+      "goal": "Rieper 69′",
+      "matchReport": "Denmark and Saudi Arabia finished 1–0. The recorded scoring sequence was Rieper 69′. The halftime score was 0–0, framing how the match unfolded.",
+      "keyMoments": [
+        {
+          "minute": "69'",
+          "title": "Rieper scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Ebbe Sand",
+          "team": "Denmark",
+          "role": "Match winner",
+          "description": "Scored the goal that defeated Saudi Arabia in Lens."
+        },
+        {
+          "player": "Peter Schmeichel",
+          "team": "Denmark",
+          "role": "Commanding goalkeeper",
+          "description": "Protected Denmark’s narrow advantage."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete France ’98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c51",
+    "preMatch": {
+      "sceneSetter": "France and Paraguay step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "The host nation's knockout campaign begins in Lens as an entire country holds its breath.",
+      "inTheTournament": "France have progressed smoothly through the group stage. Paraguay arrive with the organization that kept Spain and Nigeria honest in Group D.",
+      "whyItMatters": "The host nation carries expectations that extend far beyond football. Paraguay bring South American discipline and the ability to frustrate more talented opponents. Knockout football tests whether France can handle the weight of a nation's hopes."
+    },
+    "postMatch": {
+      "score": "France 1–0 Paraguay (a.e.t.)",
+      "halftime": "Halftime: 0–0",
+      "goal": "Laurent Blanc 114′",
+      "matchReport": "The match remained scoreless through ninety minutes. Blanc scored in extra time to send the host nation through. Paraguay defended heroically but could not find a way past Barthez.",
+      "keyMoments": [
+        {
+          "minute": "114'",
+          "title": "Laurent Blanc scores"
+        },
+        {
+          "title": "The match remained scoreless through ninety minutes"
+        },
+        {
+          "title": "Blanc scored in extra time to send the host nation through"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Laurent Blanc",
+          "team": "France",
+          "role": "Extra-time hero",
+          "description": "Scored the golden goal that kept France's campaign alive."
+        },
+        {
+          "player": "Fabien Barthez",
+          "team": "France",
+          "role": "Composure",
+          "description": "Maintained concentration through a tense, scoreless regulation."
+        },
+        {
+          "player": "José Luis Chilavert",
+          "team": "Paraguay",
+          "role": "Resistance",
+          "description": "Kept Paraguay in the match with a commanding performance."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c52",
+    "preMatch": {
+      "sceneSetter": "Nigeria and Denmark step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "The Stade de France hosts a last-sixteen tie between two teams that impressed in different ways during the group stage.",
+      "inTheTournament": "Nigeria's opening victory over Spain announced them as one of the tournament's most exciting teams. Denmark arrive with Scandinavian organization and set-piece threat.",
+      "whyItMatters": "Nigeria bring pace, flair and the confidence of having beaten Spain. Denmark bring physicality and the tactical discipline that eliminated several stronger sides in recent tournaments. The contrast in styles could produce an open, unpredictable match."
+    },
+    "postMatch": {
+      "score": "Nigeria 1–4 Denmark",
+      "halftime": "Halftime: 0–2",
+      "goal": "Thomas Jørgensen 3′; Martin Jørgensen 12′; Ebbe Sand 58′; Thomas Helveg 86′; Tijani Babangida 71′",
+      "matchReport": "Denmark scored twice inside the opening fifteen minutes. Sand and Helveg added further goals. Babangida scored a late consolation for Nigeria.",
+      "keyMoments": [
+        {
+          "minute": "3'",
+          "title": "Thomas Jørgensen scores"
+        },
+        {
+          "minute": "12'",
+          "title": "Martin Jørgensen scores"
+        },
+        {
+          "minute": "58'",
+          "title": "Ebbe Sand scores"
+        },
+        {
+          "minute": "86'",
+          "title": "Thomas Helveg scores"
+        },
+        {
+          "minute": "71'",
+          "title": "Tijani Babangida scores"
+        },
+        {
+          "title": "Denmark scored twice inside the opening fifteen minutes"
+        },
+        {
+          "title": "Sand and Helveg added further goals"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Martin Jørgensen",
+          "team": "Denmark",
+          "role": "Early strike",
+          "description": "Scored inside twelve minutes and set Denmark's tone."
+        },
+        {
+          "player": "Ebbe Sand",
+          "team": "Denmark",
+          "role": "Second-half finish",
+          "description": "Added the third and killed Nigerian hopes of a comeback."
+        },
+        {
+          "player": "Thomas Jørgensen",
+          "team": "Denmark",
+          "role": "Instant impact",
+          "description": "Scored after three minutes to shock Nigeria."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c53",
+    "preMatch": {
+      "sceneSetter": "Germany and Mexico step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Montpellier hosts a European-American collision as the knockout stage continues to eliminate favorites and underdogs alike.",
+      "inTheTournament": "Germany controlled Group F with professional efficiency. Mexico arrive with the flair that made them one of the tournament's most watchable sides.",
+      "whyItMatters": "Germany bring experience and the expectation that comes with being one of Europe's traditional powers. Mexico bring attacking quality and the confidence of having beaten South Korea convincingly. Both teams have enough quality to win this tie."
+    },
+    "postMatch": {
+      "score": "Germany 2–1 Mexico",
+      "halftime": "Halftime: 1–1",
+      "goal": "Jürgen Klinsmann 43′; Cuauhtémoc Blanco 37′; Oliver Bierhoff 68′",
+      "matchReport": "Blanco gave Mexico an early lead. Klinsmann equalized before halftime. Bierhoff scored the winner in the second half.",
+      "keyMoments": [
+        {
+          "minute": "43'",
+          "title": "Jürgen Klinsmann scores"
+        },
+        {
+          "minute": "37'",
+          "title": "Cuauhtémoc Blanco scores"
+        },
+        {
+          "minute": "68'",
+          "title": "Oliver Bierhoff scores"
+        },
+        {
+          "title": "Blanco gave Mexico an early lead"
+        },
+        {
+          "title": "Klinsmann equalized before halftime"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Oliver Bierhoff",
+          "team": "Germany",
+          "role": "Match winner",
+          "description": "Scored the goal that sent Germany through."
+        },
+        {
+          "player": "Cuauhtémoc Blanco",
+          "team": "Mexico",
+          "role": "Opening strike",
+          "description": "Gave Mexico hope with an early goal."
+        },
+        {
+          "player": "Jürgen Klinsmann",
+          "team": "Germany",
+          "role": "Equalizer",
+          "description": "Leveled the match before the break."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c54",
+    "preMatch": {
+      "sceneSetter": "Netherlands and Yugoslavia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Toulouse hosts a European derby as the knockout stage produces another fixture charged with regional history.",
+      "inTheTournament": "The Netherlands survived a cautious group stage. Yugoslavia arrive with the technical quality that beat Iran and tested Germany.",
+      "whyItMatters": "The Netherlands bring attacking talent and the frustration of a group stage that never quite caught fire. Yugoslavia bring Balkan technical quality and the ability to compete with Europe's best. Both teams have points to prove."
+    },
+    "postMatch": {
+      "score": "Netherlands 2–1 Yugoslavia",
+      "halftime": "Halftime: 1–0",
+      "goal": "Dennis Bergkamp 38′; Ruud Gullit 48′; Siniša Mihajlović 76′",
+      "matchReport": "Bergkamp and Gullit gave the Netherlands a two-goal cushion. Mihajlović pulled one back but Yugoslavia could not find an equalizer. The Netherlands advanced to face Argentina.",
+      "keyMoments": [
+        {
+          "minute": "38'",
+          "title": "Dennis Bergkamp scores"
+        },
+        {
+          "minute": "48'",
+          "title": "Ruud Gullit scores"
+        },
+        {
+          "minute": "76'",
+          "title": "Siniša Mihajlović scores"
+        },
+        {
+          "title": "Bergkamp and Gullit gave the Netherlands a two-goal cushion"
+        },
+        {
+          "title": "Mihajlović pulled one back but Yugoslavia could not find an equalizer"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Dennis Bergkamp",
+          "team": "Netherlands",
+          "role": "Opening goal",
+          "description": "Scored before halftime and controlled Dutch attacking play."
+        },
+        {
+          "player": "Ruud Gullit",
+          "team": "Netherlands",
+          "role": "Second-half finish",
+          "description": "Extended the lead shortly after the break."
+        },
+        {
+          "player": "Siniša Mihajlović",
+          "team": "Yugoslavia",
+          "role": "Late hope",
+          "description": "Scored from a set piece but could not spark a comeback."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c55",
+    "preMatch": {
+      "sceneSetter": "Romania and Croatia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Bordeaux hosts an Eastern European duel as two nations that emerged from different football traditions meet in the last sixteen.",
+      "inTheTournament": "Romania and Croatia both impressed during the group stage. Now one team's tournament ends while the other advances.",
+      "whyItMatters": "Romania bring the imagination that reached the quarterfinals four years earlier. Croatia bring the technical quality and confidence of a nation making its World Cup mark. Both teams have the talent to win this tie in a single moment."
+    },
+    "postMatch": {
+      "score": "Romania 0–1 Croatia",
+      "halftime": "Halftime: 0–0",
+      "goal": "Robert Prosinečki 45′",
+      "matchReport": "Prosinečki scored on the stroke of halftime. Romania pressed throughout the second half but could not equalize. Croatia advanced to face Germany.",
+      "keyMoments": [
+        {
+          "minute": "45'",
+          "title": "Robert Prosinečki scores"
+        },
+        {
+          "title": "Prosinečki scored on the stroke of halftime"
+        },
+        {
+          "title": "Romania pressed throughout the second half but could not equalize"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Robert Prosinečki",
+          "team": "Croatia",
+          "role": "Match winner",
+          "description": "Scored a spectacular goal that decided the tie."
+        },
+        {
+          "player": "Davor Šuker",
+          "team": "Croatia",
+          "role": "Constant threat",
+          "description": "Created chances throughout and kept Romania's defense occupied."
+        },
+        {
+          "player": "Gheorghe Hagi",
+          "team": "Romania",
+          "role": "Creative effort",
+          "description": "Tried everything to rescue Romania but could not find a breakthrough."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c56",
+    "preMatch": {
+      "sceneSetter": "Argentina and England step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Saint-Étienne hosts one of the tournament's most anticipated knockout ties as two football nations with deep history collide.",
+      "inTheTournament": "Argentina topped Group H with professional efficiency. England arrive bruised after an unexpected group-stage defeat but still carrying individual quality.",
+      "whyItMatters": "Argentina bring individual brilliance and the expectation of being tournament favorites. England bring the weight of history and a squad that knows how quickly knockout football can turn. The emotional stakes extend far beyond the current squads."
+    },
+    "postMatch": {
+      "score": "Argentina 2–2 England (Argentina won 4–3 on pens)",
+      "halftime": "Halftime: 2–2",
+      "goal": "Gabriel Batistuta 6′; Alan Shearer 10′; Javier Zanetti 45′; Michael Owen 16′",
+      "matchReport": "Four goals in an extraordinary first half. The match remained level through extra time. Argentina won the penalty shootout 4–3.",
+      "keyMoments": [
+        {
+          "minute": "6'",
+          "title": "Gabriel Batistuta scores"
+        },
+        {
+          "minute": "10'",
+          "title": "Alan Shearer scores"
+        },
+        {
+          "minute": "45'",
+          "title": "Javier Zanetti scores"
+        },
+        {
+          "minute": "16'",
+          "title": "Michael Owen scores"
+        },
+        {
+          "title": "Four goals in an extraordinary first half"
+        },
+        {
+          "title": "The match remained level through extra time"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Michael Owen",
+          "team": "England",
+          "role": "Teenage impact",
+          "description": "Scored a sensational solo goal that announced a new English talent."
+        },
+        {
+          "player": "Gabriel Batistuta",
+          "team": "Argentina",
+          "role": "Early strike",
+          "description": "Scored inside ten minutes and set Argentina's tone."
+        },
+        {
+          "player": "Javier Zanetti",
+          "team": "Argentina",
+          "role": "Equalizer",
+          "description": "Scored a clever free-kick that kept Argentina level at halftime."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c57",
+    "preMatch": {
+      "sceneSetter": "Italy and France step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "The quarterfinals begin as the tournament reaches the stage where every match carries the weight of national expectation.",
+      "inTheTournament": "Italy and France have reached the last eight through different paths. Now one nation's dream continues while another's ends.",
+      "whyItMatters": "Italy bring defensive organization and the resilience that kept them in the tournament. France carry the weight of a host nation that has progressed smoothly but knows the quarterfinal is where campaigns are truly tested."
+    },
+    "postMatch": {
+      "score": "Italy 0–0 France (France won 4–3 on pens)",
+      "halftime": "Halftime: 0–0",
+      "goal": "No goals — France won the shootout 4–3",
+      "matchReport": "Neither team could break through in 120 minutes. France converted four penalties in the shootout. The host nation advanced to the semifinals.",
+      "keyMoments": [
+        {
+          "title": "Neither team could break through in 120 minutes"
+        },
+        {
+          "title": "France converted four penalties in the shootout"
+        },
+        {
+          "title": "The host nation advanced to the semifinals"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Fabien Barthez",
+          "team": "France",
+          "role": "Shootout hero",
+          "description": "Saved a penalty and projected calm throughout the shootout."
+        },
+        {
+          "player": "Paolo Maldini",
+          "team": "Italy",
+          "role": "Defensive masterclass",
+          "description": "Led Italy through 120 scoreless minutes."
+        },
+        {
+          "player": "Laurent Blanc",
+          "team": "France",
+          "role": "Composure",
+          "description": "Converted in the shootout and organized France's defense."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c58",
+    "preMatch": {
+      "sceneSetter": "Brazil and Denmark step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Nantes hosts the defending champions as the quarterfinals produce another fixture between a favorite and a team that has exceeded expectations.",
+      "inTheTournament": "Brazil found their rhythm in the knockout stage. Denmark arrive after dismantling Nigeria in the last sixteen.",
+      "whyItMatters": "Brazil bring the individual quality that makes them tournament favorites. Denmark bring the organization and set-piece threat that eliminated Nigeria convincingly. The defending champions cannot afford to underestimate a Scandinavian side that has already beaten stronger opponents."
+    },
+    "postMatch": {
+      "score": "Brazil 3–2 Denmark",
+      "halftime": "Halftime: 1–1",
+      "goal": "Bebeto 3′; Thomas Jørgensen 45′; Rivaldo 50′, 62′; Allan Nielsen 82′",
+      "matchReport": "Bebeto gave Brazil an early lead. Rivaldo scored twice to put Brazil in control. Nielsen pulled one back late but Denmark could not find an equalizer.",
+      "keyMoments": [
+        {
+          "minute": "3'",
+          "title": "Bebeto scores"
+        },
+        {
+          "minute": "45'",
+          "title": "Thomas Jørgensen scores"
+        },
+        {
+          "minute": "50'",
+          "title": "Rivaldo scores"
+        },
+        {
+          "minute": "62'",
+          "title": "Rivaldo scores"
+        },
+        {
+          "minute": "82'",
+          "title": "Allan Nielsen scores"
+        },
+        {
+          "title": "Nielsen pulled one back late but Denmark could not find an equalizer"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Rivaldo",
+          "team": "Brazil",
+          "role": "Brace",
+          "description": "Scored twice and finally looked like the player Brazil needed."
+        },
+        {
+          "player": "Bebeto",
+          "team": "Brazil",
+          "role": "Early strike",
+          "description": "Scored inside three minutes and set Brazil's attacking tone."
+        },
+        {
+          "player": "Thomas Jørgensen",
+          "team": "Denmark",
+          "role": "Equalizer",
+          "description": "Scored before halftime and kept Denmark competitive."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c59",
+    "preMatch": {
+      "sceneSetter": "Netherlands and Argentina step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Marseille hosts a quarterfinal between two nations that expect to compete for the highest honors.",
+      "inTheTournament": "The Netherlands survived Yugoslavia in the last sixteen. Argentina arrive after eliminating England in one of the tournament's most dramatic ties.",
+      "whyItMatters": "The Netherlands bring attacking talent and the frustration of never quite fulfilling their potential on the biggest stage. Argentina bring individual brilliance and the confidence of having survived a penalty shootout. Both teams believe they belong in the semifinals."
+    },
+    "postMatch": {
+      "score": "Netherlands 2–1 Argentina",
+      "halftime": "Halftime: 1–1",
+      "goal": "Patrick Kluivert 12′; Roberto Ayala 36′; Dennis Bergkamp 89′",
+      "matchReport": "Kluivert gave the Netherlands an early lead. Ayala equalized before halftime. Bergkamp scored a late winner to send the Netherlands through.",
+      "keyMoments": [
+        {
+          "minute": "12'",
+          "title": "Patrick Kluivert scores"
+        },
+        {
+          "minute": "36'",
+          "title": "Roberto Ayala scores"
+        },
+        {
+          "minute": "89'",
+          "title": "Dennis Bergkamp scores"
+        },
+        {
+          "title": "Kluivert gave the Netherlands an early lead"
+        },
+        {
+          "title": "Ayala equalized before halftime"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Dennis Bergkamp",
+          "team": "Netherlands",
+          "role": "Late winner",
+          "description": "Scored one of the tournament's most memorable goals in the closing stages."
+        },
+        {
+          "player": "Patrick Kluivert",
+          "team": "Netherlands",
+          "role": "Opening strike",
+          "description": "Gave the Netherlands an early advantage."
+        },
+        {
+          "player": "Roberto Ayala",
+          "team": "Argentina",
+          "role": "Equalizer",
+          "description": "Kept Argentina in the match with a first-half header."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c60",
+    "preMatch": {
+      "sceneSetter": "Germany and Croatia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "Lyon hosts a quarterfinal that pits European experience against the rising force of Croatian football.",
+      "inTheTournament": "Germany controlled their group and eliminated Mexico professionally. Croatia arrive with the confidence of having beaten Romania with a moment of individual brilliance.",
+      "whyItMatters": "Germany bring the expectation that comes with being one of Europe's most successful nations. Croatia bring technical quality and the fearlessness of a team that believes it belongs among the world's best. The gap in history may be wide; the gap in current form may be less so."
+    },
+    "postMatch": {
+      "score": "Germany 0–3 Croatia",
+      "halftime": "Halftime: 0–1",
+      "goal": "Robert Jarni 45′; Goran Vlaović 46′; Zvonimir Boban 85′",
+      "matchReport": "Croatia scored three times in a stunning upset. Jarni opened the scoring on the stroke of halftime. Vlaović and Boban sealed one of the tournament's biggest surprises.",
+      "keyMoments": [
+        {
+          "minute": "45'",
+          "title": "Robert Jarni scores"
+        },
+        {
+          "minute": "46'",
+          "title": "Goran Vlaović scores"
+        },
+        {
+          "minute": "85'",
+          "title": "Zvonimir Boban scores"
+        },
+        {
+          "title": "Croatia scored three times in a stunning upset"
+        },
+        {
+          "title": "Jarni opened the scoring on the stroke of halftime"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Goran Vlaović",
+          "team": "Croatia",
+          "role": "Second-half finish",
+          "description": "Scored immediately after halftime and killed German hopes."
+        },
+        {
+          "player": "Robert Jarni",
+          "team": "Croatia",
+          "role": "Opening strike",
+          "description": "Scored a spectacular goal that set the tone."
+        },
+        {
+          "player": "Zvonimir Boban",
+          "team": "Croatia",
+          "role": "Late confirmation",
+          "description": "Sealed the result and completed Croatia's statement."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c61",
+    "preMatch": {
+      "sceneSetter": "Brazil and Netherlands step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "The semifinals begin as four teams remain and every player is now one match from the final.",
+      "inTheTournament": "Brazil and the Netherlands have both survived dramatic knockout ties. Now one advances to the final while the other faces the pain of falling one step short.",
+      "whyItMatters": "Brazil bring the individual quality that makes them favorites to retain their title. The Netherlands bring attacking talent and the belief that this may finally be their moment. Semifinals can be cautious until one moment alters the emotional balance."
+    },
+    "postMatch": {
+      "score": "Brazil 1–1 Netherlands (Brazil won 4–2 on pens)",
+      "halftime": "Halftime: 0–0",
+      "goal": "Ronaldo 46′; Patrick Kluivert 87′",
+      "matchReport": "Ronaldo gave Brazil the lead shortly after halftime. Kluivert equalized late in regulation. Brazil won the penalty shootout 4–2.",
+      "keyMoments": [
+        {
+          "minute": "46'",
+          "title": "Ronaldo scores"
+        },
+        {
+          "minute": "87'",
+          "title": "Patrick Kluivert scores"
+        },
+        {
+          "title": "Kluivert equalized late in regulation"
+        },
+        {
+          "title": "Brazil won the penalty shootout 4–2"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Ronaldo",
+          "team": "Brazil",
+          "role": "Opening strike",
+          "description": "Scored after halftime and looked like the player Brazil needed."
+        },
+        {
+          "player": "Patrick Kluivert",
+          "team": "Netherlands",
+          "role": "Late equalizer",
+          "description": "Scored a crucial late goal to force extra time."
+        },
+        {
+          "player": "Cláudio Taffarel",
+          "team": "Brazil",
+          "role": "Shootout hero",
+          "description": "Saved penalties and sent Brazil to the final."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c62",
+    "preMatch": {
+      "sceneSetter": "France and Croatia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "The host nation's semifinal arrives as an entire country gathers to see whether the dream can reach the final.",
+      "inTheTournament": "France survived Italy on penalties in the quarterfinals. Croatia arrive after stunning Germany and announcing themselves as one of the tournament's most dangerous teams.",
+      "whyItMatters": "France carry the weight of a nation's expectations into the biggest match of their campaign so far. Croatia bring technical quality and the confidence of having eliminated Germany. The host nation knows that defeat here would feel like the end of a dream."
+    },
+    "postMatch": {
+      "score": "France 2–1 Croatia",
+      "halftime": "Halftime: 1–1",
+      "goal": "Davor Šuker 46′; Lilian Thuram 47′, 69′",
+      "matchReport": "Šuker gave Croatia a second-half lead. Thuram scored twice to send the host nation to the final. France's dream remained alive.",
+      "keyMoments": [
+        {
+          "minute": "46'",
+          "title": "Davor Šuker scores"
+        },
+        {
+          "minute": "47'",
+          "title": "Lilian Thuram scores"
+        },
+        {
+          "minute": "69'",
+          "title": "Lilian Thuram scores"
+        },
+        {
+          "title": "Šuker gave Croatia a second-half lead"
+        },
+        {
+          "title": "Thuram scored twice to send the host nation to the final"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Lilian Thuram",
+          "team": "France",
+          "role": "Brace",
+          "description": "Scored both French goals in the most important match of his career."
+        },
+        {
+          "player": "Davor Šuker",
+          "team": "Croatia",
+          "role": "Opening strike",
+          "description": "Gave Croatia a lead that briefly silenced the Stade de France."
+        },
+        {
+          "player": "Fabien Barthez",
+          "team": "France",
+          "role": "Composure",
+          "description": "Maintained concentration when Croatia threatened to extend their lead."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c63",
+    "preMatch": {
+      "sceneSetter": "Netherlands and Croatia step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "One match remains before the final, but this game has its own meaning for two teams closing memorable campaigns.",
+      "inTheTournament": "The Netherlands and Croatia meet for third place after falling one step short of the final.",
+      "whyItMatters": "The emotional challenge is unusual: both teams must recover quickly from semifinal disappointment and find a reason to finish strongly. These matches can become open because the fear of elimination has already passed."
+    },
+    "postMatch": {
+      "score": "Netherlands 1–2 Croatia",
+      "halftime": "Halftime: 1–1",
+      "goal": "Robert Prosinečki 14′; Patrick Kluivert 16′; Zvonimir Boban 36′; Davor Šuker 77′",
+      "matchReport": "Prosinečki opened the scoring before Kluivert equalized. Boban restored Croatia's lead before halftime. Šuker sealed Croatia's third-place finish in the second half.",
+      "keyMoments": [
+        {
+          "minute": "14'",
+          "title": "Robert Prosinečki scores"
+        },
+        {
+          "minute": "16'",
+          "title": "Patrick Kluivert scores"
+        },
+        {
+          "minute": "36'",
+          "title": "Zvonimir Boban scores"
+        },
+        {
+          "minute": "77'",
+          "title": "Davor Šuker scores"
+        },
+        {
+          "title": "Prosinečki opened the scoring before Kluivert equalized"
+        },
+        {
+          "title": "Boban restored Croatia's lead before halftime"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Robert Prosinečki",
+          "team": "Croatia",
+          "role": "Opening strike",
+          "description": "Scored early and set Croatia's attacking tone."
+        },
+        {
+          "player": "Patrick Kluivert",
+          "team": "Netherlands",
+          "role": "Brief equalizer",
+          "description": "Pulled the Netherlands level before Croatia restored their lead."
+        },
+        {
+          "player": "Davor Šuker",
+          "team": "Croatia",
+          "role": "Late finish",
+          "description": "Sealed Croatia's third-place finish."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "france-1998-c64",
+    "preMatch": {
+      "sceneSetter": "Brazil and France step into a French World Cup night with the crowd gathering around them.",
+      "aroundTheWorld": "After one month, the tournament reaches its final match at the Stade de France.",
+      "inTheTournament": "Brazil and the host nation are the last two teams standing. Everything before this has led to one final afternoon.",
+      "whyItMatters": "Both nations understand this stage and the weight attached to it. Brazil arrive as defending champions seeking to retain their title on foreign soil. France carry the dreams of a host nation that has progressed steadily toward this moment. There is no next match."
+    },
+    "postMatch": {
+      "score": "Brazil 0–3 France",
+      "halftime": "Halftime: 2–0",
+      "goal": "Zinédine Zidane 27′, 45+2′; Emmanuel Petit 90+3′",
+      "matchReport": "Zidane scored twice from headers before halftime. Petit added a third in stoppage time. The host nation won the World Cup on home soil.",
+      "keyMoments": [
+        {
+          "minute": "27'",
+          "title": "Zinédine Zidane scores"
+        },
+        {
+          "minute": "2'",
+          "title": "Zinédine Zidane scores"
+        },
+        {
+          "minute": "3'",
+          "title": "Emmanuel Petit scores"
+        },
+        {
+          "title": "Zidane scored twice from headers before halftime"
+        },
+        {
+          "title": "Petit added a third in stoppage time"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Zinédine Zidane",
+          "team": "France",
+          "role": "Brace",
+          "description": "Scored both first-half goals and controlled the match's emotional center."
+        },
+        {
+          "player": "Emmanuel Petit",
+          "team": "France",
+          "role": "Late confirmation",
+          "description": "Sealed the victory in the final moments."
+        },
+        {
+          "player": "Fabien Barthez",
+          "team": "France",
+          "role": "Calm authority",
+          "description": "Commanded his area and gave France defensive security throughout."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  }
+]

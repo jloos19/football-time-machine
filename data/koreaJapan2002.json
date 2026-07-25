@@ -1,0 +1,1418 @@
+[
+  {
+    "id": "korea-japan-2002-01",
+    "tournamentId": "korea-japan-2002",
+    "n": 1,
+    "title": "Opening Shock",
+    "match": "France vs Senegal",
+    "date": "May 31, 2002",
+    "city": "Seoul",
+    "stage": "Group Stage",
+    "world": "The World Cup opens in Asia for the first time. Thirty-two nations have arrived across Korea Republic and Japan, and the tournament begins beneath the lights of Seoul.",
+    "tournament": "Nothing has happened yet. Thirty-two teams begin level across eight groups, and every prediction is still only a prediction.",
+    "intro": "Defending champions France open the tournament against debutants Senegal. The first night of Asia’s World Cup carries the weight of expectation and the unknown.",
+    "postMatch": {
+      "score": "France 0–1 Senegal",
+      "halftime": "Halftime: 0–1",
+      "goal": "Papa Bouba Diop 30′",
+      "keyEvents": [
+        "30' Papa Bouba Diop scores",
+        "Papa Bouba Diop found the net for Senegal"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Papa Bouba Diop",
+          "team": "Senegal",
+          "role": "Goalscorer",
+          "summary": "Scored at 30′ and shaped France 0–1 Senegal."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-02",
+    "tournamentId": "korea-japan-2002",
+    "n": 2,
+    "title": "Eight Without Reply",
+    "match": "Germany vs Saudi Arabia",
+    "date": "June 1, 2002",
+    "city": "Sapporo",
+    "stage": "Group Stage",
+    "world": "The opening days stretch across two host nations as groups begin in parallel and the first answers of the tournament start to form.",
+    "tournament": "Group E continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Germany begin their campaign against Saudi Arabia with a chance to set an early tone in Group E.",
+    "postMatch": {
+      "score": "Germany 8–0 Saudi Arabia",
+      "halftime": "Halftime: 3–0",
+      "goal": "Miroslav Klose 20′; Miroslav Klose 25′; Michael Ballack 40′; Carsten Jancker 45+′; Miroslav Klose 70′; Thomas Linke 73′; Oliver Bierhoff 84′; Bernd Schneider 90+′",
+      "keyEvents": [
+        "20' Miroslav Klose scores",
+        "25' Miroslav Klose scores",
+        "40' Michael Ballack scores",
+        "45+' Carsten Jancker scores",
+        "70' Miroslav Klose scores"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Miroslav Klose",
+          "team": "Germany",
+          "role": "Goalscorer",
+          "summary": "Scored at 20′ and shaped Germany 8–0 Saudi Arabia."
+        },
+        {
+          "name": "Michael Ballack",
+          "team": "Germany",
+          "role": "Goalscorer",
+          "summary": "Scored at 40′ and shaped Germany 8–0 Saudi Arabia."
+        },
+        {
+          "name": "Carsten Jancker",
+          "team": "Germany",
+          "role": "Goalscorer",
+          "summary": "Scored at 45+′ and shaped Germany 8–0 Saudi Arabia."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-03",
+    "tournamentId": "korea-japan-2002",
+    "n": 3,
+    "title": "Northern Lights",
+    "match": "England vs Sweden",
+    "date": "June 2, 2002",
+    "city": "Saitama",
+    "stage": "Group Stage",
+    "world": "The opening days stretch across two host nations as groups begin in parallel and the first answers of the tournament start to form.",
+    "tournament": "Group F continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "England and Sweden meet in Group F. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "England 1–1 Sweden",
+      "halftime": "Halftime: 1–0",
+      "goal": "Sol Campbell 24′; Niclas Alexandersson 59′",
+      "keyEvents": [
+        "24' Sol Campbell scores",
+        "59' Niclas Alexandersson scores",
+        "Sol Campbell found the net for England",
+        "Niclas Alexandersson found the net for Sweden"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Sol Campbell",
+          "team": "England",
+          "role": "Goalscorer",
+          "summary": "Scored at 24′ and shaped England 1–1 Sweden."
+        },
+        {
+          "name": "Niclas Alexandersson",
+          "team": "Sweden",
+          "role": "Goalscorer",
+          "summary": "Scored at 59′ and shaped England 1–1 Sweden."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-04",
+    "tournamentId": "korea-japan-2002",
+    "n": 4,
+    "title": "Spanish Control",
+    "match": "Spain vs Slovenia",
+    "date": "June 2, 2002",
+    "city": "Gwangju",
+    "stage": "Group Stage",
+    "world": "The opening days stretch across two host nations as groups begin in parallel and the first answers of the tournament start to form.",
+    "tournament": "Group B continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Spain and Slovenia meet in Group B. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "Spain 3–1 Slovenia",
+      "halftime": "Halftime: 1–0",
+      "goal": "Raúl 44′; Valerón 74′; Sebastjan Cimirotič 82′; Hierro 87′ (pen.)",
+      "keyEvents": [
+        "44' Raúl scores",
+        "74' Valerón scores",
+        "82' Sebastjan Cimirotič scores",
+        "87' Hierro (pen.) scores",
+        "Raúl found the net for Spain"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Raúl",
+          "team": "Spain",
+          "role": "Goalscorer",
+          "summary": "Scored at 44′ and shaped Spain 3–1 Slovenia."
+        },
+        {
+          "name": "Valerón",
+          "team": "Spain",
+          "role": "Goalscorer",
+          "summary": "Scored at 74′ and shaped Spain 3–1 Slovenia."
+        },
+        {
+          "name": "Sebastjan Cimirotič",
+          "team": "Slovenia",
+          "role": "Goalscorer",
+          "summary": "Scored at 82′ and shaped Spain 3–1 Slovenia."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-05",
+    "tournamentId": "korea-japan-2002",
+    "n": 5,
+    "title": "Yellow Arrival",
+    "match": "Brazil vs Turkey",
+    "date": "June 3, 2002",
+    "city": "Ulsan",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group C continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Brazil and Turkey meet in Group C. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "Brazil 2–1 Turkey",
+      "halftime": "Halftime: 0–0",
+      "goal": "Hasan Şaş 45+′; Ronaldo 50′; Rivaldo 87′ (pen.)",
+      "keyEvents": [
+        "45+' Hasan Şaş scores",
+        "50' Ronaldo scores",
+        "87' Rivaldo (pen.) scores",
+        "Hasan Şaş found the net for Turkey",
+        "Ronaldo found the net for Brazil"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Hasan Şaş",
+          "team": "Turkey",
+          "role": "Goalscorer",
+          "summary": "Scored at 45+′ and shaped Brazil 2–1 Turkey."
+        },
+        {
+          "name": "Ronaldo",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "summary": "Scored at 50′ and shaped Brazil 2–1 Turkey."
+        },
+        {
+          "name": "Rivaldo",
+          "team": "Brazil",
+          "role": "From the spot",
+          "summary": "Converted from the spot at 87′."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-06",
+    "tournamentId": "korea-japan-2002",
+    "n": 6,
+    "title": "Hosts Begin",
+    "match": "Japan vs Belgium",
+    "date": "June 4, 2002",
+    "city": "Saitama",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group H continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Japan and Belgium meet in Group H. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "Japan 2–2 Belgium",
+      "halftime": "Halftime: 0–0",
+      "goal": "Marc Wilmots 57′; Takayuki Suzuki 59′; Junichi Inamoto 67′; Peter van der Heyden 75′",
+      "keyEvents": [
+        "57' Marc Wilmots scores",
+        "59' Takayuki Suzuki scores",
+        "67' Junichi Inamoto scores",
+        "75' Peter van der Heyden scores",
+        "Marc Wilmots found the net for Belgium"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Marc Wilmots",
+          "team": "Belgium",
+          "role": "Goalscorer",
+          "summary": "Scored at 57′ and shaped Japan 2–2 Belgium."
+        },
+        {
+          "name": "Takayuki Suzuki",
+          "team": "Japan",
+          "role": "Goalscorer",
+          "summary": "Scored at 59′ and shaped Japan 2–2 Belgium."
+        },
+        {
+          "name": "Junichi Inamoto",
+          "team": "Japan",
+          "role": "Goalscorer",
+          "summary": "Scored at 67′ and shaped Japan 2–2 Belgium."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-07",
+    "tournamentId": "korea-japan-2002",
+    "n": 7,
+    "title": "American Thunder",
+    "match": "United States vs Portugal",
+    "date": "June 5, 2002",
+    "city": "Suwon",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group D continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "United States meet highly rated Portugal in Group D. A first result here can redraw the section overnight.",
+    "postMatch": {
+      "score": "United States 3–2 Portugal",
+      "halftime": "Halftime: 3–1",
+      "goal": "John O'Brien 4′; Jorge Costa 29′ (o.g.); Brian McBride 36′; Beto 39′; Jeff Agoos 71′ (o.g.)",
+      "keyEvents": [
+        "4' John O'Brien scores",
+        "29' Jorge Costa (o.g.)",
+        "36' Brian McBride scores",
+        "39' Beto scores",
+        "71' Jeff Agoos (o.g.)"
+      ],
+      "impactPlayers": [
+        {
+          "name": "John O'Brien",
+          "team": "United States",
+          "role": "Goalscorer",
+          "summary": "Scored at 4′ and shaped United States 3–2 Portugal."
+        },
+        {
+          "name": "Jorge Costa",
+          "team": "United States",
+          "role": "Own goal",
+          "summary": "An own goal at 29′ altered the contest."
+        },
+        {
+          "name": "Brian McBride",
+          "team": "United States",
+          "role": "Goalscorer",
+          "summary": "Scored at 36′ and shaped United States 3–2 Portugal."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-08",
+    "tournamentId": "korea-japan-2002",
+    "n": 8,
+    "title": "Stoppage in Kashima",
+    "match": "Germany vs Republic of Ireland",
+    "date": "June 5, 2002",
+    "city": "Kashima",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group E continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Germany and Republic of Ireland meet in Group E. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "Germany 1–1 Republic of Ireland",
+      "halftime": "Halftime: 1–0",
+      "goal": "Miroslav Klose 19′; Robbie Keane 90+′",
+      "keyEvents": [
+        "19' Miroslav Klose scores",
+        "90+' Robbie Keane scores",
+        "Miroslav Klose found the net for Germany",
+        "Robbie Keane found the net for Republic of Ireland"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Miroslav Klose",
+          "team": "Germany",
+          "role": "Goalscorer",
+          "summary": "Scored at 19′ and shaped Germany 1–1 Republic of Ireland."
+        },
+        {
+          "name": "Robbie Keane",
+          "team": "Republic of Ireland",
+          "role": "Goalscorer",
+          "summary": "Scored at 90+′ and shaped Germany 1–1 Republic of Ireland."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-09",
+    "tournamentId": "korea-japan-2002",
+    "n": 9,
+    "title": "Lions and Lions",
+    "match": "Denmark vs Senegal",
+    "date": "June 6, 2002",
+    "city": "Daegu",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group A continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Denmark and Senegal meet in Group A. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "Denmark 1–1 Senegal",
+      "halftime": "Halftime: 1–0",
+      "goal": "Jon Dahl Tomasson 16′ (pen.); Salif Diao 52′",
+      "keyEvents": [
+        "16' Jon Dahl Tomasson (pen.) scores",
+        "52' Salif Diao scores",
+        "Jon Dahl Tomasson found the net for Denmark",
+        "Salif Diao found the net for Senegal"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Jon Dahl Tomasson",
+          "team": "Denmark",
+          "role": "From the spot",
+          "summary": "Converted from the spot at 16′."
+        },
+        {
+          "name": "Salif Diao",
+          "team": "Senegal",
+          "role": "Goalscorer",
+          "summary": "Scored at 52′ and shaped Denmark 1–1 Senegal."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-10",
+    "tournamentId": "korea-japan-2002",
+    "n": 10,
+    "title": "Old Score, New Stage",
+    "match": "Argentina vs England",
+    "date": "June 7, 2002",
+    "city": "Sapporo",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group F continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Argentina and England renew a familiar rivalry on a World Cup stage, with Group F still finely balanced.",
+    "postMatch": {
+      "score": "Argentina 0–1 England",
+      "halftime": "Halftime: 0–1",
+      "goal": "David Beckham 44′ (pen.)",
+      "keyEvents": [
+        "44' David Beckham (pen.) scores",
+        "David Beckham found the net for England"
+      ],
+      "impactPlayers": [
+        {
+          "name": "David Beckham",
+          "team": "England",
+          "role": "From the spot",
+          "summary": "Converted from the spot at 44′."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-11",
+    "tournamentId": "korea-japan-2002",
+    "n": 11,
+    "title": "Adriatic Edge",
+    "match": "Italy vs Croatia",
+    "date": "June 8, 2002",
+    "city": "Kashima",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group G continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Italy and Croatia meet in Group G. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "Italy 1–2 Croatia",
+      "halftime": "Halftime: 0–0",
+      "goal": "Christian Vieri 55′; Ivica Olić 73′; Milan Rapaić 76′",
+      "keyEvents": [
+        "55' Christian Vieri scores",
+        "73' Ivica Olić scores",
+        "76' Milan Rapaić scores",
+        "Christian Vieri found the net for Italy",
+        "Ivica Olić found the net for Croatia"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Christian Vieri",
+          "team": "Italy",
+          "role": "Goalscorer",
+          "summary": "Scored at 55′ and shaped Italy 1–2 Croatia."
+        },
+        {
+          "name": "Ivica Olić",
+          "team": "Croatia",
+          "role": "Goalscorer",
+          "summary": "Scored at 73′ and shaped Italy 1–2 Croatia."
+        },
+        {
+          "name": "Milan Rapaić",
+          "team": "Croatia",
+          "role": "Goalscorer",
+          "summary": "Scored at 76′ and shaped Italy 1–2 Croatia."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-12",
+    "tournamentId": "korea-japan-2002",
+    "n": 12,
+    "title": "Four Against Debut",
+    "match": "Brazil vs China",
+    "date": "June 8, 2002",
+    "city": "Seogwipo",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group C continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Brazil and China meet in Group C. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "Brazil 4–0 China",
+      "halftime": "Halftime: 3–0",
+      "goal": "Roberto Carlos 15′; Rivaldo 32′; Ronaldinho 45′ (pen.); Ronaldo 55′",
+      "keyEvents": [
+        "15' Roberto Carlos scores",
+        "32' Rivaldo scores",
+        "45' Ronaldinho (pen.) scores",
+        "55' Ronaldo scores",
+        "Roberto Carlos found the net for Brazil"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Roberto Carlos",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "summary": "Scored at 15′ and shaped Brazil 4–0 China."
+        },
+        {
+          "name": "Rivaldo",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "summary": "Scored at 32′ and shaped Brazil 4–0 China."
+        },
+        {
+          "name": "Ronaldinho",
+          "team": "Brazil",
+          "role": "From the spot",
+          "summary": "Converted from the spot at 45′."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-13",
+    "tournamentId": "korea-japan-2002",
+    "n": 13,
+    "title": "Yokohama Belief",
+    "match": "Japan vs Russia",
+    "date": "June 9, 2002",
+    "city": "Yokohama",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group H continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Japan and Russia meet in Group H. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "Japan 1–0 Russia",
+      "halftime": "Halftime: 0–0",
+      "goal": "Junichi Inamoto 51′",
+      "keyEvents": [
+        "51' Junichi Inamoto scores",
+        "Junichi Inamoto found the net for Japan"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Junichi Inamoto",
+          "team": "Japan",
+          "role": "Goalscorer",
+          "summary": "Scored at 51′ and shaped Japan 1–0 Russia."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-14",
+    "tournamentId": "korea-japan-2002",
+    "n": 14,
+    "title": "Shared Point in Daegu",
+    "match": "Korea Republic vs United States",
+    "date": "June 10, 2002",
+    "city": "Daegu",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group D continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Korea Republic and United States meet in Group D. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "Korea Republic 1–1 United States",
+      "halftime": "Halftime: 0–1",
+      "goal": "Clint Mathis 24′; Ahn Jung-hwan 78′",
+      "keyEvents": [
+        "24' Clint Mathis scores",
+        "78' Ahn Jung-hwan scores",
+        "Clint Mathis found the net for United States",
+        "Ahn Jung-hwan found the net for Korea Republic"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Clint Mathis",
+          "team": "United States",
+          "role": "Goalscorer",
+          "summary": "Scored at 24′ and shaped Korea Republic 1–1 United States."
+        },
+        {
+          "name": "Ahn Jung-hwan",
+          "team": "Korea Republic",
+          "role": "Goalscorer",
+          "summary": "Scored at 78′ and shaped Korea Republic 1–1 United States."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-15",
+    "tournamentId": "korea-japan-2002",
+    "n": 15,
+    "title": "Six-Goal Storm",
+    "match": "Senegal vs Uruguay",
+    "date": "June 11, 2002",
+    "city": "Suwon",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group A continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Senegal and Uruguay meet in Group A. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "Senegal 3–3 Uruguay",
+      "halftime": "Halftime: 3–0",
+      "goal": "Khalilou Fadiga 20′ (pen.); Papa Bouba Diop 26′; Papa Bouba Diop 38′; Richard Morales 46′; Diego Forlán 69′; Álvaro Recoba 88′ (pen.)",
+      "keyEvents": [
+        "20' Khalilou Fadiga (pen.) scores",
+        "26' Papa Bouba Diop scores",
+        "38' Papa Bouba Diop scores",
+        "46' Richard Morales scores",
+        "69' Diego Forlán scores"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Khalilou Fadiga",
+          "team": "Senegal",
+          "role": "From the spot",
+          "summary": "Converted from the spot at 20′."
+        },
+        {
+          "name": "Papa Bouba Diop",
+          "team": "Senegal",
+          "role": "Goalscorer",
+          "summary": "Scored at 26′ and shaped Senegal 3–3 Uruguay."
+        },
+        {
+          "name": "Richard Morales",
+          "team": "Uruguay",
+          "role": "Goalscorer",
+          "summary": "Scored at 46′ and shaped Senegal 3–3 Uruguay."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-16",
+    "tournamentId": "korea-japan-2002",
+    "n": 16,
+    "title": "Group F Reckoning",
+    "match": "Sweden vs Argentina",
+    "date": "June 12, 2002",
+    "city": "Rifu",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group F continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Sweden and Argentina meet in Group F. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "Sweden 1–1 Argentina",
+      "halftime": "Halftime: 0–0",
+      "goal": "Anders Svensson 59′; Hernán Crespo 88′",
+      "keyEvents": [
+        "59' Anders Svensson scores",
+        "88' Hernán Crespo scores",
+        "Anders Svensson found the net for Sweden",
+        "Hernán Crespo found the net for Argentina"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Anders Svensson",
+          "team": "Sweden",
+          "role": "Goalscorer",
+          "summary": "Scored at 59′ and shaped Sweden 1–1 Argentina."
+        },
+        {
+          "name": "Hernán Crespo",
+          "team": "Argentina",
+          "role": "Goalscorer",
+          "summary": "Scored at 88′ and shaped Sweden 1–1 Argentina."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-17",
+    "tournamentId": "korea-japan-2002",
+    "n": 17,
+    "title": "Three Points Required",
+    "match": "South Africa vs Spain",
+    "date": "June 12, 2002",
+    "city": "Daejeon",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group B continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "South Africa and Spain meet in Group B. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "South Africa 2–3 Spain",
+      "halftime": "Halftime: 1–1",
+      "goal": "Raúl 4′; Benedict McCarthy 31′; Mendieta 45+′; Lucas Radebe 53′; Raúl 56′",
+      "keyEvents": [
+        "4' Raúl scores",
+        "31' Benedict McCarthy scores",
+        "45+' Mendieta scores",
+        "53' Lucas Radebe scores",
+        "56' Raúl scores"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Raúl",
+          "team": "Spain",
+          "role": "Goalscorer",
+          "summary": "Scored at 4′ and shaped South Africa 2–3 Spain."
+        },
+        {
+          "name": "Benedict McCarthy",
+          "team": "South Africa",
+          "role": "Goalscorer",
+          "summary": "Scored at 31′ and shaped South Africa 2–3 Spain."
+        },
+        {
+          "name": "Mendieta",
+          "team": "Spain",
+          "role": "Goalscorer",
+          "summary": "Scored at 45+′ and shaped South Africa 2–3 Spain."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-18",
+    "tournamentId": "korea-japan-2002",
+    "n": 18,
+    "title": "Five-Goal Night",
+    "match": "Costa Rica vs Brazil",
+    "date": "June 13, 2002",
+    "city": "Suwon",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group C continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Costa Rica and Brazil meet in Group C. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "Costa Rica 2–5 Brazil",
+      "halftime": "Halftime: 1–3",
+      "goal": "Ronaldo 10′; Ronaldo 13′; Edmílson 38′; Paulo Wanchope 39′; Rónald Gómez 56′; Rivaldo 62′; Júnior 64′",
+      "keyEvents": [
+        "10' Ronaldo scores",
+        "13' Ronaldo scores",
+        "38' Edmílson scores",
+        "39' Paulo Wanchope scores",
+        "56' Rónald Gómez scores"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Ronaldo",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "summary": "Scored at 10′ and shaped Costa Rica 2–5 Brazil."
+        },
+        {
+          "name": "Edmílson",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "summary": "Scored at 38′ and shaped Costa Rica 2–5 Brazil."
+        },
+        {
+          "name": "Paulo Wanchope",
+          "team": "Costa Rica",
+          "role": "Goalscorer",
+          "summary": "Scored at 39′ and shaped Costa Rica 2–5 Brazil."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-19",
+    "tournamentId": "korea-japan-2002",
+    "n": 19,
+    "title": "Point of Order",
+    "match": "Mexico vs Italy",
+    "date": "June 13, 2002",
+    "city": "Ōita",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group G continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Mexico and Italy meet in Group G. In a four-team section, the result immediately changes the pressure around the next fixture.",
+    "postMatch": {
+      "score": "Mexico 1–1 Italy",
+      "halftime": "Halftime: 1–0",
+      "goal": "Jared Borgetti 34′; Alessandro Del Piero 85′",
+      "keyEvents": [
+        "34' Jared Borgetti scores",
+        "85' Alessandro Del Piero scores",
+        "Jared Borgetti found the net for Mexico",
+        "Alessandro Del Piero found the net for Italy"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Jared Borgetti",
+          "team": "Mexico",
+          "role": "Goalscorer",
+          "summary": "Scored at 34′ and shaped Mexico 1–1 Italy."
+        },
+        {
+          "name": "Alessandro Del Piero",
+          "team": "Italy",
+          "role": "Goalscorer",
+          "summary": "Scored at 85′ and shaped Mexico 1–1 Italy."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-20",
+    "tournamentId": "korea-japan-2002",
+    "n": 20,
+    "title": "Incheon Threshold",
+    "match": "Portugal vs Korea Republic",
+    "date": "June 14, 2002",
+    "city": "Incheon",
+    "stage": "Group Stage",
+    "world": "Across Korea Republic and Japan, the group stage presses forward—new stadiums, long travel days, and a tournament still wide open.",
+    "tournament": "Group D continues to take shape. Every point now alters the picture for the sides still to play.",
+    "intro": "Host nation Korea Republic meet Portugal with Group D qualification on the line.",
+    "postMatch": {
+      "score": "Portugal 0–1 Korea Republic",
+      "halftime": "Halftime: 0–0",
+      "goal": "Park Ji-sung 70′",
+      "keyEvents": [
+        "70' Park Ji-sung scores",
+        "Park Ji-sung found the net for Korea Republic"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Park Ji-sung",
+          "team": "Korea Republic",
+          "role": "Goalscorer",
+          "summary": "Scored at 70′ and shaped Portugal 0–1 Korea Republic."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-21",
+    "tournamentId": "korea-japan-2002",
+    "n": 21,
+    "title": "Late in Seogwipo",
+    "match": "Germany vs Paraguay",
+    "date": "June 15, 2002",
+    "city": "Seogwipo",
+    "stage": "Round of 16",
+    "world": "Asia’s first World Cup moves from group tables to single nights. One result now ends a campaign.",
+    "tournament": "The group stage is complete. Sixteen teams remain, and the bracket begins to speak.",
+    "intro": "Germany and Paraguay play for a quarter-final place. There is no second chance now.",
+    "postMatch": {
+      "score": "Germany 1–0 Paraguay",
+      "halftime": "Halftime: 0–0",
+      "goal": "Oliver Neuville 88′",
+      "keyEvents": [
+        "88' Oliver Neuville scores",
+        "Oliver Neuville found the net for Germany"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Oliver Neuville",
+          "team": "Germany",
+          "role": "Goalscorer",
+          "summary": "Scored at 88′ and shaped Germany 1–0 Paraguay."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-22",
+    "tournamentId": "korea-japan-2002",
+    "n": 22,
+    "title": "English Afternoon",
+    "match": "Denmark vs England",
+    "date": "June 15, 2002",
+    "city": "Niigata",
+    "stage": "Round of 16",
+    "world": "Asia’s first World Cup moves from group tables to single nights. One result now ends a campaign.",
+    "tournament": "The group stage is complete. Sixteen teams remain, and the bracket begins to speak.",
+    "intro": "Denmark and England play for a quarter-final place. There is no second chance now.",
+    "postMatch": {
+      "score": "Denmark 0–3 England",
+      "halftime": "Halftime: 0–3",
+      "goal": "Rio Ferdinand 5′; Michael Owen 22′; Emile Heskey 44′",
+      "keyEvents": [
+        "5' Rio Ferdinand scores",
+        "22' Michael Owen scores",
+        "44' Emile Heskey scores",
+        "Rio Ferdinand found the net for England",
+        "Michael Owen found the net for England"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Rio Ferdinand",
+          "team": "England",
+          "role": "Goalscorer",
+          "summary": "Scored at 5′ and shaped Denmark 0–3 England."
+        },
+        {
+          "name": "Michael Owen",
+          "team": "England",
+          "role": "Goalscorer",
+          "summary": "Scored at 22′ and shaped Denmark 0–3 England."
+        },
+        {
+          "name": "Emile Heskey",
+          "team": "England",
+          "role": "Goalscorer",
+          "summary": "Scored at 44′ and shaped Denmark 0–3 England."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-23",
+    "tournamentId": "korea-japan-2002",
+    "n": 23,
+    "title": "Golden Hour",
+    "match": "Sweden vs Senegal",
+    "date": "June 16, 2002",
+    "city": "Ōita",
+    "stage": "Round of 16",
+    "world": "Asia’s first World Cup moves from group tables to single nights. One result now ends a campaign.",
+    "tournament": "The group stage is complete. Sixteen teams remain, and the bracket begins to speak.",
+    "intro": "Sweden and Senegal play for a quarter-final place. There is no second chance now.",
+    "postMatch": {
+      "score": "Sweden 1–2 Senegal (a.e.t.)",
+      "halftime": "Halftime: 1–1",
+      "goal": "Henrik Larsson 11′; Henri Camara 37′; Henri Camara 104′",
+      "keyEvents": [
+        "11' Henrik Larsson scores",
+        "37' Henri Camara scores",
+        "104' Henri Camara scores",
+        "104' Henri Camara golden goal",
+        "Henrik Larsson found the net for Sweden"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Henrik Larsson",
+          "team": "Sweden",
+          "role": "Goalscorer",
+          "summary": "Scored at 11′ and shaped Sweden 1–2 Senegal."
+        },
+        {
+          "name": "Henri Camara",
+          "team": "Senegal",
+          "role": "Goalscorer",
+          "summary": "Scored at 37′ and shaped Sweden 1–2 Senegal."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-24",
+    "tournamentId": "korea-japan-2002",
+    "n": 24,
+    "title": "From the Spot",
+    "match": "Spain vs Republic of Ireland",
+    "date": "June 16, 2002",
+    "city": "Suwon",
+    "stage": "Round of 16",
+    "world": "Asia’s first World Cup moves from group tables to single nights. One result now ends a campaign.",
+    "tournament": "The group stage is complete. Sixteen teams remain, and the bracket begins to speak.",
+    "intro": "Spain and Republic of Ireland play for a quarter-final place. There is no second chance now.",
+    "postMatch": {
+      "score": "Spain 1–1 Republic of Ireland (a.e.t.) (Spain win 3–2 on penalties)",
+      "halftime": "Halftime: 1–0",
+      "goal": "Fernando Morientes 8′; Robbie Keane 90′ (pen.)",
+      "keyEvents": [
+        "8' Fernando Morientes scores",
+        "90' Robbie Keane (pen.) scores",
+        "Spain win the penalty shootout",
+        "Fernando Morientes found the net for Spain",
+        "Robbie Keane found the net for Republic of Ireland"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Fernando Morientes",
+          "team": "Spain",
+          "role": "Goalscorer",
+          "summary": "Scored at 8′ and shaped Spain 1–1 Republic of Ireland."
+        },
+        {
+          "name": "Robbie Keane",
+          "team": "Republic of Ireland",
+          "role": "From the spot",
+          "summary": "Converted from the spot at 90′."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-25",
+    "tournamentId": "korea-japan-2002",
+    "n": 25,
+    "title": "CONCACAF Crossing",
+    "match": "Mexico vs United States",
+    "date": "June 17, 2002",
+    "city": "Jeonju",
+    "stage": "Round of 16",
+    "world": "Asia’s first World Cup moves from group tables to single nights. One result now ends a campaign.",
+    "tournament": "The group stage is complete. Sixteen teams remain, and the bracket begins to speak.",
+    "intro": "Mexico and United States play for a quarter-final place. There is no second chance now.",
+    "postMatch": {
+      "score": "Mexico 0–2 United States",
+      "halftime": "Halftime: 0–1",
+      "goal": "Brian McBride 8′; Landon Donovan 65′",
+      "keyEvents": [
+        "8' Brian McBride scores",
+        "65' Landon Donovan scores",
+        "Brian McBride found the net for United States",
+        "Landon Donovan found the net for United States"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Brian McBride",
+          "team": "United States",
+          "role": "Goalscorer",
+          "summary": "Scored at 8′ and shaped Mexico 0–2 United States."
+        },
+        {
+          "name": "Landon Donovan",
+          "team": "United States",
+          "role": "Goalscorer",
+          "summary": "Scored at 65′ and shaped Mexico 0–2 United States."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-26",
+    "tournamentId": "korea-japan-2002",
+    "n": 26,
+    "title": "Belgian Resistance",
+    "match": "Brazil vs Belgium",
+    "date": "June 17, 2002",
+    "city": "Kobe",
+    "stage": "Round of 16",
+    "world": "Asia’s first World Cup moves from group tables to single nights. One result now ends a campaign.",
+    "tournament": "The group stage is complete. Sixteen teams remain, and the bracket begins to speak.",
+    "intro": "Brazil and Belgium play for a quarter-final place. There is no second chance now.",
+    "postMatch": {
+      "score": "Brazil 2–0 Belgium",
+      "halftime": "Halftime: 0–0",
+      "goal": "Rivaldo 67′; Ronaldo 87′",
+      "keyEvents": [
+        "67' Rivaldo scores",
+        "87' Ronaldo scores",
+        "Rivaldo found the net for Brazil",
+        "Ronaldo found the net for Brazil"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Rivaldo",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "summary": "Scored at 67′ and shaped Brazil 2–0 Belgium."
+        },
+        {
+          "name": "Ronaldo",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "summary": "Scored at 87′ and shaped Brazil 2–0 Belgium."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-27",
+    "tournamentId": "korea-japan-2002",
+    "n": 27,
+    "title": "Miyagi Exit",
+    "match": "Japan vs Turkey",
+    "date": "June 18, 2002",
+    "city": "Rifu",
+    "stage": "Round of 16",
+    "world": "Asia’s first World Cup moves from group tables to single nights. One result now ends a campaign.",
+    "tournament": "The group stage is complete. Sixteen teams remain, and the bracket begins to speak.",
+    "intro": "Japan and Turkey play for a quarter-final place. There is no second chance now.",
+    "postMatch": {
+      "score": "Japan 0–1 Turkey",
+      "halftime": "Halftime: 0–1",
+      "goal": "Ümit Davala 12′",
+      "keyEvents": [
+        "12' Ümit Davala scores",
+        "Ümit Davala found the net for Turkey"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Ümit Davala",
+          "team": "Turkey",
+          "role": "Goalscorer",
+          "summary": "Scored at 12′ and shaped Japan 0–1 Turkey."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-28",
+    "tournamentId": "korea-japan-2002",
+    "n": 28,
+    "title": "Daejeon Immortal",
+    "match": "Korea Republic vs Italy",
+    "date": "June 18, 2002",
+    "city": "Daejeon",
+    "stage": "Round of 16",
+    "world": "Asia’s first World Cup moves from group tables to single nights. One result now ends a campaign.",
+    "tournament": "The group stage is complete. Sixteen teams remain, and the bracket begins to speak.",
+    "intro": "Host nation Korea Republic face Italy in a Round of 16 match that already feels larger than a single knockout night.",
+    "postMatch": {
+      "score": "Korea Republic 2–1 Italy (a.e.t.)",
+      "halftime": "Halftime: 0–1",
+      "goal": "Christian Vieri 18′; Seol Ki-hyeon 88′; Ahn Jung-hwan 117′",
+      "keyEvents": [
+        "18' Christian Vieri scores",
+        "88' Seol Ki-hyeon scores",
+        "117' Ahn Jung-hwan scores",
+        "117' Ahn Jung-hwan golden goal",
+        "Christian Vieri found the net for Italy"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Christian Vieri",
+          "team": "Italy",
+          "role": "Goalscorer",
+          "summary": "Scored at 18′ and shaped Korea Republic 2–1 Italy."
+        },
+        {
+          "name": "Seol Ki-hyeon",
+          "team": "Korea Republic",
+          "role": "Goalscorer",
+          "summary": "Scored at 88′ and shaped Korea Republic 2–1 Italy."
+        },
+        {
+          "name": "Ahn Jung-hwan",
+          "team": "Korea Republic",
+          "role": "Goalscorer",
+          "summary": "Scored at 117′ and shaped Korea Republic 2–1 Italy."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-29",
+    "tournamentId": "korea-japan-2002",
+    "n": 29,
+    "title": "Quarter in Shizuoka",
+    "match": "England vs Brazil",
+    "date": "June 21, 2002",
+    "city": "Fukuroi",
+    "stage": "Quarter-final",
+    "world": "Eight teams remain. The nights grow heavier, and every stadium begins to feel like a final of its own.",
+    "tournament": "The Round of 16 has thinned the field. Four quarter-finals will decide who reaches the last four.",
+    "intro": "England and Brazil stand one win from a World Cup semi-final.",
+    "postMatch": {
+      "score": "England 1–2 Brazil",
+      "halftime": "Halftime: 1–0",
+      "goal": "Michael Owen 23′; Rivaldo 45+′; Ronaldinho 50′",
+      "keyEvents": [
+        "23' Michael Owen scores",
+        "45+' Rivaldo scores",
+        "50' Ronaldinho scores",
+        "Michael Owen found the net for England",
+        "Rivaldo found the net for Brazil"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Michael Owen",
+          "team": "England",
+          "role": "Goalscorer",
+          "summary": "Scored at 23′ and shaped England 1–2 Brazil."
+        },
+        {
+          "name": "Rivaldo",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "summary": "Scored at 45+′ and shaped England 1–2 Brazil."
+        },
+        {
+          "name": "Ronaldinho",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "summary": "Scored at 50′ and shaped England 1–2 Brazil."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-30",
+    "tournamentId": "korea-japan-2002",
+    "n": 30,
+    "title": "Ulsan Wall",
+    "match": "Germany vs United States",
+    "date": "June 21, 2002",
+    "city": "Ulsan",
+    "stage": "Quarter-final",
+    "world": "Eight teams remain. The nights grow heavier, and every stadium begins to feel like a final of its own.",
+    "tournament": "The Round of 16 has thinned the field. Four quarter-finals will decide who reaches the last four.",
+    "intro": "Germany and United States stand one win from a World Cup semi-final.",
+    "postMatch": {
+      "score": "Germany 1–0 United States",
+      "halftime": "Halftime: 1–0",
+      "goal": "Michael Ballack 39′",
+      "keyEvents": [
+        "39' Michael Ballack scores",
+        "Michael Ballack found the net for Germany"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Michael Ballack",
+          "team": "Germany",
+          "role": "Goalscorer",
+          "summary": "Scored at 39′ and shaped Germany 1–0 United States."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-31",
+    "tournamentId": "korea-japan-2002",
+    "n": 31,
+    "title": "Gwangju Lottery",
+    "match": "Spain vs Korea Republic",
+    "date": "June 22, 2002",
+    "city": "Gwangju",
+    "stage": "Quarter-final",
+    "world": "Eight teams remain. The nights grow heavier, and every stadium begins to feel like a final of its own.",
+    "tournament": "The Round of 16 has thinned the field. Four quarter-finals will decide who reaches the last four.",
+    "intro": "Spain and Korea Republic stand one win from a World Cup semi-final.",
+    "postMatch": {
+      "score": "Spain 0–0 Korea Republic (a.e.t.) (Korea Republic win 5–3 on penalties)",
+      "halftime": "Halftime: 0–0",
+      "goal": "No goals",
+      "keyEvents": [
+        "Korea Republic win the penalty shootout"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Spain defence",
+          "team": "Spain",
+          "role": "Structure",
+          "summary": "Helped keep Korea Republic at bay through a goalless night."
+        },
+        {
+          "name": "Korea Republic defence",
+          "team": "Korea Republic",
+          "role": "Structure",
+          "summary": "Matched Spain and protected the scoreline."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-32",
+    "tournamentId": "korea-japan-2002",
+    "n": 32,
+    "title": "Osaka Suddenness",
+    "match": "Senegal vs Turkey",
+    "date": "June 22, 2002",
+    "city": "Osaka",
+    "stage": "Quarter-final",
+    "world": "Eight teams remain. The nights grow heavier, and every stadium begins to feel like a final of its own.",
+    "tournament": "The Round of 16 has thinned the field. Four quarter-finals will decide who reaches the last four.",
+    "intro": "Senegal and Turkey stand one win from a World Cup semi-final.",
+    "postMatch": {
+      "score": "Senegal 0–1 Turkey (a.e.t.)",
+      "halftime": "Halftime: 0–0",
+      "goal": "İlhan Mansız 94′",
+      "keyEvents": [
+        "94' İlhan Mansız scores",
+        "94' İlhan Mansız golden goal",
+        "İlhan Mansız found the net for Turkey"
+      ],
+      "impactPlayers": [
+        {
+          "name": "İlhan Mansız",
+          "team": "Turkey",
+          "role": "Goalscorer",
+          "summary": "Scored at 94′ and shaped Senegal 0–1 Turkey."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-33",
+    "tournamentId": "korea-japan-2002",
+    "n": 33,
+    "title": "Seoul Semi-final",
+    "match": "Germany vs Korea Republic",
+    "date": "June 25, 2002",
+    "city": "Seoul",
+    "stage": "Semi-final",
+    "world": "The World Cup narrows to four. Continents, hosts and favourites collide with a place in Yokohama waiting.",
+    "tournament": "The quarter-finals are done. Two semi-finals separate the field from the Yokohama final.",
+    "intro": "Germany and Korea Republic play for a place in the World Cup final.",
+    "postMatch": {
+      "score": "Germany 1–0 Korea Republic",
+      "halftime": "Halftime: 0–0",
+      "goal": "Michael Ballack 75′",
+      "keyEvents": [
+        "75' Michael Ballack scores",
+        "Michael Ballack found the net for Germany"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Michael Ballack",
+          "team": "Germany",
+          "role": "Goalscorer",
+          "summary": "Scored at 75′ and shaped Germany 1–0 Korea Republic."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-34",
+    "tournamentId": "korea-japan-2002",
+    "n": 34,
+    "title": "Saitama Semi-final",
+    "match": "Brazil vs Turkey",
+    "date": "June 26, 2002",
+    "city": "Saitama",
+    "stage": "Semi-final",
+    "world": "The World Cup narrows to four. Continents, hosts and favourites collide with a place in Yokohama waiting.",
+    "tournament": "The quarter-finals are done. Two semi-finals separate the field from the Yokohama final.",
+    "intro": "Brazil and Turkey play for a place in the World Cup final.",
+    "postMatch": {
+      "score": "Brazil 1–0 Turkey",
+      "halftime": "Halftime: 0–0",
+      "goal": "Ronaldo 49′",
+      "keyEvents": [
+        "49' Ronaldo scores",
+        "Ronaldo found the net for Brazil"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Ronaldo",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "summary": "Scored at 49′ and shaped Brazil 1–0 Turkey."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-35",
+    "tournamentId": "korea-japan-2002",
+    "n": 35,
+    "title": "Third Place Night",
+    "match": "Korea Republic vs Turkey",
+    "date": "June 29, 2002",
+    "city": "Daegu",
+    "stage": "Third-place play-off",
+    "world": "The finalists are decided. One more match remains for bronze before the tournament’s last night.",
+    "tournament": "The finalists are set. This match decides third place before the tournament closes.",
+    "intro": "Korea Republic and Turkey meet for third place after deep tournament runs.",
+    "postMatch": {
+      "score": "Korea Republic 2–3 Turkey",
+      "halftime": "Halftime: 1–3",
+      "goal": "Hakan Şükür 1′; Lee Eul-yong 9′; İlhan Mansız 13′; İlhan Mansız 32′; Song Chong-gug 90+′",
+      "keyEvents": [
+        "1' Hakan Şükür scores",
+        "9' Lee Eul-yong scores",
+        "13' İlhan Mansız scores",
+        "32' İlhan Mansız scores",
+        "90+' Song Chong-gug scores"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Hakan Şükür",
+          "team": "Turkey",
+          "role": "Goalscorer",
+          "summary": "Scored at 1′ and shaped Korea Republic 2–3 Turkey."
+        },
+        {
+          "name": "Lee Eul-yong",
+          "team": "Korea Republic",
+          "role": "Goalscorer",
+          "summary": "Scored at 9′ and shaped Korea Republic 2–3 Turkey."
+        },
+        {
+          "name": "İlhan Mansız",
+          "team": "Turkey",
+          "role": "Goalscorer",
+          "summary": "Scored at 13′ and shaped Korea Republic 2–3 Turkey."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  },
+  {
+    "id": "korea-japan-2002-36",
+    "tournamentId": "korea-japan-2002",
+    "n": 36,
+    "title": "Yokohama Final",
+    "match": "Germany vs Brazil",
+    "date": "June 30, 2002",
+    "city": "Yokohama",
+    "stage": "Final",
+    "world": "Yokohama holds the last match of the 2002 World Cup. The world watches one final night in Asia.",
+    "tournament": "One match remains. The World Cup ends here.",
+    "intro": "Germany and Brazil contest the World Cup final. Four weeks across two countries end in a single Yokohama night.",
+    "postMatch": {
+      "score": "Germany 0–2 Brazil",
+      "halftime": "Halftime: 0–0",
+      "goal": "Ronaldo 67′; Ronaldo 79′",
+      "keyEvents": [
+        "67' Ronaldo scores",
+        "79' Ronaldo scores",
+        "Ronaldo found the net for Brazil",
+        "Ronaldo found the net for Brazil"
+      ],
+      "impactPlayers": [
+        {
+          "name": "Ronaldo",
+          "team": "Brazil",
+          "role": "Goalscorer",
+          "summary": "Scored at 67′ and shaped Germany 0–2 Brazil."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete Korea/Japan 2002 match archive."
+    }
+  }
+]

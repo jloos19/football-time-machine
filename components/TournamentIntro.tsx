@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useEffect, useState } from "react";
+import { useEffect, useState, type ReactNode } from "react";
 import type { Season } from "@/data/seasons";
 import { getPosterImagePath } from "@/lib/posters";
 import { isJourneyStarted } from "@/lib/progress";
@@ -10,9 +10,19 @@ type TournamentIntroProps = {
   season: Season;
   onEnter: () => void;
   onBack: () => void;
+  /** When true, omit the single Journey CTA (multi-experience picker follows). */
+  hideCta?: boolean;
+  /** Optional content rendered under the intro copy (e.g. experience picker). */
+  children?: ReactNode;
 };
 
-export function TournamentIntro({ season, onEnter, onBack }: TournamentIntroProps) {
+export function TournamentIntro({
+  season,
+  onEnter,
+  onBack,
+  hideCta = false,
+  children,
+}: TournamentIntroProps) {
   const intro = season.intro!;
   const posterSrc = getPosterImagePath(season.id);
   const [posterFailed, setPosterFailed] = useState(!posterSrc);
@@ -29,7 +39,7 @@ export function TournamentIntro({ season, onEnter, onBack }: TournamentIntroProp
 
   return (
     <section
-      className={`tournament-intro tournament-intro--${season.theme}`}
+      className={`tournament-intro tournament-intro--${season.theme}${children ? " tournament-intro--with-experiences" : ""}`}
       aria-labelledby="tournament-intro-title"
     >
       <div className="tournament-intro__media" aria-hidden="true">
@@ -69,9 +79,12 @@ export function TournamentIntro({ season, onEnter, onBack }: TournamentIntroProp
               <p key={paragraph.slice(0, 32)}>{paragraph}</p>
             ))}
           </div>
-          <button type="button" className="tournament-intro__cta" onClick={onEnter}>
-            {ctaLabel}
-          </button>
+          {!hideCta && (
+            <button type="button" className="tournament-intro__cta" onClick={onEnter}>
+              {ctaLabel}
+            </button>
+          )}
+          {children}
         </div>
       </div>
     </section>

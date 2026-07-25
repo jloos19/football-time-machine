@@ -1,0 +1,361 @@
+{
+  "version": 1,
+  "decisions": [
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c01",
+      "sourceId": "france-1998-c01-src-1",
+      "action": "verify",
+      "humanVerification": {
+        "status": "verified",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T11:55:06.765Z"
+      },
+      "updatedAt": "2026-07-23T11:55:06.765Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c02",
+      "sourceId": "france-1998-c02-src-1",
+      "action": "verify",
+      "humanVerification": {
+        "status": "verified",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T11:55:09.945Z"
+      },
+      "updatedAt": "2026-07-23T11:55:09.945Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c02",
+      "sourceId": "france-1998-c02-src-1",
+      "action": "private",
+      "status": "private",
+      "updatedAt": "2026-07-23T11:55:24.986Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c02",
+      "sourceId": "france-1998-c02-src-1",
+      "action": "verify",
+      "humanVerification": {
+        "status": "verified",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T11:55:26.264Z"
+      },
+      "updatedAt": "2026-07-23T11:55:26.264Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c02",
+      "sourceId": "france-1998-c02-src-1",
+      "action": "verify",
+      "humanVerification": {
+        "status": "verified",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T11:55:27.013Z"
+      },
+      "updatedAt": "2026-07-23T11:55:27.013Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c02",
+      "sourceId": "france-1998-c02-src-1",
+      "action": "verify",
+      "humanVerification": {
+        "status": "verified",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T11:55:27.238Z"
+      },
+      "updatedAt": "2026-07-23T11:55:27.238Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c02",
+      "sourceId": "france-1998-c02-src-1",
+      "action": "verify",
+      "humanVerification": {
+        "status": "verified",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T11:55:33.217Z"
+      },
+      "updatedAt": "2026-07-23T11:55:33.217Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c04",
+      "sourceId": "france-1998-c04-src-1",
+      "action": "dead",
+      "status": "dead",
+      "updatedAt": "2026-07-23T11:56:18.836Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c29",
+      "sourceId": "france-1998-c29-src-1",
+      "action": "dead",
+      "status": "dead",
+      "updatedAt": "2026-07-23T11:57:45.654Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c05",
+      "sourceId": "france-1998-c05-src-1",
+      "action": "verify",
+      "humanVerification": {
+        "status": "verified",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T11:57:56.502Z"
+      },
+      "updatedAt": "2026-07-23T11:57:56.502Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c06",
+      "sourceId": "france-1998-c06-src-1",
+      "action": "verify",
+      "humanVerification": {
+        "status": "verified",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T11:58:00.365Z"
+      },
+      "updatedAt": "2026-07-23T11:58:00.365Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c06",
+      "sourceId": "france-1998-c06-src-2",
+      "action": "dead",
+      "status": "dead",
+      "updatedAt": "2026-07-23T11:58:12.036Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c06",
+      "sourceId": "france-1998-c06-src-2",
+      "action": "dead",
+      "status": "dead",
+      "updatedAt": "2026-07-23T11:58:15.384Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c06",
+      "sourceId": "france-1998-c06-src-2",
+      "action": "dead",
+      "status": "dead",
+      "updatedAt": "2026-07-23T11:58:16.184Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c06",
+      "sourceId": "france-1998-c06-src-1",
+      "action": "verify",
+      "humanVerification": {
+        "status": "verified",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T11:58:22.585Z"
+      },
+      "updatedAt": "2026-07-23T11:58:22.585Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c32",
+      "sourceId": "france-1998-c32-src-1",
+      "action": "dead",
+      "status": "dead",
+      "updatedAt": "2026-07-23T11:58:49.786Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c42",
+      "sourceId": "france-1998-c42-src-1",
+      "action": "dead",
+      "status": "dead",
+      "updatedAt": "2026-07-23T11:59:14.354Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c44",
+      "sourceId": "france-1998-c44-src-1",
+      "action": "wrong-match",
+      "status": "wrong-match",
+      "humanVerification": {
+        "status": "failed",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T11:59:44.521Z",
+        "notes": "Marked as wrong match."
+      },
+      "updatedAt": "2026-07-23T11:59:44.521Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c52",
+      "sourceId": "france-1998-c52-src-1",
+      "action": "fail",
+      "humanVerification": {
+        "status": "failed",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T12:00:16.673Z"
+      },
+      "updatedAt": "2026-07-23T12:00:16.673Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c53",
+      "sourceId": "france-1998-c53-src-1",
+      "action": "wrong-match",
+      "status": "wrong-match",
+      "humanVerification": {
+        "status": "failed",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T12:00:29.954Z",
+        "notes": "Marked as wrong match."
+      },
+      "updatedAt": "2026-07-23T12:00:29.954Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c58",
+      "sourceId": "france-1998-c58-src-1",
+      "action": "dead",
+      "status": "dead",
+      "updatedAt": "2026-07-23T12:00:43.287Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c59",
+      "sourceId": "france-1998-c59-src-1",
+      "action": "wrong-match",
+      "status": "wrong-match",
+      "humanVerification": {
+        "status": "failed",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T12:00:55.056Z",
+        "notes": "Marked as wrong match."
+      },
+      "updatedAt": "2026-07-23T12:00:55.056Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c60",
+      "sourceId": "france-1998-c60-src-1",
+      "action": "wrong-match",
+      "status": "wrong-match",
+      "humanVerification": {
+        "status": "failed",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T12:01:03.676Z",
+        "notes": "Marked as wrong match."
+      },
+      "updatedAt": "2026-07-23T12:01:03.676Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c61",
+      "sourceId": "france-1998-c61-src-1",
+      "action": "dead",
+      "status": "dead",
+      "updatedAt": "2026-07-23T12:01:15.427Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c63",
+      "sourceId": "france-1998-c63-src-1",
+      "action": "wrong-match",
+      "status": "wrong-match",
+      "humanVerification": {
+        "status": "failed",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T12:01:46.012Z",
+        "notes": "Marked as wrong match."
+      },
+      "updatedAt": "2026-07-23T12:01:46.012Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c02",
+      "sourceId": "france-1998-c02-src-1",
+      "action": "verify",
+      "humanVerification": {
+        "status": "verified",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T12:10:28.108Z"
+      },
+      "updatedAt": "2026-07-23T12:10:28.108Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c02",
+      "sourceId": "france-1998-c02-src-1",
+      "action": "verify",
+      "humanVerification": {
+        "status": "verified",
+        "verifiedBy": "replay-qa-dashboard",
+        "verifiedAt": "2026-07-23T12:17:58.724Z"
+      },
+      "updatedAt": "2026-07-23T12:17:58.724Z"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c03",
+      "sourceId": "france-1998-c03-src-2",
+      "action": "dead",
+      "status": "dead",
+      "humanVerification": {
+        "status": "failed",
+        "verifiedBy": "manual-curation",
+        "verifiedAt": "2026-07-24T17:33:41.604Z",
+        "notes": "Dailymotion replay deleted; ineligible for production."
+      },
+      "updatedAt": "2026-07-24T17:33:41.604Z",
+      "updatedBy": "manual-curation"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c05",
+      "sourceId": "france-1998-c05-src-2",
+      "action": "wrong-match",
+      "status": "wrong-match",
+      "humanVerification": {
+        "status": "failed",
+        "verifiedBy": "manual-curation",
+        "verifiedAt": "2026-07-24T17:33:41.604Z",
+        "notes": "Dailymotion replay is the incorrect match; ineligible for production."
+      },
+      "updatedAt": "2026-07-24T17:33:41.604Z",
+      "updatedBy": "manual-curation"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c09",
+      "sourceId": "france-1998-c09-src-2",
+      "action": "verify",
+      "status": "active",
+      "preferredSourceId": "france-1998-c09-src-2",
+      "humanVerification": {
+        "status": "verified",
+        "verifiedBy": "manual-curation",
+        "verifiedAt": "2026-07-24T17:33:41.604Z",
+        "notes": "Human-verified Dailymotion full-match for Journey"
+      },
+      "updatedAt": "2026-07-24T17:33:41.604Z",
+      "updatedBy": "manual-curation"
+    },
+    {
+      "tournamentId": "france-1998",
+      "canonicalMatchId": "france-1998-c15",
+      "sourceId": "france-1998-c15-src-1",
+      "action": "verify",
+      "status": "active",
+      "preferredSourceId": "france-1998-c15-src-1",
+      "humanVerification": {
+        "status": "verified",
+        "verifiedBy": "manual-curation",
+        "verifiedAt": "2026-07-24T17:33:41.604Z",
+        "notes": "Human-verified Dailymotion full-match for Journey"
+      },
+      "updatedAt": "2026-07-24T17:33:41.604Z",
+      "updatedBy": "manual-curation"
+    }
+  ]
+}

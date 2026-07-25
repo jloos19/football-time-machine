@@ -3,576 +3,1508 @@
     "id": "france-1998-01",
     "tournamentId": "france-1998",
     "n": 1,
-    "title": "In Development",
+    "title": "Opening Night",
     "match": "Brazil vs Scotland",
     "date": "June 10, 1998",
     "city": "Saint-Denis",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "The World Cup returns to Europe for the first time since Italy hosted twelve years earlier. Thirty-two nations have arrived, and the tournament opens beneath the shadow of the Stade de France.",
+    "tournament": "Nothing has happened yet. Thirty-two teams begin level across eight groups, and every prediction is still only a prediction.",
+    "intro": "Brazil arrive as defending champions and one of the tournament's most feared sides. Scotland return to the World Cup with experience and ambition. The opening match sets the tone for a competition expanding to thirty-two nations for the first time.",
+    "postMatch": {
+      "score": "Brazil 2–1 Scotland",
+      "halftime": "Halftime: 1–1",
+      "goal": "César Sampaio 5′; John Collins 38′ (pen.); Tom Boyd 74′ (o.g.)",
+      "keyEvents": [
+        "Sampaio gave Brazil an early lead.",
+        "Collins converted a penalty to equalize before halftime.",
+        "Boyd's own goal decided a tight opening match."
+      ],
+      "impactPlayers": [
+        {
+          "name": "César Sampaio",
+          "team": "Brazil",
+          "role": "Early breakthrough",
+          "summary": "Scored inside the first ten minutes and set Brazil's attacking tone."
+        },
+        {
+          "name": "John Collins",
+          "team": "Scotland",
+          "role": "Equalizer",
+          "summary": "Converted from the spot and kept Scotland competitive."
+        },
+        {
+          "name": "Tom Boyd",
+          "team": "Scotland",
+          "role": "Unfortunate decider",
+          "summary": "Deflected a cross into his own net in the closing stages."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-02",
     "tournamentId": "france-1998",
     "n": 2,
-    "title": "In Development",
+    "title": "First Evenings",
     "match": "Morocco vs Norway",
     "date": "June 10, 1998",
     "city": "Montpellier",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "The first evening of the tournament spreads from Saint-Denis to Montpellier as Europe discovers how quickly a thirty-two-team World Cup can produce parallel stories.",
+    "tournament": "Brazil have opened Group A, but Morocco and Norway now get their first chance to shape it.",
+    "intro": "Morocco bring technical quality and the confidence of African football's rising profile. Norway arrive with physical strength and European tournament experience. In a four-team group, the first result can immediately alter the pressure surrounding the next game.",
+    "postMatch": {
+      "score": "Morocco 2–2 Norway",
+      "halftime": "Halftime: 2–1",
+      "goal": "Mustapha Hadji 2′; Youssef Hadda 45′; Tore André Flo 62′; Kjetil Rekdal 90′",
+      "keyEvents": [
+        "Hadji opened the scoring inside two minutes.",
+        "Norway fought back through Flo and a late Rekdal equalizer.",
+        "Neither side could find a winner in a dramatic finish."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Mustapha Hadji",
+          "team": "Morocco",
+          "role": "Instant impact",
+          "summary": "Scored almost immediately and drove Morocco's early dominance."
+        },
+        {
+          "name": "Tore André Flo",
+          "team": "Norway",
+          "role": "Aerial threat",
+          "summary": "Halved the deficit and kept Norway in the contest."
+        },
+        {
+          "name": "Kjetil Rekdal",
+          "team": "Norway",
+          "role": "Late rescue",
+          "summary": "Equalized deep in stoppage time."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-03",
     "tournamentId": "france-1998",
     "n": 3,
-    "title": "In Development",
-    "match": "Italy vs Chile",
-    "date": "June 11, 1998",
-    "city": "Bordeaux",
+    "title": "Orange and Red",
+    "match": "Netherlands vs Belgium",
+    "date": "June 13, 1998",
+    "city": "Paris",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Parc des Princes hosts the Netherlands against Belgium as Group E opens in Paris.",
+    "tournament": "Group E begins with a Low Countries derby. Mexico and South Korea share the section.",
+    "intro": "The Netherlands arrive with attacking expectation and technical depth. Belgium bring European organization and local knowledge of a fierce rivalry. An opening Group E assignment leaves little room for caution.",
+    "postMatch": {
+      "score": "Netherlands 0–0 Belgium",
+      "halftime": "Halftime: 0–0",
+      "goal": "No goals",
+      "keyEvents": [
+        "Both sides created chances without converting.",
+        "The derby finished goalless.",
+        "Group E opened with a shared point."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Frank de Boer",
+          "team": "Netherlands",
+          "role": "Defensive control",
+          "summary": "Anchored the Dutch back line through a tense derby."
+        },
+        {
+          "name": "Marc Wilmots",
+          "team": "Belgium",
+          "role": "Midfield drive",
+          "summary": "Pushed Belgium forward and kept the contest unsettled."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-04",
     "tournamentId": "france-1998",
     "n": 4,
-    "title": "In Development",
-    "match": "Cameroon vs Austria",
-    "date": "June 11, 1998",
-    "city": "Toulouse",
+    "title": "Spanish Expectation",
+    "match": "Spain vs Nigeria",
+    "date": "June 13, 1998",
+    "city": "Nantes",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Nantes hosts Spain and Nigeria as Group D continues to take shape across western France.",
+    "tournament": "Group D has already opened. Spain and Nigeria now begin their campaigns knowing Paraguay and Bulgaria share the section.",
+    "intro": "Spain arrive with European pedigree and attacking expectation. Nigeria bring pace, power and African Cup experience. An opening assignment in a four-team group leaves little room for caution.",
+    "postMatch": {
+      "score": "Spain 2–3 Nigeria",
+      "halftime": "Halftime: 1–1",
+      "goal": "Fernando Hierro 21′ (pen.); Mutiu Adepoju 24′; Raúl 47′; Sunday Oliseh 47′; Victor Ikpeba 80′",
+      "keyEvents": [
+        "Hierro converted an early penalty to put Spain ahead.",
+        "Adepoju equalized quickly for Nigeria.",
+        "Raúl and Oliseh traded goals either side of the restart.",
+        "Ikpeba sealed Nigeria's victory late in the second half."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Sunday Oliseh",
+          "team": "Nigeria",
+          "role": "Midfield thunderbolt",
+          "summary": "Struck from distance to restore Nigeria's lead after Spain had leveled."
+        },
+        {
+          "name": "Victor Ikpeba",
+          "team": "Nigeria",
+          "role": "Late finish",
+          "summary": "Converted the goal that confirmed Spain's opening defeat."
+        },
+        {
+          "name": "Raúl",
+          "team": "Spain",
+          "role": "Equalizer",
+          "summary": "Briefly restored parity before Nigeria pulled away again."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-05",
     "tournamentId": "france-1998",
     "n": 5,
-    "title": "In Development",
-    "match": "Paraguay vs Bulgaria",
-    "date": "June 12, 1998",
-    "city": "Montpellier",
+    "title": "Caribbean Meets the Balkans",
+    "match": "Croatia vs Jamaica",
+    "date": "June 14, 1998",
+    "city": "Lens",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Lens hosts one of the tournament's most atmospheric grounds as Croatia make their World Cup debut against Jamaica, also appearing on football's biggest stage for the first time.",
+    "tournament": "Argentina have opened Group H with a narrow win over Japan. Croatia and Jamaica now meet knowing the first result in this four-team group can define the room for error ahead.",
+    "intro": "Croatia arrive with technical quality, Balkan flair and a golden generation ready to announce itself. Jamaica bring Caribbean energy, Reggae Boyz pride and the fearlessness of a nation making its World Cup debut. Both sides know an opening victory can reshape an entire group.",
+    "postMatch": {
+      "score": "Croatia 3–1 Jamaica",
+      "halftime": "Halftime: 1–1",
+      "goal": "Mario Stanić 27′; Robbie Earle 45′; Robert Prosinečki 53′; Davor Šuker 69′",
+      "keyEvents": [
+        "Stanić gave Croatia an early lead with a composed finish.",
+        "Earle equalized on the stroke of halftime — Jamaica's first World Cup goal.",
+        "Prosinečki restored Croatia's lead with a trademark free kick.",
+        "Šuker sealed the win and announced Croatia as a team to watch."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Robert Prosinečki",
+          "team": "Croatia",
+          "role": "Decisive quality",
+          "summary": "Scored a brilliant free kick that swung the match back in Croatia's favour."
+        },
+        {
+          "name": "Davor Šuker",
+          "team": "Croatia",
+          "role": "Finisher",
+          "summary": "Added the third goal and set the tone for Croatia's tournament."
+        },
+        {
+          "name": "Robbie Earle",
+          "team": "Jamaica",
+          "role": "Historic moment",
+          "summary": "Scored Jamaica's first World Cup goal and briefly levelled the contest."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-06",
     "tournamentId": "france-1998",
     "n": 6,
-    "title": "In Development",
-    "match": "Spain vs Nigeria",
-    "date": "June 13, 1998",
-    "city": "Nantes",
+    "title": "Continental Weight",
+    "match": "Germany vs United States",
+    "date": "June 15, 1998",
+    "city": "Paris",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Parc des Princes stages Germany against the United States as Group F gathers momentum in Paris.",
+    "tournament": "Group F is underway. Germany and the United States now meet knowing early points will define the room for error ahead.",
+    "intro": "Germany arrive with European pedigree and the expectation of a deep tournament run. The United States bring organization, athleticism and the confidence of a side that reached the round of 16 four years earlier. Neither can treat an opening Group F assignment lightly.",
+    "postMatch": {
+      "score": "Germany 2–0 United States",
+      "halftime": "Halftime: 1–0",
+      "goal": "Andreas Möller 9′; Jürgen Klinsmann 65′",
+      "keyEvents": [
+        "Möller gave Germany an early lead from close range.",
+        "Klinsmann doubled the advantage in the second half.",
+        "Germany controlled the contest and opened Group F with a win."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Andreas Möller",
+          "team": "Germany",
+          "role": "Early breakthrough",
+          "summary": "Opened the scoring and set Germany's tempo."
+        },
+        {
+          "name": "Jürgen Klinsmann",
+          "team": "Germany",
+          "role": "Second goal",
+          "summary": "Finished the contest and underlined Germany's attacking quality."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-07",
     "tournamentId": "france-1998",
     "n": 7,
-    "title": "In Development",
-    "match": "South Korea vs Mexico",
-    "date": "June 13, 1998",
-    "city": "Lyon",
+    "title": "Italian Authority",
+    "match": "Italy vs Cameroon",
+    "date": "June 17, 1998",
+    "city": "Montpellier",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Montpellier stages Italy's second Group B assignment as Cameroon look to recover from an opening draw.",
+    "tournament": "Group B continues to take shape. Italy and Cameroon now meet knowing the first decisive result would reshape the section overnight.",
+    "intro": "Italy bring defensive structure and attacking depth. Cameroon arrive with pace and physical presence. The first decisive result in Group B would reshape the section overnight.",
+    "postMatch": {
+      "score": "Italy 3–0 Cameroon",
+      "halftime": "Halftime: 1–0",
+      "goal": "Luigi Di Biagio 7′; Christian Vieri 75′, 89′",
+      "keyEvents": [
+        "Di Biagio gave Italy an early lead.",
+        "Vieri scored twice late to complete the victory.",
+        "Italy took control of Group B."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Christian Vieri",
+          "team": "Italy",
+          "role": "Brace",
+          "summary": "Finished the contest with two late goals."
+        },
+        {
+          "name": "Luigi Di Biagio",
+          "team": "Italy",
+          "role": "Early breakthrough",
+          "summary": "Opened the scoring and set Italy's tempo."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-08",
     "tournamentId": "france-1998",
     "n": 8,
-    "title": "In Development",
-    "match": "Netherlands vs Belgium",
-    "date": "June 13, 1998",
+    "title": "Southern Ambition",
+    "match": "South Africa vs Saudi Arabia",
+    "date": "June 18, 1998",
     "city": "Saint-Denis",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "The Stade de France welcomes South Africa and Saudi Arabia as Group C continues to take shape.",
+    "tournament": "France have already opened Group C. South Africa and Saudi Arabia now chase their first points of the tournament.",
+    "intro": "South Africa arrive for a first World Cup campaign with energy and ambition. Saudi Arabia bring Asian Cup pedigree and the need for a result. Neither side can afford to fall behind early in the group.",
+    "postMatch": {
+      "score": "South Africa 2–2 Saudi Arabia",
+      "halftime": "Halftime: 1–1",
+      "goal": "Shaun Bartlett 19′, 90+4′ (pen.); Sami Al-Jaber 45′ (pen.); Yousuf Al-Thunayan 74′ (pen.)",
+      "keyEvents": [
+        "Bartlett opened the scoring for South Africa.",
+        "Two Saudi penalties leveled and then led the contest.",
+        "Bartlett converted a stoppage-time penalty to share the points."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Shaun Bartlett",
+          "team": "South Africa",
+          "role": "Brace",
+          "summary": "Scored early and rescued a point from the spot at the death."
+        },
+        {
+          "name": "Sami Al-Jaber",
+          "team": "Saudi Arabia",
+          "role": "Penalty equalizer",
+          "summary": "Kept Saudi Arabia in the contest before halftime."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-09",
     "tournamentId": "france-1998",
     "n": 9,
-    "title": "In Development",
-    "match": "Yugoslavia vs Iran",
-    "date": "June 14, 1998",
-    "city": "Saint-Étienne",
+    "title": "Host Under Pressure",
+    "match": "France vs Denmark",
+    "date": "June 18, 1998",
+    "city": "Lens",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "The host nation's second match arrives with the entire country watching to see whether the opening victory was the beginning of something larger.",
+    "tournament": "France have started well in Group C, but Denmark arrive with organization and the experience of strong recent European campaigns.",
+    "intro": "France carry the weight of a nation's expectations into every match. Denmark bring Scandinavian discipline and the ability to frustrate more talented opponents. The host nation cannot afford complacency in a group where every point matters.",
+    "postMatch": {
+      "score": "France 2–1 Denmark",
+      "halftime": "Halftime: 1–0",
+      "goal": "David Trezéguet 44′; Thierry Henry 69′; Allan Nielsen 83′",
+      "keyEvents": [
+        "Trezéguet gave France a first-half lead.",
+        "Henry extended the advantage before Nielsen pulled one back.",
+        "France held on to maintain their perfect start."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Thierry Henry",
+          "team": "France",
+          "role": "Decisive finish",
+          "summary": "Scored the goal that proved the difference."
+        },
+        {
+          "name": "David Trezéguet",
+          "team": "France",
+          "role": "Opening strike",
+          "summary": "Gave France control before the break."
+        },
+        {
+          "name": "Peter Schmeichel",
+          "team": "Denmark",
+          "role": "Resistance",
+          "summary": "Kept Denmark in the match with several important saves."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-10",
     "tournamentId": "france-1998",
     "n": 10,
-    "title": "In Development",
-    "match": "Germany vs United States",
-    "date": "June 15, 1998",
-    "city": "Paris",
+    "title": "Drawn Lines",
+    "match": "Mexico vs Belgium",
+    "date": "June 19, 1998",
+    "city": "Bordeaux",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Bordeaux stages a Group E meeting between Mexico and Belgium as both sides search for separation.",
+    "tournament": "Group E remains finely balanced. Mexico and Belgium now meet knowing a draw keeps the mathematics crowded.",
+    "intro": "Mexico bring attacking flair and tournament experience. Belgium arrive with European structure and midfield craft. In a group featuring the Netherlands, every shared point carries weight.",
+    "postMatch": {
+      "score": "Mexico 2–2 Belgium",
+      "halftime": "Halftime: 0–1",
+      "goal": "Marc Wilmots 42′, 47′; Alberto García Aspe 55′ (pen.); Cuauhtémoc Blanco 62′",
+      "keyEvents": [
+        "Wilmots scored either side of halftime to put Belgium ahead.",
+        "García Aspe converted a penalty to begin Mexico's recovery.",
+        "Blanco completed the comeback for a shared point."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Marc Wilmots",
+          "team": "Belgium",
+          "role": "Brace",
+          "summary": "Scored twice to put Belgium in control."
+        },
+        {
+          "name": "Cuauhtémoc Blanco",
+          "team": "Mexico",
+          "role": "Equalizer",
+          "summary": "Finished the comeback that preserved Mexico's standing."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-11",
     "tournamentId": "france-1998",
     "n": 11,
-    "title": "In Development",
-    "match": "Romania vs Colombia",
-    "date": "June 15, 1998",
-    "city": "Lyon",
+    "title": "Iberian Pressure",
+    "match": "Spain vs Paraguay",
+    "date": "June 20, 1998",
+    "city": "Saint-Étienne",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Saint-Étienne stages Spain against Paraguay as Group D continues to tighten.",
+    "tournament": "Nigeria lead Group D. Spain need a result against Paraguay to restore their campaign.",
+    "intro": "Spain arrive under pressure after an opening defeat. Paraguay bring defensive resolve and counter-attacking threat. Group D's mathematics leave little margin for another slip.",
+    "postMatch": {
+      "score": "Spain 0–0 Paraguay",
+      "halftime": "Halftime: 0–0",
+      "goal": "No goals",
+      "keyEvents": [
+        "Spain dominated possession without breaking through.",
+        "Paraguay defended deep and held firm.",
+        "Both sides remained level in Group D."
+      ],
+      "impactPlayers": [
+        {
+          "name": "José Luis Chilavert",
+          "team": "Paraguay",
+          "role": "Goalkeeping command",
+          "summary": "Organized Paraguay's resistance and preserved the point."
+        },
+        {
+          "name": "Raúl",
+          "team": "Spain",
+          "role": "Attacking threat",
+          "summary": "Led Spain's search for a breakthrough that never came."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-12",
     "tournamentId": "france-1998",
     "n": 12,
-    "title": "In Development",
-    "match": "England vs Tunisia",
-    "date": "June 15, 1998",
-    "city": "Marseille",
+    "title": "Political Night",
+    "match": "Iran vs United States",
+    "date": "June 21, 1998",
+    "city": "Lyon",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Lyon hosts Iran against the United States as Group F delivers one of the tournament's most charged fixtures.",
+    "tournament": "Group F remains open. Iran and the United States now meet knowing the result will reshape the section.",
+    "intro": "Iran arrive with organization and set-piece threat. The United States bring athleticism and tournament experience. Beyond the pitch, the fixture carries a weight few World Cup matches ever match.",
+    "postMatch": {
+      "score": "Iran 2–1 United States",
+      "halftime": "Halftime: 1–1",
+      "goal": "Estili 40′; McBride 43′; Mahdavikia 84′",
+      "keyEvents": [
+        "Estili gave Iran the lead before halftime.",
+        "McBride equalized almost immediately for the United States.",
+        "Mahdavikia struck late to seal Iran's victory."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Mehdi Mahdavikia",
+          "team": "Iran",
+          "role": "Match winner",
+          "summary": "Finished the decisive late goal that secured Iran's win."
+        },
+        {
+          "name": "Brian McBride",
+          "team": "United States",
+          "role": "Equalizer",
+          "summary": "Restored parity and kept the United States in the contest."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-13",
     "tournamentId": "france-1998",
     "n": 13,
-    "title": "In Development",
-    "match": "France vs South Africa",
-    "date": "June 12, 1998",
-    "city": "Marseille",
+    "title": "First World Cup Nights",
+    "match": "Japan vs Jamaica",
+    "date": "June 21, 1998",
+    "city": "Toulouse",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Toulouse hosts Japan and Jamaica as two debutant World Cup nations chase a first victory in Group H.",
+    "tournament": "Argentina and Croatia have already taken points in Group H. Japan and Jamaica now meet with both still searching for a win.",
+    "intro": "Japan arrive for a first World Cup finals with discipline and organization. Jamaica bring Caribbean energy and the ambition of a historic breakthrough. A first win would transform either campaign.",
+    "postMatch": {
+      "score": "Japan 1–2 Jamaica",
+      "halftime": "Halftime: 0–1",
+      "goal": "Theodore Whitmore 39′, 54′; Masashi Nakayama 74′",
+      "keyEvents": [
+        "Whitmore scored twice to put Jamaica in control.",
+        "Nakayama pulled one back for Japan.",
+        "Jamaica claimed a first World Cup finals victory."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Theodore Whitmore",
+          "team": "Jamaica",
+          "role": "Brace",
+          "summary": "Scored twice and delivered Jamaica's landmark win."
+        },
+        {
+          "name": "Masashi Nakayama",
+          "team": "Japan",
+          "role": "Consolation",
+          "summary": "Found Japan's reply but could not force a draw."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-14",
     "tournamentId": "france-1998",
     "n": 14,
-    "title": "In Development",
-    "match": "Argentina vs Japan",
-    "date": "June 14, 1998",
-    "city": "Toulouse",
+    "title": "Class of '98",
+    "match": "Argentina vs Croatia",
+    "date": "June 21, 1998",
+    "city": "Bordeaux",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Bordeaux hosts one of the group stage's most anticipated meetings as two talented European and South American sides collide.",
+    "tournament": "Group H has produced tight, competitive matches. Argentina and Croatia meet with both teams knowing this fixture may decide the group.",
+    "intro": "Argentina arrive with individual brilliance and the expectation of topping their group. Croatia bring technical quality and the confidence of a nation making its World Cup mark. Both teams have talent to decide this match in a single moment.",
+    "postMatch": {
+      "score": "Argentina 1–0 Croatia",
+      "halftime": "Halftime: 0–0",
+      "goal": "Javier Pineda 36′",
+      "keyEvents": [
+        "A tight match was decided by a single first-half goal.",
+        "Croatia created chances but could not find an equalizer.",
+        "Argentina secured the result that kept them atop Group H."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Javier Pineda",
+          "team": "Argentina",
+          "role": "Match winner",
+          "summary": "Scored the only goal in a tense, technical contest."
+        },
+        {
+          "name": "Juan Sebastián Verón",
+          "team": "Argentina",
+          "role": "Midfield control",
+          "summary": "Directed Argentina's rhythm throughout."
+        },
+        {
+          "name": "Davor Šuker",
+          "team": "Croatia",
+          "role": "Constant threat",
+          "summary": "Croatia's most dangerous player in a frustrating defeat."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-15",
     "tournamentId": "france-1998",
     "n": 15,
-    "title": "In Development",
-    "match": "Brazil vs Norway",
-    "date": "June 23, 1998",
-    "city": "Marseille",
+    "title": "English Ambition",
+    "match": "Romania vs England",
+    "date": "June 22, 1998",
+    "city": "Lens",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Toulouse stages Romania against England as Group G reaches a decisive mid-group meeting.",
+    "tournament": "Group G is finely balanced. Romania and England now meet knowing a win would seize early control.",
+    "intro": "Romania arrive with European craft and tournament composure. England bring attacking talent and the expectation of a deep run. Group G's middle fixture can redefine both campaigns overnight.",
+    "postMatch": {
+      "score": "Romania 2–1 England",
+      "halftime": "Halftime: 0–0",
+      "goal": "Viorel Moldovan 47′; Michael Owen 79′; Dan Petrescu 90′",
+      "keyEvents": [
+        "Moldovan broke the deadlock after halftime.",
+        "Owen equalized late for England.",
+        "Petrescu scored in the final minute to win it for Romania."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Dan Petrescu",
+          "team": "Romania",
+          "role": "Late winner",
+          "summary": "Converted the stoppage-time finish that stunned England."
+        },
+        {
+          "name": "Michael Owen",
+          "team": "England",
+          "role": "Equalizer",
+          "summary": "Briefly restored parity before Romania struck again."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-16",
     "tournamentId": "france-1998",
     "n": 16,
-    "title": "In Development",
-    "match": "Nigeria vs Paraguay",
-    "date": "June 24, 1998",
-    "city": "Toulouse",
+    "title": "Group A Decider",
+    "match": "Brazil vs Norway",
+    "date": "June 23, 1998",
+    "city": "Saint-Denis",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "The group stage reaches its decisive phase as teams across France discover whether their early work has been enough.",
+    "tournament": "Group A has produced surprises. Brazil and Norway meet with qualification still uncertain for both sides.",
+    "intro": "Brazil expected to dominate this group, but Norway have proved stubborn opponents throughout. Both teams know that the wrong result here could mean an unexpected early exit for one of the tournament's favorites.",
+    "postMatch": {
+      "score": "Brazil 1–2 Norway",
+      "halftime": "Halftime: 0–1",
+      "goal": "Kjetil Rekdal 50′; Tore André Flo 71′; Bebeto 78′",
+      "keyEvents": [
+        "Norway took control with two second-half goals.",
+        "Bebeto pulled one back but Brazil could not find an equalizer.",
+        "One of the tournament's earliest major upsets reshaped Group A."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Tore André Flo",
+          "team": "Norway",
+          "role": "Decisive finish",
+          "summary": "Scored the goal that put Norway in front."
+        },
+        {
+          "name": "Kjetil Rekdal",
+          "team": "Norway",
+          "role": "Opening strike",
+          "summary": "Gave Norway the lead shortly after halftime."
+        },
+        {
+          "name": "Bebeto",
+          "team": "Brazil",
+          "role": "Late hope",
+          "summary": "Scored but could not spark a Brazilian comeback."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-17",
     "tournamentId": "france-1998",
     "n": 17,
-    "title": "In Development",
-    "match": "France vs Denmark",
-    "date": "June 24, 1998",
-    "city": "Lyon",
+    "title": "Group B Decided",
+    "match": "Italy vs Austria",
+    "date": "June 23, 1998",
+    "city": "Saint-Denis",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "The Stade de France stages Italy against Austria as Group B reaches its final round of fixtures.",
+    "tournament": "Italy lead Group B. Austria still need a result to keep qualification alive on the final matchday.",
+    "intro": "Italy arrive with qualification within reach and attacking confidence. Austria bring urgency and the knowledge that only a win keeps their tournament alive. Group B's final afternoon will settle the section.",
+    "postMatch": {
+      "score": "Italy 2–1 Austria",
+      "halftime": "Halftime: 0–0",
+      "goal": "Christian Vieri 49′; Roberto Baggio 89′; Andreas Herzog 90′ (pen.)",
+      "keyEvents": [
+        "Vieri broke the deadlock after halftime.",
+        "Baggio added a late second for Italy.",
+        "Herzog converted a stoppage-time penalty for Austria."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Christian Vieri",
+          "team": "Italy",
+          "role": "Breakthrough",
+          "summary": "Opened the scoring and steered Italy toward first place."
+        },
+        {
+          "name": "Roberto Baggio",
+          "team": "Italy",
+          "role": "Late insurance",
+          "summary": "Added the finish that secured the result."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-18",
     "tournamentId": "france-1998",
     "n": 18,
-    "title": "In Development",
-    "match": "Argentina vs Croatia",
-    "date": "June 26, 1998",
-    "city": "Bordeaux",
+    "title": "Three Points Enough",
+    "match": "Chile vs Cameroon",
+    "date": "June 23, 1998",
+    "city": "Nantes",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Nantes hosts Chile and Cameroon on Group B's final matchday as both sides chase a path into the knockout rounds.",
+    "tournament": "Italy are already in control of Group B. Chile and Cameroon now meet knowing a draw can still decide second place.",
+    "intro": "Chile arrive unbeaten and hunting qualification. Cameroon need a win to overturn the mathematics. On the final day of the group, caution and ambition collide.",
+    "postMatch": {
+      "score": "Chile 1–1 Cameroon",
+      "halftime": "Halftime: 1–0",
+      "goal": "José Luis Sierra 20′; Patrick Mboma 56′",
+      "keyEvents": [
+        "Sierra gave Chile a first-half lead.",
+        "Mboma equalized after the break.",
+        "Chile's third draw secured second place in Group B."
+      ],
+      "impactPlayers": [
+        {
+          "name": "José Luis Sierra",
+          "team": "Chile",
+          "role": "Early lead",
+          "summary": "Put Chile ahead and kept qualification on track."
+        },
+        {
+          "name": "Patrick Mboma",
+          "team": "Cameroon",
+          "role": "Equalizer",
+          "summary": "Restored parity but could not force the win Cameroon needed."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-19",
     "tournamentId": "france-1998",
     "n": 19,
-    "title": "In Development",
-    "match": "Germany vs Iran",
-    "date": "June 25, 1998",
-    "city": "Montpellier",
+    "title": "Hosts Unbeaten",
+    "match": "France vs Saudi Arabia",
+    "date": "June 24, 1998",
+    "city": "Nantes",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Nantes stages France against Saudi Arabia as the hosts look to complete a perfect Group C campaign.",
+    "tournament": "France lead Group C. Saudi Arabia arrive needing a result to stay alive on the final matchday.",
+    "intro": "France bring home support and tournament momentum. Saudi Arabia arrive under pressure and searching for a first win. The hosts can seal top spot with another controlled performance.",
+    "postMatch": {
+      "score": "France 4–0 Saudi Arabia",
+      "halftime": "Halftime: 1–0",
+      "goal": "Thierry Henry 36′, 77′; David Trezeguet 68′; Bixente Lizarazu 85′",
+      "keyEvents": [
+        "Henry opened the scoring before halftime.",
+        "Trezeguet and Henry extended the lead after the break.",
+        "Lizarazu completed a dominant French victory."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Thierry Henry",
+          "team": "France",
+          "role": "Brace",
+          "summary": "Scored twice and drove the hosts' attacking rhythm."
+        },
+        {
+          "name": "David Trezeguet",
+          "team": "France",
+          "role": "Clinical finish",
+          "summary": "Added the goal that broke the contest open."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-20",
     "tournamentId": "france-1998",
     "n": 20,
-    "title": "In Development",
+    "title": "Final Group G Night",
     "match": "Colombia vs England",
     "date": "June 26, 1998",
     "city": "Lens",
     "stage": "Group Stage",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Lens hosts Colombia against England as Group G reaches its closing assignment.",
+    "tournament": "England need a result to secure passage. Colombia arrive searching for a late route into the knockout rounds.",
+    "intro": "England bring urgency and attacking depth. Colombia arrive with nothing to lose and the hope of a historic recovery. Group G's final night will decide who advances.",
+    "postMatch": {
+      "score": "Colombia 0–2 England",
+      "halftime": "Halftime: 0–2",
+      "goal": "Darren Anderton 20′; David Beckham 29′",
+      "keyEvents": [
+        "Anderton opened the scoring in the first half.",
+        "Beckham doubled the lead from a free kick.",
+        "England secured qualification from Group G."
+      ],
+      "impactPlayers": [
+        {
+          "name": "David Beckham",
+          "team": "England",
+          "role": "Free-kick finish",
+          "summary": "Struck the second goal that settled England's passage."
+        },
+        {
+          "name": "Darren Anderton",
+          "team": "England",
+          "role": "Early breakthrough",
+          "summary": "Opened the scoring and set England's tempo."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-21",
     "tournamentId": "france-1998",
     "n": 21,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Italy vs Norway",
     "date": "June 27, 1998",
     "city": "Marseille",
     "stage": "Round of 16",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "The knockout stage begins as the tournament sheds eight nations in a single weekend of sudden-death football.",
+    "tournament": "Italy and Norway survived the group stage through different paths. Now there is no second chance.",
+    "intro": "Italy bring defensive organization and tournament experience. Norway arrive with the confidence of having beaten Brazil in the group stage. Knockout football removes the safety net of a draw — one team advances, one goes home.",
+    "postMatch": {
+      "score": "Italy 1–0 Norway",
+      "halftime": "Halftime: 1–0",
+      "goal": "Christian Vieri 18′",
+      "keyEvents": [
+        "Vieri scored early and Italy protected their lead.",
+        "Norway pressed but could not find an equalizer.",
+        "Italy advanced to the quarterfinals."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Christian Vieri",
+          "team": "Italy",
+          "role": "Early decider",
+          "summary": "Scored inside twenty minutes and gave Italy control."
+        },
+        {
+          "name": "Paolo Maldini",
+          "team": "Italy",
+          "role": "Defensive masterclass",
+          "summary": "Organized Italy through sustained Norwegian pressure."
+        },
+        {
+          "name": "Tore André Flo",
+          "team": "Norway",
+          "role": "Persistent threat",
+          "summary": "Norway's most dangerous player in a frustrating defeat."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-22",
     "tournamentId": "france-1998",
     "n": 22,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Brazil vs Chile",
     "date": "June 27, 1998",
     "city": "Paris",
     "stage": "Round of 16",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Paris hosts the defending champions as the knockout stage produces its first South American duel.",
+    "tournament": "Brazil survived a surprising group stage. Chile arrive with the flair that made them one of South America's most watchable sides.",
+    "intro": "Brazil expected to dominate the tournament but stumbled in the group stage. Chile bring attacking quality and the fearlessness of a team with nothing to lose. The defending champions cannot afford another flat performance.",
+    "postMatch": {
+      "score": "Brazil 4–1 Chile",
+      "halftime": "Halftime: 1–0",
+      "goal": "Ronaldo 45′; Marcelo Salas 67′; Rivaldo 68′; Gonzalo Jara 68′ (o.g.); Ronaldo 80′",
+      "keyEvents": [
+        "Ronaldo scored twice as Brazil finally found their rhythm.",
+        "Salas briefly gave Chile hope before Brazil pulled away.",
+        "The defending champions announced their knockout intent."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Ronaldo",
+          "team": "Brazil",
+          "role": "Brace",
+          "summary": "Scored twice and looked like the player Brazil had been waiting for."
+        },
+        {
+          "name": "Rivaldo",
+          "team": "Brazil",
+          "role": "Creative force",
+          "summary": "Drove Brazil's attacking play throughout."
+        },
+        {
+          "name": "Marcelo Salas",
+          "team": "Chile",
+          "role": "Brief resistance",
+          "summary": "Scored Chile's only goal and kept them competitive."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-23",
     "tournamentId": "france-1998",
     "n": 23,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "France vs Paraguay",
     "date": "June 28, 1998",
     "city": "Lens",
     "stage": "Round of 16",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "The host nation's knockout campaign begins in Lens as an entire country holds its breath.",
+    "tournament": "France have progressed smoothly through the group stage. Paraguay arrive with the organization that kept Spain and Nigeria honest in Group D.",
+    "intro": "The host nation carries expectations that extend far beyond football. Paraguay bring South American discipline and the ability to frustrate more talented opponents. Knockout football tests whether France can handle the weight of a nation's hopes.",
+    "postMatch": {
+      "score": "France 1–0 Paraguay (a.e.t.)",
+      "halftime": "Halftime: 0–0",
+      "goal": "Laurent Blanc 114′",
+      "keyEvents": [
+        "The match remained scoreless through ninety minutes.",
+        "Blanc scored in extra time to send the host nation through.",
+        "Paraguay defended heroically but could not find a way past Barthez."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Laurent Blanc",
+          "team": "France",
+          "role": "Extra-time hero",
+          "summary": "Scored the golden goal that kept France's campaign alive."
+        },
+        {
+          "name": "Fabien Barthez",
+          "team": "France",
+          "role": "Composure",
+          "summary": "Maintained concentration through a tense, scoreless regulation."
+        },
+        {
+          "name": "José Luis Chilavert",
+          "team": "Paraguay",
+          "role": "Resistance",
+          "summary": "Kept Paraguay in the match with a commanding performance."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-24",
     "tournamentId": "france-1998",
     "n": 24,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Nigeria vs Denmark",
     "date": "June 28, 1998",
     "city": "Saint-Denis",
     "stage": "Round of 16",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "The Stade de France hosts a last-sixteen tie between two teams that impressed in different ways during the group stage.",
+    "tournament": "Nigeria's opening victory over Spain announced them as one of the tournament's most exciting teams. Denmark arrive with Scandinavian organization and set-piece threat.",
+    "intro": "Nigeria bring pace, flair and the confidence of having beaten Spain. Denmark bring physicality and the tactical discipline that eliminated several stronger sides in recent tournaments. The contrast in styles could produce an open, unpredictable match.",
+    "postMatch": {
+      "score": "Nigeria 1–4 Denmark",
+      "halftime": "Halftime: 0–2",
+      "goal": "Thomas Jørgensen 3′; Martin Jørgensen 12′; Ebbe Sand 58′; Thomas Helveg 86′; Tijani Babangida 71′",
+      "keyEvents": [
+        "Denmark scored twice inside the opening fifteen minutes.",
+        "Sand and Helveg added further goals.",
+        "Babangida scored a late consolation for Nigeria."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Martin Jørgensen",
+          "team": "Denmark",
+          "role": "Early strike",
+          "summary": "Scored inside twelve minutes and set Denmark's tone."
+        },
+        {
+          "name": "Ebbe Sand",
+          "team": "Denmark",
+          "role": "Second-half finish",
+          "summary": "Added the third and killed Nigerian hopes of a comeback."
+        },
+        {
+          "name": "Thomas Jørgensen",
+          "team": "Denmark",
+          "role": "Instant impact",
+          "summary": "Scored after three minutes to shock Nigeria."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-25",
     "tournamentId": "france-1998",
     "n": 25,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Germany vs Mexico",
     "date": "June 29, 1998",
     "city": "Montpellier",
     "stage": "Round of 16",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Montpellier hosts a European-American collision as the knockout stage continues to eliminate favorites and underdogs alike.",
+    "tournament": "Germany controlled Group F with professional efficiency. Mexico arrive with the flair that made them one of the tournament's most watchable sides.",
+    "intro": "Germany bring experience and the expectation that comes with being one of Europe's traditional powers. Mexico bring attacking quality and the confidence of having beaten South Korea convincingly. Both teams have enough quality to win this tie.",
+    "postMatch": {
+      "score": "Germany 2–1 Mexico",
+      "halftime": "Halftime: 1–1",
+      "goal": "Jürgen Klinsmann 43′; Cuauhtémoc Blanco 37′; Oliver Bierhoff 68′",
+      "keyEvents": [
+        "Blanco gave Mexico an early lead.",
+        "Klinsmann equalized before halftime.",
+        "Bierhoff scored the winner in the second half."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Oliver Bierhoff",
+          "team": "Germany",
+          "role": "Match winner",
+          "summary": "Scored the goal that sent Germany through."
+        },
+        {
+          "name": "Cuauhtémoc Blanco",
+          "team": "Mexico",
+          "role": "Opening strike",
+          "summary": "Gave Mexico hope with an early goal."
+        },
+        {
+          "name": "Jürgen Klinsmann",
+          "team": "Germany",
+          "role": "Equalizer",
+          "summary": "Leveled the match before the break."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-26",
     "tournamentId": "france-1998",
     "n": 26,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Netherlands vs Yugoslavia",
     "date": "June 29, 1998",
     "city": "Toulouse",
     "stage": "Round of 16",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Toulouse hosts a European derby as the knockout stage produces another fixture charged with regional history.",
+    "tournament": "The Netherlands survived a cautious group stage. Yugoslavia arrive with the technical quality that beat Iran and tested Germany.",
+    "intro": "The Netherlands bring attacking talent and the frustration of a group stage that never quite caught fire. Yugoslavia bring Balkan technical quality and the ability to compete with Europe's best. Both teams have points to prove.",
+    "postMatch": {
+      "score": "Netherlands 2–1 Yugoslavia",
+      "halftime": "Halftime: 1–0",
+      "goal": "Dennis Bergkamp 38′; Ruud Gullit 48′; Siniša Mihajlović 76′",
+      "keyEvents": [
+        "Bergkamp and Gullit gave the Netherlands a two-goal cushion.",
+        "Mihajlović pulled one back but Yugoslavia could not find an equalizer.",
+        "The Netherlands advanced to face Argentina."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Dennis Bergkamp",
+          "team": "Netherlands",
+          "role": "Opening goal",
+          "summary": "Scored before halftime and controlled Dutch attacking play."
+        },
+        {
+          "name": "Ruud Gullit",
+          "team": "Netherlands",
+          "role": "Second-half finish",
+          "summary": "Extended the lead shortly after the break."
+        },
+        {
+          "name": "Siniša Mihajlović",
+          "team": "Yugoslavia",
+          "role": "Late hope",
+          "summary": "Scored from a set piece but could not spark a comeback."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-27",
     "tournamentId": "france-1998",
     "n": 27,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Romania vs Croatia",
     "date": "June 30, 1998",
     "city": "Bordeaux",
     "stage": "Round of 16",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Bordeaux hosts an Eastern European duel as two nations that emerged from different football traditions meet in the last sixteen.",
+    "tournament": "Romania and Croatia both impressed during the group stage. Now one team's tournament ends while the other advances.",
+    "intro": "Romania bring the imagination that reached the quarterfinals four years earlier. Croatia bring the technical quality and confidence of a nation making its World Cup mark. Both teams have the talent to win this tie in a single moment.",
+    "postMatch": {
+      "score": "Romania 0–1 Croatia",
+      "halftime": "Halftime: 0–0",
+      "goal": "Robert Prosinečki 45′",
+      "keyEvents": [
+        "Prosinečki scored on the stroke of halftime.",
+        "Romania pressed throughout the second half but could not equalize.",
+        "Croatia advanced to face Germany."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Robert Prosinečki",
+          "team": "Croatia",
+          "role": "Match winner",
+          "summary": "Scored a spectacular goal that decided the tie."
+        },
+        {
+          "name": "Davor Šuker",
+          "team": "Croatia",
+          "role": "Constant threat",
+          "summary": "Created chances throughout and kept Romania's defense occupied."
+        },
+        {
+          "name": "Gheorghe Hagi",
+          "team": "Romania",
+          "role": "Creative effort",
+          "summary": "Tried everything to rescue Romania but could not find a breakthrough."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-28",
     "tournamentId": "france-1998",
     "n": 28,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Argentina vs England",
     "date": "June 30, 1998",
     "city": "Saint-Étienne",
     "stage": "Round of 16",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "Saint-Étienne hosts one of the tournament's most anticipated knockout ties as two football nations with deep history collide.",
+    "tournament": "Argentina topped Group H with professional efficiency. England arrive bruised after an unexpected group-stage defeat but still carrying individual quality.",
+    "intro": "Argentina bring individual brilliance and the expectation of being tournament favorites. England bring the weight of history and a squad that knows how quickly knockout football can turn. The emotional stakes extend far beyond the current squads.",
+    "postMatch": {
+      "score": "Argentina 2–2 England (Argentina won 4–3 on pens)",
+      "halftime": "Halftime: 2–2",
+      "goal": "Gabriel Batistuta 6′; Alan Shearer 10′; Javier Zanetti 45′; Michael Owen 16′",
+      "keyEvents": [
+        "Four goals in an extraordinary first half.",
+        "The match remained level through extra time.",
+        "Argentina won the penalty shootout 4–3."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Michael Owen",
+          "team": "England",
+          "role": "Teenage impact",
+          "summary": "Scored a sensational solo goal that announced a new English talent."
+        },
+        {
+          "name": "Gabriel Batistuta",
+          "team": "Argentina",
+          "role": "Early strike",
+          "summary": "Scored inside ten minutes and set Argentina's tone."
+        },
+        {
+          "name": "Javier Zanetti",
+          "team": "Argentina",
+          "role": "Equalizer",
+          "summary": "Scored a clever free-kick that kept Argentina level at halftime."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-29",
     "tournamentId": "france-1998",
     "n": 29,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Italy vs France",
     "date": "July 3, 1998",
     "city": "Saint-Denis",
-    "stage": "Quarterfinal",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "stage": "Quarter-final",
+    "world": "The quarterfinals begin as the tournament reaches the stage where every match carries the weight of national expectation.",
+    "tournament": "Italy and France have reached the last eight through different paths. Now one nation's dream continues while another's ends.",
+    "intro": "Italy bring defensive organization and the resilience that kept them in the tournament. France carry the weight of a host nation that has progressed smoothly but knows the quarterfinal is where campaigns are truly tested.",
+    "postMatch": {
+      "score": "Italy 0–0 France (France won 4–3 on pens)",
+      "halftime": "Halftime: 0–0",
+      "goal": "No goals — France won the shootout 4–3",
+      "keyEvents": [
+        "Neither team could break through in 120 minutes.",
+        "France converted four penalties in the shootout.",
+        "The host nation advanced to the semifinals."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Fabien Barthez",
+          "team": "France",
+          "role": "Shootout hero",
+          "summary": "Saved a penalty and projected calm throughout the shootout."
+        },
+        {
+          "name": "Paolo Maldini",
+          "team": "Italy",
+          "role": "Defensive masterclass",
+          "summary": "Led Italy through 120 scoreless minutes."
+        },
+        {
+          "name": "Laurent Blanc",
+          "team": "France",
+          "role": "Composure",
+          "summary": "Converted in the shootout and organized France's defense."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-30",
     "tournamentId": "france-1998",
     "n": 30,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Brazil vs Denmark",
     "date": "July 3, 1998",
-    "city": "Nantes",
-    "stage": "Quarterfinal",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "city": "Saint-Denis",
+    "stage": "Quarter-final",
+    "world": "Nantes hosts the defending champions as the quarterfinals produce another fixture between a favorite and a team that has exceeded expectations.",
+    "tournament": "Brazil found their rhythm in the knockout stage. Denmark arrive after dismantling Nigeria in the last sixteen.",
+    "intro": "Brazil bring the individual quality that makes them tournament favorites. Denmark bring the organization and set-piece threat that eliminated Nigeria convincingly. The defending champions cannot afford to underestimate a Scandinavian side that has already beaten stronger opponents.",
+    "postMatch": {
+      "score": "Brazil 3–2 Denmark",
+      "halftime": "Halftime: 1–1",
+      "goal": "Bebeto 3′; Thomas Jørgensen 45′; Rivaldo 50′, 62′; Allan Nielsen 82′",
+      "keyEvents": [
+        "Bebeto gave Brazil an early lead.",
+        "Rivaldo scored twice to put Brazil in control.",
+        "Nielsen pulled one back late but Denmark could not find an equalizer."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Rivaldo",
+          "team": "Brazil",
+          "role": "Brace",
+          "summary": "Scored twice and finally looked like the player Brazil needed."
+        },
+        {
+          "name": "Bebeto",
+          "team": "Brazil",
+          "role": "Early strike",
+          "summary": "Scored inside three minutes and set Brazil's attacking tone."
+        },
+        {
+          "name": "Thomas Jørgensen",
+          "team": "Denmark",
+          "role": "Equalizer",
+          "summary": "Scored before halftime and kept Denmark competitive."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-31",
     "tournamentId": "france-1998",
     "n": 31,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Netherlands vs Argentina",
     "date": "July 4, 1998",
     "city": "Marseille",
-    "stage": "Quarterfinal",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "stage": "Quarter-final",
+    "world": "Marseille hosts a quarterfinal between two nations that expect to compete for the highest honors.",
+    "tournament": "The Netherlands survived Yugoslavia in the last sixteen. Argentina arrive after eliminating England in one of the tournament's most dramatic ties.",
+    "intro": "The Netherlands bring attacking talent and the frustration of never quite fulfilling their potential on the biggest stage. Argentina bring individual brilliance and the confidence of having survived a penalty shootout. Both teams believe they belong in the semifinals.",
+    "postMatch": {
+      "score": "Netherlands 2–1 Argentina",
+      "halftime": "Halftime: 1–1",
+      "goal": "Patrick Kluivert 12′; Roberto Ayala 36′; Dennis Bergkamp 89′",
+      "keyEvents": [
+        "Kluivert gave the Netherlands an early lead.",
+        "Ayala equalized before halftime.",
+        "Bergkamp scored a late winner to send the Netherlands through."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Dennis Bergkamp",
+          "team": "Netherlands",
+          "role": "Late winner",
+          "summary": "Scored one of the tournament's most memorable goals in the closing stages."
+        },
+        {
+          "name": "Patrick Kluivert",
+          "team": "Netherlands",
+          "role": "Opening strike",
+          "summary": "Gave the Netherlands an early advantage."
+        },
+        {
+          "name": "Roberto Ayala",
+          "team": "Argentina",
+          "role": "Equalizer",
+          "summary": "Kept Argentina in the match with a first-half header."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-32",
     "tournamentId": "france-1998",
     "n": 32,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Germany vs Croatia",
     "date": "July 4, 1998",
     "city": "Lyon",
-    "stage": "Quarterfinal",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "stage": "Quarter-final",
+    "world": "Lyon hosts a quarterfinal that pits European experience against the rising force of Croatian football.",
+    "tournament": "Germany controlled their group and eliminated Mexico professionally. Croatia arrive with the confidence of having beaten Romania with a moment of individual brilliance.",
+    "intro": "Germany bring the expectation that comes with being one of Europe's most successful nations. Croatia bring technical quality and the fearlessness of a team that believes it belongs among the world's best. The gap in history may be wide; the gap in current form may be less so.",
+    "postMatch": {
+      "score": "Germany 0–3 Croatia",
+      "halftime": "Halftime: 0–1",
+      "goal": "Robert Jarni 45′; Goran Vlaović 46′; Zvonimir Boban 85′",
+      "keyEvents": [
+        "Croatia scored three times in a stunning upset.",
+        "Jarni opened the scoring on the stroke of halftime.",
+        "Vlaović and Boban sealed one of the tournament's biggest surprises."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Goran Vlaović",
+          "team": "Croatia",
+          "role": "Second-half finish",
+          "summary": "Scored immediately after halftime and killed German hopes."
+        },
+        {
+          "name": "Robert Jarni",
+          "team": "Croatia",
+          "role": "Opening strike",
+          "summary": "Scored a spectacular goal that set the tone."
+        },
+        {
+          "name": "Zvonimir Boban",
+          "team": "Croatia",
+          "role": "Late confirmation",
+          "summary": "Sealed the result and completed Croatia's statement."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-33",
     "tournamentId": "france-1998",
     "n": 33,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Brazil vs Netherlands",
     "date": "July 7, 1998",
-    "city": "Marseille",
-    "stage": "Semifinal",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "city": "Saint-Denis",
+    "stage": "Semi-final",
+    "world": "The semifinals begin as four teams remain and every player is now one match from the final.",
+    "tournament": "Brazil and the Netherlands have both survived dramatic knockout ties. Now one advances to the final while the other faces the pain of falling one step short.",
+    "intro": "Brazil bring the individual quality that makes them favorites to retain their title. The Netherlands bring attacking talent and the belief that this may finally be their moment. Semifinals can be cautious until one moment alters the emotional balance.",
+    "postMatch": {
+      "score": "Brazil 1–1 Netherlands (Brazil won 4–2 on pens)",
+      "halftime": "Halftime: 0–0",
+      "goal": "Ronaldo 46′; Patrick Kluivert 87′",
+      "keyEvents": [
+        "Ronaldo gave Brazil the lead shortly after halftime.",
+        "Kluivert equalized late in regulation.",
+        "Brazil won the penalty shootout 4–2."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Ronaldo",
+          "team": "Brazil",
+          "role": "Opening strike",
+          "summary": "Scored after halftime and looked like the player Brazil needed."
+        },
+        {
+          "name": "Patrick Kluivert",
+          "team": "Netherlands",
+          "role": "Late equalizer",
+          "summary": "Scored a crucial late goal to force extra time."
+        },
+        {
+          "name": "Cláudio Taffarel",
+          "team": "Brazil",
+          "role": "Shootout hero",
+          "summary": "Saved penalties and sent Brazil to the final."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-34",
     "tournamentId": "france-1998",
     "n": 34,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "France vs Croatia",
     "date": "July 8, 1998",
     "city": "Saint-Denis",
-    "stage": "Semifinal",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "stage": "Semi-final",
+    "world": "The host nation's semifinal arrives as an entire country gathers to see whether the dream can reach the final.",
+    "tournament": "France survived Italy on penalties in the quarterfinals. Croatia arrive after stunning Germany and announcing themselves as one of the tournament's most dangerous teams.",
+    "intro": "France carry the weight of a nation's expectations into the biggest match of their campaign so far. Croatia bring technical quality and the confidence of having eliminated Germany. The host nation knows that defeat here would feel like the end of a dream.",
+    "postMatch": {
+      "score": "France 2–1 Croatia",
+      "halftime": "Halftime: 1–1",
+      "goal": "Davor Šuker 46′; Lilian Thuram 47′, 69′",
+      "keyEvents": [
+        "Šuker gave Croatia a second-half lead.",
+        "Thuram scored twice to send the host nation to the final.",
+        "France's dream remained alive."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Lilian Thuram",
+          "team": "France",
+          "role": "Brace",
+          "summary": "Scored both French goals in the most important match of his career."
+        },
+        {
+          "name": "Davor Šuker",
+          "team": "Croatia",
+          "role": "Opening strike",
+          "summary": "Gave Croatia a lead that briefly silenced the Stade de France."
+        },
+        {
+          "name": "Fabien Barthez",
+          "team": "France",
+          "role": "Composure",
+          "summary": "Maintained concentration when Croatia threatened to extend their lead."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-35",
     "tournamentId": "france-1998",
     "n": 35,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Netherlands vs Croatia",
     "date": "July 11, 1998",
     "city": "Paris",
-    "stage": "Third Place",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "stage": "Third-place play-off",
+    "world": "One match remains before the final, but this game has its own meaning for two teams closing memorable campaigns.",
+    "tournament": "The Netherlands and Croatia meet for third place after falling one step short of the final.",
+    "intro": "The emotional challenge is unusual: both teams must recover quickly from semifinal disappointment and find a reason to finish strongly. These matches can become open because the fear of elimination has already passed.",
+    "postMatch": {
+      "score": "Netherlands 1–2 Croatia",
+      "halftime": "Halftime: 1–1",
+      "goal": "Robert Prosinečki 14′; Patrick Kluivert 16′; Zvonimir Boban 36′; Davor Šuker 77′",
+      "keyEvents": [
+        "Prosinečki opened the scoring before Kluivert equalized.",
+        "Boban restored Croatia's lead before halftime.",
+        "Šuker sealed Croatia's third-place finish in the second half."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Robert Prosinečki",
+          "team": "Croatia",
+          "role": "Opening strike",
+          "summary": "Scored early and set Croatia's attacking tone."
+        },
+        {
+          "name": "Patrick Kluivert",
+          "team": "Netherlands",
+          "role": "Brief equalizer",
+          "summary": "Pulled the Netherlands level before Croatia restored their lead."
+        },
+        {
+          "name": "Davor Šuker",
+          "team": "Croatia",
+          "role": "Late finish",
+          "summary": "Sealed Croatia's third-place finish."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   },
   {
     "id": "france-1998-36",
     "tournamentId": "france-1998",
     "n": 36,
-    "title": "In Development",
+    "title": "Knockout Chapter",
     "match": "Brazil vs France",
     "date": "July 12, 1998",
     "city": "Saint-Denis",
     "stage": "Final",
-    "status": "researching",
-    "world": "",
-    "tournament": "",
-    "intro": "",
-    "replay": null,
-    "postMatch": null
+    "world": "After one month, the tournament reaches its final match at the Stade de France.",
+    "tournament": "Brazil and the host nation are the last two teams standing. Everything before this has led to one final afternoon.",
+    "intro": "Both nations understand this stage and the weight attached to it. Brazil arrive as defending champions seeking to retain their title on foreign soil. France carry the dreams of a host nation that has progressed steadily toward this moment. There is no next match.",
+    "postMatch": {
+      "score": "Brazil 0–3 France",
+      "halftime": "Halftime: 2–0",
+      "goal": "Zinédine Zidane 27′, 45+2′; Emmanuel Petit 90+3′",
+      "keyEvents": [
+        "Zidane scored twice from headers before halftime.",
+        "Petit added a third in stoppage time.",
+        "The host nation won the World Cup on home soil."
+      ],
+      "impactPlayers": [
+        {
+          "name": "Zinédine Zidane",
+          "team": "France",
+          "role": "Brace",
+          "summary": "Scored both first-half goals and controlled the match's emotional center."
+        },
+        {
+          "name": "Emmanuel Petit",
+          "team": "France",
+          "role": "Late confirmation",
+          "summary": "Sealed the victory in the final moments."
+        },
+        {
+          "name": "Fabien Barthez",
+          "team": "France",
+          "role": "Calm authority",
+          "summary": "Commanded his area and gave France defensive security throughout."
+        }
+      ],
+      "sourceNote": "Score, scorers and major incidents cross-checked against RSSSF's complete France '98 match archive."
+    }
   }
 ]

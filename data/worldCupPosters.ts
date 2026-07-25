@@ -13,6 +13,7 @@ export type WorldCupPosterData = {
   tournament: string;
   country: string;
   year: number;
+  tagline: string;
   theme: PosterTheme;
   status: Season["status"];
 };
@@ -42,6 +43,7 @@ export const worldCupPosters: WorldCupPosterData[] = POSTER_ORDER.map((id) => {
     tournament: season.name,
     country: season.host,
     year: season.year,
+    tagline: season.tagline,
     theme: POSTER_THEMES[id],
     status: season.status,
   };

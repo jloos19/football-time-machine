@@ -1,0 +1,658 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-23T12:37:23.613Z",
+  "items": [
+    {
+      "fifaContentId": "6rKfoYVxQEGwoZXyNFRLAh",
+      "canonicalUrl": "https://www.fifa.com/en/watch/6rKfoYVxQEGwoZXyNFRLAh",
+      "title": "Argentina v Croatia | Group H | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Argentina",
+      "awayTeam": "Croatia",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.585Z",
+      "discoveryMethod": "seed-catalog",
+      "metadataSource": "manual",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c29",
+      "confidenceNotes": "Listed on FIFA+ 1998 full-match showcase"
+    },
+    {
+      "fifaContentId": "3GI371qzcZMaWfckfvevpH",
+      "canonicalUrl": "https://www.fifa.com/en/watch/3GI371qzcZMaWfckfvevpH",
+      "title": "Argentina v England | Round of 16 | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Argentina",
+      "awayTeam": "England",
+      "stage": "Round of 16",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.577Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c56"
+    },
+    {
+      "fifaContentId": "71KANTSZe9JB9sCKMTZsnb",
+      "canonicalUrl": "https://www.fifa.com/en/watch/71KANTSZe9JB9sCKMTZsnb",
+      "title": "Argentina v Greece | Group Stage | 1994 FIFA World Cup USA™ | Full Match Replay",
+      "tournament": "1994 FIFA World Cup USA™",
+      "tournamentYear": 1994,
+      "homeTeam": "Argentina",
+      "awayTeam": "Greece",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.495Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "usa-1994-c12"
+    },
+    {
+      "fifaContentId": "2NoUOjQoOn4O7DQ37rIkqf",
+      "canonicalUrl": "https://www.fifa.com/en/watch/2NoUOjQoOn4O7DQ37rIkqf",
+      "title": "Argentina v Japan | Group Stage | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Argentina",
+      "awayTeam": "Japan",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.552Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c12"
+    },
+    {
+      "fifaContentId": "55KaRoYBswcZdpJfgSaqqe",
+      "canonicalUrl": "https://www.fifa.com/en/watch/55KaRoYBswcZdpJfgSaqqe",
+      "title": "Belgium v Saudi Arabia | Group Stage | 1994 FIFA World Cup USA™ | Full Match Replay",
+      "tournament": "1994 FIFA World Cup USA™",
+      "tournamentYear": 1994,
+      "homeTeam": "Belgium",
+      "awayTeam": "Saudi Arabia",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.504Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "usa-1994-c34"
+    },
+    {
+      "fifaContentId": "6rBQuV3GbFJoBNDTfvVS3F",
+      "canonicalUrl": "https://www.fifa.com/en/watch/6rBQuV3GbFJoBNDTfvVS3F",
+      "title": "Brazil v Chile | Round of 16 | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Brazil",
+      "awayTeam": "Chile",
+      "stage": "Round of 16",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.568Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c49"
+    },
+    {
+      "fifaContentId": "495Zo9RWtcADL0vvcw8AjL",
+      "canonicalUrl": "https://www.fifa.com/en/watch/495Zo9RWtcADL0vvcw8AjL",
+      "title": "Brazil v Netherlands | Semi-finals | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Brazil",
+      "awayTeam": "Netherlands",
+      "stage": "Semi-final",
+      "durationSeconds": 8312,
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.611Z",
+      "discoveryMethod": "seed-catalog",
+      "metadataSource": "manual",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c61",
+      "confidenceNotes": "Official FIFA+ full-match replay; proof-of-concept recovery target"
+    },
+    {
+      "fifaContentId": "4tocGMHs2byq6ZPwUH1epe",
+      "canonicalUrl": "https://www.fifa.com/en/watch/4tocGMHs2byq6ZPwUH1epe",
+      "title": "Bulgaria v Germany | Quarter-final | 1994 FIFA World Cup USA™ | Full Match Replay",
+      "tournament": "1994 FIFA World Cup USA™",
+      "tournamentYear": 1994,
+      "homeTeam": "Bulgaria",
+      "awayTeam": "Germany",
+      "stage": "Quarter-final",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.513Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "usa-1994-c47"
+    },
+    {
+      "fifaContentId": "6XTEGrIxWRjYFAm6cdHcXo",
+      "canonicalUrl": "https://www.fifa.com/en/watch/6XTEGrIxWRjYFAm6cdHcXo",
+      "title": "Bulgaria v Italy | Semi-final | 1994 FIFA World Cup USA™ | Full Match Replay",
+      "tournament": "1994 FIFA World Cup USA™",
+      "tournamentYear": 1994,
+      "homeTeam": "Bulgaria",
+      "awayTeam": "Italy",
+      "stage": "Semi-final",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.521Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "usa-1994-c49"
+    },
+    {
+      "fifaContentId": "3I7eTkvmjuRfrOLymQHjU4",
+      "canonicalUrl": "https://www.fifa.com/en/watch/3I7eTkvmjuRfrOLymQHjU4",
+      "title": "Colombia v England | Group G | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Colombia",
+      "awayTeam": "England",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.587Z",
+      "discoveryMethod": "seed-catalog",
+      "metadataSource": "manual",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c44",
+      "confidenceNotes": "Listed on FIFA+ 1998 full-match showcase"
+    },
+    {
+      "fifaContentId": "4NkEe8toMjTJTQlmvYchfs",
+      "canonicalUrl": "https://www.fifa.com/en/watch/4NkEe8toMjTJTQlmvYchfs",
+      "title": "England v Tunisia | Group Stage | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "England",
+      "awayTeam": "Tunisia",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.557Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c14"
+    },
+    {
+      "fifaContentId": "4GT0NNKD7f3yVhAlwckPVH",
+      "canonicalUrl": "https://www.fifa.com/en/watch/4GT0NNKD7f3yVhAlwckPVH",
+      "title": "France v South Africa | Group Stage | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "France",
+      "awayTeam": "South Africa",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.534Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c06"
+    },
+    {
+      "fifaContentId": "k86eWgJv7a0WVMeLGRP4B",
+      "canonicalUrl": "https://www.fifa.com/en/watch/k86eWgJv7a0WVMeLGRP4B",
+      "title": "Germany v Belgium | Round of 16 | 1994 FIFA World Cup USA™ | Full Match Replay",
+      "tournament": "1994 FIFA World Cup USA™",
+      "tournamentYear": 1994,
+      "homeTeam": "Germany",
+      "awayTeam": "Belgium",
+      "stage": "Round of 16",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.505Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "usa-1994-c37"
+    },
+    {
+      "uuid": "e2fcd93a-07a7-418b-a3ad-a33a4992f874",
+      "canonicalUrl": "https://www.plus.fifa.com/en/content/germany-v-mexico-round-of-16-1998-fifa-world-cup-france-full-match-replay/e2fcd93a-07a7-418b-a3ad-a33a4992f874",
+      "title": "Germany v Mexico | Round of 16 | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Germany",
+      "awayTeam": "Mexico",
+      "stage": "Round of 16",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.609Z",
+      "discoveryMethod": "seed-catalog",
+      "metadataSource": "manual",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c53"
+    },
+    {
+      "fifaContentId": "3L33SlaJ1PzGG0G8LgvSiA",
+      "canonicalUrl": "https://www.fifa.com/en/watch/3L33SlaJ1PzGG0G8LgvSiA",
+      "title": "Italy v Chile | Group Stage | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Italy",
+      "awayTeam": "Chile",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.527Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c03"
+    },
+    {
+      "fifaContentId": "d9cmdDTQ1cjI5qkgLmMXs",
+      "canonicalUrl": "https://www.fifa.com/en/watch/d9cmdDTQ1cjI5qkgLmMXs",
+      "title": "Italy v France | Quarter-final | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Italy",
+      "awayTeam": "France",
+      "stage": "Quarter-final",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.580Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c57"
+    },
+    {
+      "fifaContentId": "2nNyNBySuQ7cYxMbvym0gW",
+      "canonicalUrl": "https://www.fifa.com/en/watch/2nNyNBySuQ7cYxMbvym0gW",
+      "title": "Italy v Mexico | Group Stage | 1994 FIFA World Cup USA™ | Full Match Replay",
+      "tournament": "1994 FIFA World Cup USA™",
+      "tournamentYear": 1994,
+      "homeTeam": "Italy",
+      "awayTeam": "Mexico",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.502Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "usa-1994-c32"
+    },
+    {
+      "fifaContentId": "1DYHMnH9VqAxKNELNLZcEq",
+      "canonicalUrl": "https://www.fifa.com/en/watch/1DYHMnH9VqAxKNELNLZcEq",
+      "title": "Italy v Norway | Round of 16 | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Italy",
+      "awayTeam": "Norway",
+      "stage": "Round of 16",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.564Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c48"
+    },
+    {
+      "fifaContentId": "1rRt2pAV6xGmYW9v5zvtoq",
+      "canonicalUrl": "https://www.fifa.com/en/watch/1rRt2pAV6xGmYW9v5zvtoq",
+      "title": "Italy v Spain | Quarter-final | 1994 FIFA World Cup USA™ | Full Match Replay",
+      "tournament": "1994 FIFA World Cup USA™",
+      "tournamentYear": 1994,
+      "homeTeam": "Italy",
+      "awayTeam": "Spain",
+      "stage": "Quarter-final",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.510Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "usa-1994-c45"
+    },
+    {
+      "fifaContentId": "59lNV8tJ1xPnOUGGvefNNx",
+      "canonicalUrl": "https://www.fifa.com/en/watch/59lNV8tJ1xPnOUGGvefNNx",
+      "title": "Morocco v Norway | Group Stage | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Morocco",
+      "awayTeam": "Norway",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.524Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c02"
+    },
+    {
+      "fifaContentId": "g96lS8AhVhWDrSYEDgsKh",
+      "canonicalUrl": "https://www.fifa.com/en/watch/g96lS8AhVhWDrSYEDgsKh",
+      "title": "Netherlands v Belgium | Group Stage | 1994 FIFA World Cup USA™ | Full Match Replay",
+      "tournament": "1994 FIFA World Cup USA™",
+      "tournamentYear": 1994,
+      "homeTeam": "Netherlands",
+      "awayTeam": "Belgium",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.499Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "usa-1994-c23"
+    },
+    {
+      "fifaContentId": "7lFaXa1aBy22zVdjTHW3yk",
+      "canonicalUrl": "https://www.fifa.com/en/watch/7lFaXa1aBy22zVdjTHW3yk",
+      "title": "Netherlands v Belgium | Group Stage | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Netherlands",
+      "awayTeam": "Belgium",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.541Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c08"
+    },
+    {
+      "uuid": "eff5dbe0-9c56-43ae-b6d8-1cc5ef287872",
+      "canonicalUrl": "https://www.plus.fifa.com/en/content/netherlands-v-croatia-play-off-for-third-place-1998-fifa-world-cup-francetm-full-match-replay/eff5dbe0-9c56-43ae-b6d8-1cc5ef287872",
+      "title": "Netherlands v Croatia | Play-off for third place | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Netherlands",
+      "awayTeam": "Croatia",
+      "stage": "Third-place play-off",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.613Z",
+      "discoveryMethod": "seed-catalog",
+      "metadataSource": "manual",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c63"
+    },
+    {
+      "fifaContentId": "2N01CI1tixOVzWFb4Rlxus",
+      "canonicalUrl": "https://www.fifa.com/en/watch/2N01CI1tixOVzWFb4Rlxus",
+      "title": "Netherlands v Yugoslavia | Round of 16 | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Netherlands",
+      "awayTeam": "Yugoslavia",
+      "stage": "Round of 16",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.571Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c54"
+    },
+    {
+      "uuid": "37367a2f-8563-4058-b845-53d52106a55a",
+      "canonicalUrl": "https://www.plus.fifa.com/en/content/nigeria-v-denmark-round-of-16-1998-fifa-world-cup-france-full-match-replay/37367a2f-8563-4058-b845-53d52106a55a",
+      "title": "Nigeria v Denmark | Round of 16 | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Nigeria",
+      "awayTeam": "Denmark",
+      "stage": "Round of 16",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.593Z",
+      "discoveryMethod": "seed-catalog",
+      "metadataSource": "manual",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c52"
+    },
+    {
+      "fifaContentId": "3wJSwjkzgYA82EnJD3yJUu",
+      "canonicalUrl": "https://www.fifa.com/en/watch/3wJSwjkzgYA82EnJD3yJUu",
+      "title": "Nigeria v Italy | Round of 16 | 1994 FIFA World Cup USA™ | Full Match Replay",
+      "tournament": "1994 FIFA World Cup USA™",
+      "tournamentYear": 1994,
+      "homeTeam": "Nigeria",
+      "awayTeam": "Italy",
+      "stage": "Round of 16",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.509Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "usa-1994-c43"
+    },
+    {
+      "fifaContentId": "34fCbVnn91GaTuQOMHGsYG",
+      "canonicalUrl": "https://www.fifa.com/en/watch/34fCbVnn91GaTuQOMHGsYG",
+      "title": "Nigeria v Paraguay | Group Stage | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Nigeria",
+      "awayTeam": "Paraguay",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.561Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c38"
+    },
+    {
+      "fifaContentId": "175EZCRtu2gQybIZGVNzUU",
+      "canonicalUrl": "https://www.fifa.com/en/watch/175EZCRtu2gQybIZGVNzUU",
+      "title": "Paraguay v Bulgaria | Group Stage | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Paraguay",
+      "awayTeam": "Bulgaria",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.530Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c05"
+    },
+    {
+      "fifaContentId": "3wjPh9efgiPyV8WwBIpLRi",
+      "canonicalUrl": "https://www.fifa.com/en/watch/3wjPh9efgiPyV8WwBIpLRi",
+      "title": "Romania v Croatia | Round of 16 | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Romania",
+      "awayTeam": "Croatia",
+      "stage": "Round of 16",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.574Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c55"
+    },
+    {
+      "fifaContentId": "7zGXJyLSjrhuwleToqymUw",
+      "canonicalUrl": "https://www.fifa.com/en/watch/7zGXJyLSjrhuwleToqymUw",
+      "title": "Romania v Sweden | Quarter-final | 1994 FIFA World Cup USA™ | Full Match Replay",
+      "tournament": "1994 FIFA World Cup USA™",
+      "tournamentYear": 1994,
+      "homeTeam": "Romania",
+      "awayTeam": "Sweden",
+      "stage": "Quarter-final",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.518Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "usa-1994-c48"
+    },
+    {
+      "fifaContentId": "1JZOsVsdDNUjBNtwKS2U1F",
+      "canonicalUrl": "https://www.fifa.com/en/watch/1JZOsVsdDNUjBNtwKS2U1F",
+      "title": "Saudi Arabia v Sweden | Round of 16 | 1994 FIFA World Cup USA™ | Full Match Replay",
+      "tournament": "1994 FIFA World Cup USA™",
+      "tournamentYear": 1994,
+      "homeTeam": "Saudi Arabia",
+      "awayTeam": "Sweden",
+      "stage": "Round of 16",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.507Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "usa-1994-c39"
+    },
+    {
+      "fifaContentId": "Z0QmgpPZeGY91nmQOlwhB",
+      "canonicalUrl": "https://www.fifa.com/en/watch/Z0QmgpPZeGY91nmQOlwhB",
+      "title": "South Korea v Mexico | Group Stage | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "South Korea",
+      "awayTeam": "Mexico",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.537Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c07"
+    },
+    {
+      "fifaContentId": "5yqsXahmn0hwVh1ugfH9Xl",
+      "canonicalUrl": "https://www.fifa.com/en/watch/5yqsXahmn0hwVh1ugfH9Xl",
+      "title": "Spain v Nigeria | Group Stage | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Spain",
+      "awayTeam": "Nigeria",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.544Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c09"
+    },
+    {
+      "fifaContentId": "01RkBvmA7uVcsiLLLRomhC",
+      "canonicalUrl": "https://www.fifa.com/en/watch/01RkBvmA7uVcsiLLLRomhC",
+      "title": "Spain v South Korea | Group Stage | 1994 FIFA World Cup USA™ | Full Match Replay",
+      "tournament": "1994 FIFA World Cup USA™",
+      "tournamentYear": 1994,
+      "homeTeam": "Spain",
+      "awayTeam": "South Korea",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.492Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "usa-1994-c02"
+    },
+    {
+      "fifaContentId": "4kDG1XZUlAC9uz6l7hltLb",
+      "canonicalUrl": "https://www.fifa.com/en/watch/4kDG1XZUlAC9uz6l7hltLb",
+      "title": "United States v Romania | Group Stage | 1994 FIFA World Cup USA™ | Full Match Replay",
+      "tournament": "1994 FIFA World Cup USA™",
+      "tournamentYear": 1994,
+      "homeTeam": "United States",
+      "awayTeam": "Romania",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.500Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "usa-1994-c27"
+    },
+    {
+      "fifaContentId": "4rUgTS9xVU3RGa7dg4disD",
+      "canonicalUrl": "https://www.fifa.com/en/watch/4rUgTS9xVU3RGa7dg4disD",
+      "title": "Yugoslavia v Iran | Group Stage | 1998 FIFA World Cup France™ | Full Match Replay",
+      "tournament": "1998 FIFA World Cup France™",
+      "tournamentYear": 1998,
+      "homeTeam": "Yugoslavia",
+      "awayTeam": "Iran",
+      "stage": "Group Stage",
+      "fullMatchReplay": true,
+      "discoveredAt": "2026-07-23T12:37:23.549Z",
+      "discoveryMethod": "archive-library",
+      "metadataSource": "archive-match",
+      "humanVerification": {
+        "status": "untested"
+      },
+      "canonicalMatchId": "france-1998-c10"
+    }
+  ]
+}

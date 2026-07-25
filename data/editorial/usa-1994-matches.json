@@ -1,0 +1,2899 @@
+[
+  {
+    "canonicalMatchId": "usa-1994-c01",
+    "preMatch": {
+      "sceneSetter": "Opening-night noise hangs over Soldier Field as a new host nation takes its first breath of World Cup football.",
+      "aroundTheWorld": "The World Cup has arrived in the United States for the first time. Supporters are filling American stadiums, television coverage is expanding, and a country still learning the rhythms of the sport is about to host its biggest event.",
+      "inTheTournament": "Nothing has happened yet. Twenty-four teams begin level, every group is open, and every prediction is still only a prediction.",
+      "whyItMatters": "Germany enter as defending champions and one of the tournament’s established powers. Bolivia return to the World Cup after a long absence and arrive with the confidence of a strong qualifying campaign. The opening match is less about certainty than nerves: one side carries expectation, the other opportunity."
+    },
+    "postMatch": {
+      "score": "Germany 1–0 Bolivia",
+      "halftime": "Halftime: 0–0",
+      "goal": "Jürgen Klinsmann 61′",
+      "matchReport": "Klinsmann broke the deadlock after Germany had struggled to turn control into chances. Marco Etcheverry was sent off shortly after entering as a substitute. Bolivia stayed competitive for long stretches despite entering as underdogs.",
+      "keyMoments": [
+        {
+          "minute": "61'",
+          "title": "Jürgen Klinsmann scores"
+        },
+        {
+          "title": "Klinsmann broke the deadlock after Germany had struggled to turn control into chances"
+        },
+        {
+          "title": "Marco Etcheverry was sent off shortly after entering as a substitute"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Jürgen Klinsmann",
+          "team": "Germany",
+          "role": "Match winner",
+          "description": "Scored the only goal and repeatedly threatened with his movement behind the defense."
+        },
+        {
+          "player": "Lothar Matthäus",
+          "team": "Germany",
+          "role": "Control and leadership",
+          "description": "Directed Germany’s shape and helped prevent Bolivia from building sustained pressure."
+        },
+        {
+          "player": "Carlos Trucco",
+          "team": "Bolivia",
+          "role": "Kept Bolivia alive",
+          "description": "Made several important stops and kept the match within reach."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c02",
+    "preMatch": {
+      "sceneSetter": "Dallas heat and a full Cotton Bowl give this opening fixture a restless, exposed feel.",
+      "aroundTheWorld": "USA 94 is spreading across a continent-sized host, asking visiting teams to adapt to heat, distance and unfamiliar stadiums. South Korea arrive with growing confidence in Asian football; Spain bring a more settled European pedigree.",
+      "inTheTournament": "Germany and Bolivia have already opened Group C, leaving Spain and South Korea to establish their own footing.",
+      "whyItMatters": "Spain’s passing game meets a South Korean side built on running and late pressure. Both have enough attacking quality to make an early group match feel unsettled."
+    },
+    "postMatch": {
+      "score": "Spain 2–2 South Korea",
+      "halftime": "Halftime: 1–0",
+      "goal": "Goikoetxea 14′; Julio Salinas 51′; Hong Myung-bo 85′; Seo Jung-won 90′",
+      "matchReport": "Spain established a two-goal advantage through Goikoetxea and Salinas. South Korea refused the script, with Hong Myung-bo and Seo Jung-won striking late. The Cotton Bowl finished level after a remarkable recovery.",
+      "keyMoments": [
+        {
+          "minute": "14'",
+          "title": "Goikoetxea scores"
+        },
+        {
+          "minute": "51'",
+          "title": "Julio Salinas scores"
+        },
+        {
+          "minute": "85'",
+          "title": "Hong Myung-bo scores"
+        },
+        {
+          "minute": "90'",
+          "title": "Seo Jung-won scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Hong Myung-bo",
+          "team": "South Korea",
+          "role": "Late rally leader",
+          "description": "Stepped forward late to spark South Korea’s recovery and score the goal that made the comeback possible."
+        },
+        {
+          "player": "Julio Salinas",
+          "team": "Spain",
+          "role": "Second-half finisher",
+          "description": "Extended Spain’s lead after the interval and looked set to settle the opening Group C point."
+        },
+        {
+          "player": "Seo Jung-won",
+          "team": "South Korea",
+          "role": "Stoppage-time scorer",
+          "description": "Struck in the final moments to complete a remarkable 2–2 recovery."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c03",
+    "preMatch": {
+      "sceneSetter": "Under the Silverdome roof, the hosts step into a World Cup that suddenly feels close enough to touch.",
+      "aroundTheWorld": "The hosts now enter the tournament. For the United States, this is not only a sporting event but a test of whether soccer can claim a lasting place in the American landscape.",
+      "inTheTournament": "Group A opens here. The United States and Switzerland both begin their campaigns on the same night, with Colombia and Romania still to come.",
+      "whyItMatters": "The United States have spent years preparing for this moment. Switzerland arrive with a technically accomplished team and no interest in playing a supporting role in the host nation’s story. The indoor setting at the Pontiac Silverdome adds another layer to an already unusual occasion."
+    },
+    "postMatch": {
+      "score": "United States 1–1 Switzerland",
+      "halftime": "Halftime: 0–1",
+      "goal": "Georges Bregy 39′; Eric Wynalda 44′",
+      "matchReport": "Bregy opened the scoring with a free kick. Wynalda answered before halftime with a free kick of his own. The first indoor World Cup match ended level.",
+      "keyMoments": [
+        {
+          "minute": "39'",
+          "title": "Georges Bregy scores"
+        },
+        {
+          "minute": "44'",
+          "title": "Eric Wynalda scores"
+        },
+        {
+          "title": "Bregy opened the scoring with a free kick"
+        },
+        {
+          "title": "Wynalda answered before halftime with a free kick of his own"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Eric Wynalda",
+          "team": "United States",
+          "role": "Equalizer",
+          "description": "Produced the hosts’ first goal of the tournament with a superb free kick."
+        },
+        {
+          "player": "Georges Bregy",
+          "team": "Switzerland",
+          "role": "Set-piece quality",
+          "description": "Opened the scoring and controlled Switzerland’s attacking rhythm."
+        },
+        {
+          "player": "Tony Meola",
+          "team": "United States",
+          "role": "Composure in goal",
+          "description": "Handled pressure well and helped preserve the point."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c04",
+    "preMatch": {
+      "sceneSetter": "A humid New Jersey afternoon gives a familiar European meeting an oddly distant setting.",
+      "aroundTheWorld": "New York and New Jersey are welcoming one of Europe’s most anticipated opening fixtures. The tournament is already beginning to feel national in scale.",
+      "inTheTournament": "Group E starts with two teams carrying very different expectations but equally little room for error.",
+      "whyItMatters": "Italy arrive with one of the tournament’s most recognizable squads and the burden that follows a traditional power. The Republic of Ireland have built their reputation on organization, belief and a willingness to make elite opponents uncomfortable."
+    },
+    "postMatch": {
+      "score": "Italy 0–1 Republic of Ireland",
+      "halftime": "Halftime: 0–1",
+      "goal": "Ray Houghton 11′",
+      "matchReport": "Houghton struck early from outside the area. Ireland defended their lead with discipline and intensity. Italy began the tournament under immediate pressure.",
+      "keyMoments": [
+        {
+          "minute": "11'",
+          "title": "Ray Houghton scores"
+        },
+        {
+          "title": "Houghton struck early from outside the area"
+        },
+        {
+          "title": "Ireland defended their lead with discipline and intensity"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Ray Houghton",
+          "team": "Republic of Ireland",
+          "role": "Decisive scorer",
+          "description": "Delivered the match’s defining moment with an early long-range finish."
+        },
+        {
+          "player": "Paul McGrath",
+          "team": "Republic of Ireland",
+          "role": "Defensive anchor",
+          "description": "Produced a commanding performance against Italy’s forwards."
+        },
+        {
+          "player": "Packie Bonner",
+          "team": "Republic of Ireland",
+          "role": "Protected the lead",
+          "description": "Stayed composed under late Italian pressure."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c05",
+    "preMatch": {
+      "sceneSetter": "Washington’s summer air leaves little room for a slow start.",
+      "aroundTheWorld": "Mexico carry strong continental support in the United States, while Norway arrive from a qualifying campaign that made their return feel earned. RFK offers a compact, close-to-the-pitch setting.",
+      "inTheTournament": "Italy and Ireland have already set the first Group E reference point.",
+      "whyItMatters": "Norway’s direct, disciplined approach contrasts with Mexico’s movement and technical rhythm. A match of small spaces may reward patience rather than possession."
+    },
+    "postMatch": {
+      "score": "Norway 1–0 Mexico",
+      "halftime": "Halftime: 0–0",
+      "goal": "Kjetil Rekdal 84′ (pen.)",
+      "matchReport": "The match stayed scoreless into its final stages as Mexico searched for rhythm and Norway held their shape. Rekdal converted a late penalty to separate the teams. Norway’s restraint proved decisive.",
+      "keyMoments": [
+        {
+          "minute": "84'",
+          "title": "Kjetil Rekdal (pen.) scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Kjetil Rekdal",
+          "team": "Norway",
+          "role": "Match winner",
+          "description": "Converted the late penalty that decided a tense, low-scoring meeting with Mexico."
+        },
+        {
+          "player": "Erik Thorstvedt",
+          "team": "Norway",
+          "role": "Commanding goalkeeper",
+          "description": "Helped Norway survive long spells of Mexican pressure before the decisive award."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c06",
+    "preMatch": {
+      "sceneSetter": "The Rose Bowl’s wide bowl fills with colour for two teams comfortable playing on instinct.",
+      "aroundTheWorld": "Cameroon’s 1990 run remains a living reference point, while Sweden return with a side shaped by organisation and aerial strength. Pasadena gives both a broad stage.",
+      "inTheTournament": "Brazil and Russia have played in Group B, so the section already has a first result.",
+      "whyItMatters": "Cameroon’s athletic surge meets Sweden’s calm structure. The match asks whether Sweden can control transitions and whether Cameroon can make disorder productive."
+    },
+    "postMatch": {
+      "score": "Cameroon 2–2 Sweden",
+      "halftime": "Halftime: 1–1",
+      "goal": "Martin Dahlin 8′; David Embé 31′; François Omam-Biyik 47′; Martin Dahlin 75′",
+      "matchReport": "Dahlin struck early, but Cameroon replied through Embé and then moved ahead through Omam-Biyik after the restart. Sweden stayed composed and Dahlin levelled again. Neither side let the match settle into one pattern.",
+      "keyMoments": [
+        {
+          "minute": "8'",
+          "title": "Martin Dahlin scores"
+        },
+        {
+          "minute": "31'",
+          "title": "David Embé scores"
+        },
+        {
+          "minute": "47'",
+          "title": "François Omam-Biyik scores"
+        },
+        {
+          "minute": "75'",
+          "title": "Martin Dahlin scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Martin Dahlin",
+          "team": "Sweden",
+          "role": "Equaliser",
+          "description": "Restored parity late after Cameroon had twice threatened to pull clear."
+        },
+        {
+          "player": "François Omam-Biyik",
+          "team": "Cameroon",
+          "role": "Attacking threat",
+          "description": "Scored and repeatedly unsettled Sweden’s defence in an open Group B contest."
+        },
+        {
+          "player": "Roger Ljung",
+          "team": "Sweden",
+          "role": "Early breakthrough",
+          "description": "Gave Sweden a dream start with an early goal at the Rose Bowl."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c07",
+    "preMatch": {
+      "sceneSetter": "Pasadena receives two teams whose imagination is central to their identity.",
+      "aroundTheWorld": "The tournament’s opening weekend continues across the country. Host venues are filling, and American audiences are discovering how quickly a World Cup creates new stories.",
+      "inTheTournament": "Group A has opened with the United States and Switzerland sharing a point. Colombia and Romania now begin their campaigns in the same section.",
+      "whyItMatters": "Colombia arrive with attacking reputation and high expectation. Romania bring organization, creativity and a willingness to punish space. Neither side has played yet, so the first result will immediately shape the group’s early table."
+    },
+    "postMatch": {
+      "score": "Colombia 1–3 Romania",
+      "halftime": "Halftime: 1–0",
+      "goal": "Adolfo Valencia 21′; Florin Răducioiu 15′, 89′; Gheorghe Hagi 34′",
+      "matchReport": "Romania struck early through Răducioiu. Valencia leveled for Colombia before Hagi restored Romania’s lead. Răducioiu added a late third to complete Romania’s statement win.",
+      "keyMoments": [
+        {
+          "minute": "21'",
+          "title": "Adolfo Valencia scores"
+        },
+        {
+          "minute": "15'",
+          "title": "Florin Răducioiu scores"
+        },
+        {
+          "minute": "89'",
+          "title": "Florin Răducioiu scores"
+        },
+        {
+          "minute": "34'",
+          "title": "Gheorghe Hagi scores"
+        },
+        {
+          "title": "Romania struck early through Răducioiu"
+        },
+        {
+          "title": "Valencia leveled for Colombia before Hagi restored Romania’s lead"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Gheorghe Hagi",
+          "team": "Romania",
+          "role": "Creative catalyst",
+          "description": "Scored and continually found space between Colombia’s lines."
+        },
+        {
+          "player": "Florin Răducioiu",
+          "team": "Romania",
+          "role": "Two-goal threat",
+          "description": "Opened and closed the scoring with decisive finishes."
+        },
+        {
+          "player": "Adolfo Valencia",
+          "team": "Colombia",
+          "role": "Brief equalizer",
+          "description": "Gave Colombia a foothold before Romania pulled away."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c08",
+    "preMatch": {
+      "sceneSetter": "Stanford’s bright afternoon frames Brazil’s arrival with the sense of a travelling national occasion.",
+      "aroundTheWorld": "The World Cup reaches California, where warm weather and packed stadiums are helping create one of the tournament’s defining atmospheres.",
+      "inTheTournament": "Brazil and Russia enter Group B after the group’s opening match produced no separation between the other two teams.",
+      "whyItMatters": "Brazil arrive as one of the favorites and as a nation carrying the expectation that accompanies its history. Russia are beginning a new international chapter and face an immediate test against one of the most technically gifted teams in the field."
+    },
+    "postMatch": {
+      "score": "Brazil 2–0 Russia",
+      "halftime": "Halftime: 1–0",
+      "goal": "Romário 26′; Raí 52′ (pen.)",
+      "matchReport": "Romário opened the scoring from a corner. Raí converted a second-half penalty. Brazil controlled the game without needing to overextend.",
+      "keyMoments": [
+        {
+          "minute": "26'",
+          "title": "Romário scores"
+        },
+        {
+          "minute": "52'",
+          "title": "Raí (pen.) scores"
+        },
+        {
+          "title": "Brazil controlled the game without needing to overextend"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Romário",
+          "team": "Brazil",
+          "role": "Attacking focal point",
+          "description": "Scored the opener and constantly occupied Russia’s central defenders."
+        },
+        {
+          "player": "Bebeto",
+          "team": "Brazil",
+          "role": "Movement and link play",
+          "description": "Created space around Romário and helped connect midfield to attack."
+        },
+        {
+          "player": "Dunga",
+          "team": "Brazil",
+          "role": "Midfield control",
+          "description": "Protected Brazil’s shape and kept Russia from building momentum."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c09",
+    "preMatch": {
+      "sceneSetter": "Foxborough’s evening offers a quieter frame for two teams still searching for their first foothold.",
+      "aroundTheWorld": "Both sides represent football cultures accustomed to carrying national expectation beyond the traditional European powers. The tournament’s scale gives their meeting unusual visibility.",
+      "inTheTournament": "Germany have beaten Bolivia and Spain have drawn with South Korea, so both sides understand the early Group C picture.",
+      "whyItMatters": "South Korea’s tempo and Bolivia’s technical midfield make this a contest of patience. Neither side can treat a point as meaningless, but neither can afford reckless risk."
+    },
+    "postMatch": {
+      "score": "South Korea 0–0 Bolivia",
+      "halftime": "Halftime: 0–0",
+      "goal": "No goals",
+      "matchReport": "Neither team found the decisive final touch. South Korea pushed through their energetic wide play while Bolivia remained composed in midfield. The scoreless finish left the group’s middle ground unresolved.",
+      "keyMoments": [
+        {
+          "title": "A hard-earned stalemate",
+          "description": "South Korea and Bolivia cancel each other out in Foxborough."
+        },
+        {
+          "title": "Defences hold",
+          "description": "Clear chances remain scarce across ninety minutes."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Carlos Trucco",
+          "team": "Bolivia",
+          "role": "Reliable last line",
+          "description": "Helped Bolivia leave Foxboro with a hard-earned point against South Korea."
+        },
+        {
+          "player": "Hong Myung-bo",
+          "team": "South Korea",
+          "role": "Defensive organiser",
+          "description": "Anchored South Korea’s attempts to break down a compact Bolivian side."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c10",
+    "preMatch": {
+      "sceneSetter": "Washington waits under a heavy summer sky as two very different football traditions meet.",
+      "aroundTheWorld": "The Netherlands bring a recognisable technical lineage; Saudi Arabia arrive on their World Cup debut with a side that has grown through Asian competition. The American setting places both far from familiar reference points.",
+      "inTheTournament": "Belgium have already beaten Morocco, so Group F has its first marker.",
+      "whyItMatters": "Dutch possession faces Saudi Arabia’s quick, disciplined transitions. The longer the game stays close, the more nerve enters the Netherlands’ passing game."
+    },
+    "postMatch": {
+      "score": "Netherlands 2–1 Saudi Arabia",
+      "halftime": "Halftime: 0–1",
+      "goal": "Fuad Amin 18′; Wim Jonk 50′; Ronald de Boer 86′",
+      "matchReport": "Amin’s early goal gave Saudi Arabia a bold start. Jonk restored parity after halftime, and Ronald de Boer found the late winner. The Netherlands had to work for a result their possession alone did not guarantee.",
+      "keyMoments": [
+        {
+          "minute": "18'",
+          "title": "Fuad Amin scores"
+        },
+        {
+          "minute": "50'",
+          "title": "Wim Jonk scores"
+        },
+        {
+          "minute": "86'",
+          "title": "Ronald de Boer scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Wim Jonk",
+          "team": "Netherlands",
+          "role": "Equaliser",
+          "description": "Levelled after Saudi Arabia’s early shock and restored Dutch control."
+        },
+        {
+          "player": "Ronald de Boer",
+          "team": "Netherlands",
+          "role": "Late winner",
+          "description": "Struck late to turn a difficult afternoon into three points."
+        },
+        {
+          "player": "Fuad Amin",
+          "team": "Saudi Arabia",
+          "role": "Early shock",
+          "description": "Gave Saudi Arabia an unlikely early lead that forced the Netherlands to chase."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c11",
+    "preMatch": {
+      "sceneSetter": "Orlando’s heat gives the first Group F afternoon a slow-burning intensity.",
+      "aroundTheWorld": "Morocco bring North African technical flair to a tournament hosted across unfamiliar American climates. Belgium arrive with a seasoned European core and a reputation for control.",
+      "inTheTournament": "Netherlands and Saudi Arabia have yet to play, leaving this as Group F’s opening reference.",
+      "whyItMatters": "Belgium’s balance in midfield meets Morocco’s willingness to play forward. An early goal could make the heat and game state equally important."
+    },
+    "postMatch": {
+      "score": "Belgium 1–0 Morocco",
+      "halftime": "Halftime: 1–0",
+      "goal": "Marc Degryse 11′",
+      "matchReport": "Degryse scored in the opening minutes and Belgium spent the rest of the match protecting that advantage. Morocco had periods of pressure but could not force an equaliser. Belgium’s defensive order held.",
+      "keyMoments": [
+        {
+          "minute": "11'",
+          "title": "Marc Degryse scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Marc Degryse",
+          "team": "Belgium",
+          "role": "Match winner",
+          "description": "Scored early and gave Belgium a lead they protected with disciplined defending."
+        },
+        {
+          "player": "Michel Preud'homme",
+          "team": "Belgium",
+          "role": "Goalkeeper",
+          "description": "Repelled Morocco’s later surges to preserve the narrow win."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c12",
+    "preMatch": {
+      "sceneSetter": "Foxborough hums with anticipation around Argentina’s star-studded entrance.",
+      "aroundTheWorld": "By now, the tournament has several overlapping stories: the host nation, the defending champions, and the first appearances of the leading contenders.",
+      "inTheTournament": "Nigeria have made an immediate impression in Group D. Argentina and Greece now begin with a clear picture of the standard already set.",
+      "whyItMatters": "Argentina arrive with star power, experience and the confidence of a team expected to matter. Greece are newcomers to this stage and face one of the tournament’s most intimidating opening assignments."
+    },
+    "postMatch": {
+      "score": "Argentina 4–0 Greece",
+      "halftime": "Halftime: 2–0",
+      "goal": "Gabriel Batistuta 2′, 45′, 90′ (pen.); Diego Maradona 60′",
+      "matchReport": "Batistuta scored a hat trick. Maradona finished a flowing team move in the second half. Argentina delivered one of the group stage’s strongest opening performances.",
+      "keyMoments": [
+        {
+          "minute": "2'",
+          "title": "Gabriel Batistuta scores"
+        },
+        {
+          "minute": "45'",
+          "title": "Gabriel Batistuta scores"
+        },
+        {
+          "minute": "90'",
+          "title": "Gabriel Batistuta (pen.) scores"
+        },
+        {
+          "minute": "60'",
+          "title": "Diego Maradona scores"
+        },
+        {
+          "title": "Batistuta scored a hat trick"
+        },
+        {
+          "title": "Maradona finished a flowing team move in the second half"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Gabriel Batistuta",
+          "team": "Argentina",
+          "role": "Hat-trick scorer",
+          "description": "Combined power, timing and finishing to dominate the match."
+        },
+        {
+          "player": "Diego Maradona",
+          "team": "Argentina",
+          "role": "Creative leader",
+          "description": "Controlled the attack and scored the game’s most elaborate team goal."
+        },
+        {
+          "player": "Fernando Redondo",
+          "team": "Argentina",
+          "role": "Midfield platform",
+          "description": "Allowed Argentina’s attackers to play with freedom."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c13",
+    "preMatch": {
+      "sceneSetter": "Chicago’s second World Cup night arrives with the first hints of group-stage calculation.",
+      "aroundTheWorld": "Chicago hosts its second major match in four days, and the early novelty of the tournament is giving way to genuine group-stage pressure.",
+      "inTheTournament": "Germany have three points; Spain and South Korea have one each. The second matchday in Group C begins with every team still alive.",
+      "whyItMatters": "Germany can take control of the group. Spain need to build on their opening performance and avoid allowing the defending champions to dictate the pace. It is the first selected match in which both teams already understand the consequences of the table."
+    },
+    "postMatch": {
+      "score": "Germany 1–1 Spain",
+      "halftime": "Halftime: 0–1",
+      "goal": "Goikoetxea 14′; Jürgen Klinsmann 48′",
+      "matchReport": "Spain led through Goikoetxea’s early goal. Klinsmann equalized just after halftime. Neither side could take full control of Group C.",
+      "keyMoments": [
+        {
+          "minute": "14'",
+          "title": "Goikoetxea scores"
+        },
+        {
+          "minute": "48'",
+          "title": "Jürgen Klinsmann scores"
+        },
+        {
+          "title": "Klinsmann equalized just after halftime"
+        },
+        {
+          "title": "Neither side could take full control of Group C"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Jürgen Klinsmann",
+          "team": "Germany",
+          "role": "Equalizer",
+          "description": "Responded immediately after halftime and rescued a point."
+        },
+        {
+          "player": "Goikoetxea",
+          "team": "Spain",
+          "role": "Early breakthrough",
+          "description": "Gave Spain the lead and posed a constant set-piece threat."
+        },
+        {
+          "player": "Fernando Hierro",
+          "team": "Spain",
+          "role": "Defensive authority",
+          "description": "Helped Spain withstand Germany’s second-half pressure."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c14",
+    "preMatch": {
+      "sceneSetter": "Dallas heat and a loud Cotton Bowl provide a vivid setting for two ambitious sides.",
+      "aroundTheWorld": "Dallas is emerging as one of the tournament’s loudest and hottest venues, a setting that rewards energy and resilience.",
+      "inTheTournament": "Argentina have opened strongly. Nigeria and Bulgaria now meet knowing a decisive result could immediately reshape Group D.",
+      "whyItMatters": "Nigeria arrive with athleticism, confidence and a generation eager to announce itself. Bulgaria bring technical ability and greater European experience. Neither side can afford to treat this as a cautious opening exercise."
+    },
+    "postMatch": {
+      "score": "Nigeria 3–0 Bulgaria",
+      "halftime": "Halftime: 2–0",
+      "goal": "Rashidi Yekini 21′; Daniel Amokachi 43′; Emmanuel Amunike 55′",
+      "matchReport": "Yekini scored Nigeria’s first World Cup goal. Nigeria added two more through Amokachi and Amunike. The debutants announced themselves with pace and confidence.",
+      "keyMoments": [
+        {
+          "minute": "21'",
+          "title": "Rashidi Yekini scores"
+        },
+        {
+          "minute": "43'",
+          "title": "Daniel Amokachi scores"
+        },
+        {
+          "minute": "55'",
+          "title": "Emmanuel Amunike scores"
+        },
+        {
+          "title": "Yekini scored Nigeria’s first World Cup goal"
+        },
+        {
+          "title": "Nigeria added two more through Amokachi and Amunike"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Rashidi Yekini",
+          "team": "Nigeria",
+          "role": "Historic opener",
+          "description": "Scored Nigeria’s first World Cup goal and set the emotional tone."
+        },
+        {
+          "player": "Daniel Amokachi",
+          "team": "Nigeria",
+          "role": "Power and transition",
+          "description": "Drove directly at Bulgaria and scored before halftime."
+        },
+        {
+          "player": "Sunday Oliseh",
+          "team": "Nigeria",
+          "role": "Midfield balance",
+          "description": "Helped Nigeria control transitions and protect the defense."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c15",
+    "preMatch": {
+      "sceneSetter": "The Rose Bowl crowd turns a group match into an occasion of national attention.",
+      "aroundTheWorld": "The host nation moves west, and attention follows. American interest is growing, but so is the pressure.",
+      "inTheTournament": "Romania lead Group A after beating Colombia. The United States and Switzerland each have a point. This meeting already feels decisive for both sides.",
+      "whyItMatters": "The hosts can seize control of their own destiny with a result against Colombia. Colombia arrived among the tournament’s most discussed attacking sides and now face a United States team lifted by the Rose Bowl crowd. Few group matches carry this much immediate historical weight for American soccer."
+    },
+    "postMatch": {
+      "score": "United States 2–1 Colombia",
+      "halftime": "Halftime: 1–0",
+      "goal": "Andrés Escobar 35′ (own goal); Earnie Stewart 52′; Adolfo Valencia 90′",
+      "matchReport": "An own goal gave the United States the lead. Stewart doubled it early in the second half. Colombia’s late goal arrived too late to complete a comeback.",
+      "keyMoments": [
+        {
+          "minute": "35'",
+          "title": "Andrés Escobar (own goal) scores"
+        },
+        {
+          "minute": "52'",
+          "title": "Earnie Stewart scores"
+        },
+        {
+          "minute": "90'",
+          "title": "Adolfo Valencia scores"
+        },
+        {
+          "title": "An own goal gave the United States the lead"
+        },
+        {
+          "title": "Stewart doubled it early in the second half"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Earnie Stewart",
+          "team": "United States",
+          "role": "Decisive attacker",
+          "description": "Scored the second goal and stretched Colombia with his running."
+        },
+        {
+          "player": "Tab Ramos",
+          "team": "United States",
+          "role": "Creative outlet",
+          "description": "Helped the hosts progress the ball and relieved pressure."
+        },
+        {
+          "player": "Tony Meola",
+          "team": "United States",
+          "role": "Last line of defense",
+          "description": "Made important saves as Colombia pushed forward."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c16",
+    "preMatch": {
+      "sceneSetter": "The Silverdome’s enclosed air makes every burst of noise feel amplified.",
+      "aroundTheWorld": "Switzerland’s compact, multilingual football culture meets Romania’s expressive golden generation under an American roof. The setting is strange; the stakes are not.",
+      "inTheTournament": "The United States and Colombia have already played their second Group A match, while Switzerland and Romania are meeting for the first time.",
+      "whyItMatters": "Romania’s creative freedom meets Switzerland’s direct running and set-piece threat. Both sides have enough quality to turn a cautious plan into an open contest."
+    },
+    "postMatch": {
+      "score": "Switzerland 4–1 Romania",
+      "halftime": "Halftime: 1–1",
+      "goal": "Alain Sutter 16′; Gheorghe Hagi 35′; Stéphane Chapuisat 52′; Adrian Knup 65′; Adrian Knup 72′",
+      "matchReport": "Sutter’s opener was answered by Hagi before halftime. Chapuisat restored Switzerland’s lead, then Knup scored twice to pull the match away. Switzerland’s attacking efficiency proved striking.",
+      "keyMoments": [
+        {
+          "minute": "16'",
+          "title": "Alain Sutter scores"
+        },
+        {
+          "minute": "35'",
+          "title": "Gheorghe Hagi scores"
+        },
+        {
+          "minute": "52'",
+          "title": "Stéphane Chapuisat scores"
+        },
+        {
+          "minute": "65'",
+          "title": "Adrian Knup scores"
+        },
+        {
+          "minute": "72'",
+          "title": "Adrian Knup scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Adrian Knup",
+          "team": "Switzerland",
+          "role": "Clinical finisher",
+          "description": "Scored twice as Switzerland overwhelmed Romania after the interval."
+        },
+        {
+          "player": "Stéphane Chapuisat",
+          "team": "Switzerland",
+          "role": "Attacking catalyst",
+          "description": "Added a crucial second-half goal and stretched Romania’s defence."
+        },
+        {
+          "player": "Gheorghe Hagi",
+          "team": "Romania",
+          "role": "Consolation and quality",
+          "description": "Produced Romania’s reply and remained the visitors’ clearest creative outlet."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c17",
+    "preMatch": {
+      "sceneSetter": "A hard-edged New Jersey afternoon suits a match likely to be decided in scraps of space.",
+      "aroundTheWorld": "Italy’s World Cup aura has met an immediate setback, while Norway’s modern, disciplined return has begun with a win. Their meeting brings contrasting pressures.",
+      "inTheTournament": "Ireland and Mexico have already played in Group E, tightening the context around both teams.",
+      "whyItMatters": "Italy must respond without surrendering control; Norway can trust their collective shape and direct game. The key may be Italy’s patience against Norway’s resistance."
+    },
+    "postMatch": {
+      "score": "Italy 1–0 Norway",
+      "halftime": "Halftime: 0–0",
+      "goal": "Dino Baggio 69′",
+      "matchReport": "Italy lost Gianfranco Zola to a first-half red card but remained compact. Dino Baggio broke the deadlock late with a driven finish. Norway could not turn their numerical advantage into an equaliser.",
+      "keyMoments": [
+        {
+          "minute": "69'",
+          "title": "Dino Baggio scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Dino Baggio",
+          "team": "Italy",
+          "role": "Match winner",
+          "description": "Struck the second-half goal that decided a grinding contest with Norway."
+        },
+        {
+          "player": "Franco Baresi",
+          "team": "Italy",
+          "role": "Defensive control",
+          "description": "Organised Italy’s back line through Norway’s direct pressure."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c18",
+    "preMatch": {
+      "sceneSetter": "At Stanford, Brazil’s yellow shirts bring their own weather to a clear California afternoon.",
+      "aroundTheWorld": "Brazil carry the long memory of World Cup expectation, while Cameroon still draw energy from their breakthrough four years earlier. The contest is watched as much for style as for points.",
+      "inTheTournament": "Brazil have beaten Russia and Cameroon have drawn Sweden, so Group B remains finely balanced.",
+      "whyItMatters": "Brazil want control through the ball; Cameroon want the game to stretch and accelerate. The contest puts Romário’s movement against Cameroon’s physical defence."
+    },
+    "postMatch": {
+      "score": "Brazil 3–0 Cameroon",
+      "halftime": "Halftime: 1–0",
+      "goal": "Romário 39′; Márcio Santos 66′; Bebeto 73′",
+      "matchReport": "Romário gave Brazil the lead before halftime. Márcio Santos and Bebeto added second-half goals as Brazil’s control became more complete. Cameroon’s direct threat faded under sustained pressure.",
+      "keyMoments": [
+        {
+          "minute": "39'",
+          "title": "Romário scores"
+        },
+        {
+          "minute": "66'",
+          "title": "Márcio Santos scores"
+        },
+        {
+          "minute": "73'",
+          "title": "Bebeto scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Romário",
+          "team": "Brazil",
+          "role": "Opener",
+          "description": "Broke Cameroon’s resistance and set Brazil on course for a convincing win."
+        },
+        {
+          "player": "Bebeto",
+          "team": "Brazil",
+          "role": "Finisher",
+          "description": "Added the third goal as Brazil’s movement overwhelmed the Cameroon defence."
+        },
+        {
+          "player": "Márcio Santos",
+          "team": "Brazil",
+          "role": "Unexpected scorer",
+          "description": "Added a second-half goal from defence to underline Brazil’s control."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c19",
+    "preMatch": {
+      "sceneSetter": "Chicago’s late-June light finds two teams entering the sharp end of their group campaign.",
+      "aroundTheWorld": "Bolivia’s return to the World Cup has brought a technical South American side back to a global stage; Spain arrive with a deeper recent tournament history. Both are used to carrying national expectation.",
+      "inTheTournament": "Germany and South Korea have completed their second Group C match, so Bolivia and Spain know the table before kickoff.",
+      "whyItMatters": "Spain need their midfield control to become chances, while Bolivia need composure against a side that can dominate territory. The game is about timing as much as urgency."
+    },
+    "postMatch": {
+      "score": "Bolivia 1–3 Spain",
+      "halftime": "Halftime: 0–1",
+      "goal": "Pep Guardiola 19′ (pen.); José Luis Caminero 66′; Erwin Sánchez 67′; José Luis Caminero 70′",
+      "matchReport": "Guardiola’s penalty gave Spain a first-half lead. Caminero scored twice around Sánchez’s brief reply for Bolivia. Spain’s quality in the decisive moments separated the teams.",
+      "keyMoments": [
+        {
+          "minute": "19'",
+          "title": "Pep Guardiola (pen.) scores"
+        },
+        {
+          "minute": "66'",
+          "title": "José Luis Caminero scores"
+        },
+        {
+          "minute": "67'",
+          "title": "Erwin Sánchez scores"
+        },
+        {
+          "minute": "70'",
+          "title": "José Luis Caminero scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "José Luis Caminero",
+          "team": "Spain",
+          "role": "Two-goal midfielder",
+          "description": "Scored twice in quick succession to break Bolivia’s resistance in Chicago."
+        },
+        {
+          "player": "Pep Guardiola",
+          "team": "Spain",
+          "role": "Penalty composure",
+          "description": "Opened the scoring from the spot and dictated Spain’s midfield tempo."
+        },
+        {
+          "player": "Erwin Sánchez",
+          "team": "Bolivia",
+          "role": "Consolation",
+          "description": "Provided Bolivia’s reply and remained their most inventive attacking presence."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c20",
+    "preMatch": {
+      "sceneSetter": "Orlando’s close heat makes every sprint look costly.",
+      "aroundTheWorld": "The first full week of the World Cup is ending, and several groups are beginning to tighten around the middle of the table.",
+      "inTheTournament": "Group E has already produced sharp early results. Mexico and the Republic of Ireland now meet with both sides chasing control of their remaining path.",
+      "whyItMatters": "Mexico bring movement, technical quality and home-continent support. Ireland arrive with belief after an opening statement and a clear sense of what they want the match to become. In a crowded group, a single result can change the pressure on every remaining fixture."
+    },
+    "postMatch": {
+      "score": "Mexico 2–1 Republic of Ireland",
+      "halftime": "Halftime: 1–0",
+      "goal": "Luis García 44′, 65′; John Aldridge 84′",
+      "matchReport": "Luis García scored either side of halftime. Aldridge pulled one back late for Ireland. Mexico held on to take a vital Group E win.",
+      "keyMoments": [
+        {
+          "minute": "44'",
+          "title": "Luis García scores"
+        },
+        {
+          "minute": "65'",
+          "title": "Luis García scores"
+        },
+        {
+          "minute": "84'",
+          "title": "John Aldridge scores"
+        },
+        {
+          "title": "Aldridge pulled one back late for Ireland"
+        },
+        {
+          "title": "Mexico held on to take a vital Group E win"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Luis García",
+          "team": "Mexico",
+          "role": "Match winner",
+          "description": "Scored twice and repeatedly stretched Ireland’s defense."
+        },
+        {
+          "player": "Jorge Campos",
+          "team": "Mexico",
+          "role": "Last line",
+          "description": "Helped Mexico protect the lead as Ireland pressed late."
+        },
+        {
+          "player": "John Aldridge",
+          "team": "Republic of Ireland",
+          "role": "Late response",
+          "description": "Gave Ireland a late goal and a final surge of belief."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c21",
+    "preMatch": {
+      "sceneSetter": "The Silverdome turns a mid-tournament afternoon into a tight, echoing contest.",
+      "aroundTheWorld": "Sweden’s collective discipline and Russia’s post-Soviet reset bring different forms of national transition to the same field. Indoor football removes the weather but not the strain.",
+      "inTheTournament": "Brazil have beaten Cameroon, so the Group B leaders have set a demanding pace.",
+      "whyItMatters": "Sweden need their aerial strength and midfield order; Russia need a response after their opening defeat. The match tests which side can recover faster from an early change in momentum."
+    },
+    "postMatch": {
+      "score": "Sweden 3–1 Russia",
+      "halftime": "Halftime: 1–1",
+      "goal": "Oleg Salenko 4′; Tomas Brolin 39′ (pen.); Martin Dahlin 60′; Martin Dahlin 81′",
+      "matchReport": "Salenko scored within four minutes, but Brolin’s penalty restored parity before halftime. Dahlin struck twice in the second half as Sweden took control. Russia’s early promise did not become sustained pressure.",
+      "keyMoments": [
+        {
+          "minute": "4'",
+          "title": "Oleg Salenko scores"
+        },
+        {
+          "minute": "39'",
+          "title": "Tomas Brolin (pen.) scores"
+        },
+        {
+          "minute": "60'",
+          "title": "Martin Dahlin scores"
+        },
+        {
+          "minute": "81'",
+          "title": "Martin Dahlin scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Martin Dahlin",
+          "team": "Sweden",
+          "role": "Two-goal forward",
+          "description": "Scored twice after Russia’s early shock and powered Sweden’s response."
+        },
+        {
+          "player": "Tomas Brolin",
+          "team": "Sweden",
+          "role": "Penalty and creation",
+          "description": "Levelled from the spot and linked Sweden’s attacks throughout."
+        },
+        {
+          "player": "Oleg Salenko",
+          "team": "Russia",
+          "role": "Early threat",
+          "description": "Gave Russia a fourth-minute lead before Sweden’s comeback took hold."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c22",
+    "preMatch": {
+      "sceneSetter": "New Jersey’s broad stands hold two North African and Gulf stories in close proximity.",
+      "aroundTheWorld": "Saudi Arabia and Morocco bring distinct Arab football traditions to a tournament that is widening its cultural map. Their supporters lend the fixture a special intimacy.",
+      "inTheTournament": "Belgium have beaten Morocco and the Netherlands have beaten Saudi Arabia, making this a direct chance to reset Group F.",
+      "whyItMatters": "Morocco’s technical midfield faces Saudi Arabia’s sharp counterattacking runners. Both know an early concession could make the group feel much smaller."
+    },
+    "postMatch": {
+      "score": "Morocco 1–2 Saudi Arabia",
+      "halftime": "Halftime: 1–2",
+      "goal": "Sami Al-Jaber 7′ (pen.); Mohammed Amin 45′; Abdelslam Laghrissi 26′",
+      "matchReport": "Al-Jaber converted an early penalty before Morocco answered through Laghrissi. Amin restored Saudi Arabia’s lead before the interval. The second half brought tension but no further goals.",
+      "keyMoments": [
+        {
+          "minute": "7'",
+          "title": "Sami Al-Jaber (pen.) scores"
+        },
+        {
+          "minute": "45'",
+          "title": "Mohammed Amin scores"
+        },
+        {
+          "minute": "26'",
+          "title": "Abdelslam Laghrissi scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Sami Al-Jaber",
+          "team": "Saudi Arabia",
+          "role": "Early penalty",
+          "description": "Settled Saudi Arabia with a composed early penalty against Morocco."
+        },
+        {
+          "player": "Fuad Amin",
+          "team": "Saudi Arabia",
+          "role": "Second goal",
+          "description": "Added the second goal that put the result beyond Morocco before half-time."
+        },
+        {
+          "player": "Mohammed Chaouch",
+          "team": "Morocco",
+          "role": "Reply",
+          "description": "Pulled Morocco level briefly and kept the contest alive into the first half."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c23",
+    "preMatch": {
+      "sceneSetter": "Orlando provides little shade for a meeting shaped by familiarity and rivalry.",
+      "aroundTheWorld": "By the second weekend, supporters have begun adopting teams beyond their own, and several venues are developing distinct personalities.",
+      "inTheTournament": "Belgium have three points. The Netherlands and Saudi Arabia have already met, and Group F now moves into its second round.",
+      "whyItMatters": "The Netherlands need a response. Belgium can take command of the group. Familiarity between the two countries adds an edge, even though the tournament setting makes caution understandable."
+    },
+    "postMatch": {
+      "score": "Netherlands 0–1 Belgium",
+      "halftime": "Halftime: 0–0",
+      "goal": "Philippe Albert 65′",
+      "matchReport": "Albert scored the only goal. Belgium protected the lead with disciplined defending. The result tightened Group F significantly.",
+      "keyMoments": [
+        {
+          "minute": "65'",
+          "title": "Philippe Albert scores"
+        },
+        {
+          "title": "Albert scored the only goal"
+        },
+        {
+          "title": "Belgium protected the lead with disciplined defending"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Philippe Albert",
+          "team": "Belgium",
+          "role": "Match winner",
+          "description": "Stepped forward from defense to score the decisive goal."
+        },
+        {
+          "player": "Michel Preud’homme",
+          "team": "Belgium",
+          "role": "Goalkeeping excellence",
+          "description": "Produced several important saves to preserve the clean sheet."
+        },
+        {
+          "player": "Franky Van der Elst",
+          "team": "Belgium",
+          "role": "Midfield discipline",
+          "description": "Helped disrupt the Netherlands’ passing rhythm."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c24",
+    "preMatch": {
+      "sceneSetter": "Foxborough feels charged by two teams who have made bold opening statements.",
+      "aroundTheWorld": "The tournament is now established. Opening-day curiosity has been replaced by the daily rhythm of standings, pressure and survival.",
+      "inTheTournament": "Argentina lead Group D after their opening win. Nigeria also have three points, making this an early meeting between the group’s two leaders.",
+      "whyItMatters": "Both teams can attack with speed, but they approach control differently. Argentina rely on experience and individual quality; Nigeria bring pace, confidence and a willingness to play without fear."
+    },
+    "postMatch": {
+      "score": "Argentina 2–1 Nigeria",
+      "halftime": "Halftime: 2–1",
+      "goal": "Samson Siasia 8′; Claudio Caniggia 21′, 28′",
+      "matchReport": "Nigeria scored first through Siasia. Caniggia answered with two goals in seven minutes. Argentina then managed the second half to protect the lead.",
+      "keyMoments": [
+        {
+          "minute": "8'",
+          "title": "Samson Siasia scores"
+        },
+        {
+          "minute": "21'",
+          "title": "Claudio Caniggia scores"
+        },
+        {
+          "minute": "28'",
+          "title": "Claudio Caniggia scores"
+        },
+        {
+          "title": "Nigeria scored first through Siasia"
+        },
+        {
+          "title": "Caniggia answered with two goals in seven minutes"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Claudio Caniggia",
+          "team": "Argentina",
+          "role": "Two-goal response",
+          "description": "Turned the match with two quick finishes."
+        },
+        {
+          "player": "Diego Maradona",
+          "team": "Argentina",
+          "role": "Creator",
+          "description": "Supplied the set-piece intelligence and passing that unlocked Nigeria."
+        },
+        {
+          "player": "Samson Siasia",
+          "team": "Nigeria",
+          "role": "Early threat",
+          "description": "Gave Nigeria the lead and consistently attacked space."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c25",
+    "preMatch": {
+      "sceneSetter": "Chicago’s final Group D day begins with the hard clarity of a closing chapter.",
+      "aroundTheWorld": "Bulgaria’s gifted generation has travelled with its own sense of possibility, while Greece are still absorbing the scale of a first World Cup. Both play under intense national scrutiny.",
+      "inTheTournament": "Argentina and Nigeria have completed their second match, establishing the context for the group’s final round.",
+      "whyItMatters": "Bulgaria need their creators to turn pressure into goals; Greece need resilience and a way to make the game physically awkward. The table makes every phase feel consequential."
+    },
+    "postMatch": {
+      "score": "Bulgaria 4–0 Greece",
+      "halftime": "Halftime: 2–0",
+      "goal": "Hristo Stoichkov 5′; Hristo Stoichkov 55′ (pen.); Yordan Letchkov 65′; Daniel Borimirov 90′",
+      "matchReport": "Stoichkov struck early and added a penalty after the break. Letchkov and Borimirov widened the scoreline as Bulgaria’s attacking quality found space. Greece could not stem the momentum.",
+      "keyMoments": [
+        {
+          "minute": "5'",
+          "title": "Hristo Stoichkov scores"
+        },
+        {
+          "minute": "55'",
+          "title": "Hristo Stoichkov (pen.) scores"
+        },
+        {
+          "minute": "65'",
+          "title": "Yordan Letchkov scores"
+        },
+        {
+          "minute": "90'",
+          "title": "Daniel Borimirov scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Hristo Stoichkov",
+          "team": "Bulgaria",
+          "role": "Two-goal spearhead",
+          "description": "Opened the scoring and converted a penalty as Bulgaria dismantled Greece."
+        },
+        {
+          "player": "Yordan Letchkov",
+          "team": "Bulgaria",
+          "role": "Midfield finisher",
+          "description": "Added the third goal and embodied Bulgaria’s growing belief."
+        },
+        {
+          "player": "Daniel Borimirov",
+          "team": "Bulgaria",
+          "role": "Late seal",
+          "description": "Finished the scoring in stoppage time."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c26",
+    "preMatch": {
+      "sceneSetter": "Stanford’s open bowl hosts a match in which both teams must live with the group’s arithmetic.",
+      "aroundTheWorld": "The United States has given Colombia and Switzerland a tournament of unfamiliar distances and climates. Both sides bring technical cultures that value the ball.",
+      "inTheTournament": "Romania and the United States are playing simultaneously, while Group A remains unsettled.",
+      "whyItMatters": "Switzerland’s direct forward play faces Colombia’s need to regain fluency. The match demands calm decisions in a group where every goal can matter."
+    },
+    "postMatch": {
+      "score": "Switzerland 0–2 Colombia",
+      "halftime": "Halftime: 0–1",
+      "goal": "Adolfo Valencia 44′; John Jairo Lozano 90′",
+      "matchReport": "Valencia scored just before halftime to give Colombia a platform. Switzerland pressed for an equaliser but found Colombia more secure after the break. Lozano’s late goal sealed the scoreline.",
+      "keyMoments": [
+        {
+          "minute": "44'",
+          "title": "Adolfo Valencia scores"
+        },
+        {
+          "minute": "90'",
+          "title": "John Jairo Lozano scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Hernán Gaviria",
+          "team": "Colombia",
+          "role": "Opener",
+          "description": "Gave Colombia a first-half lead that Switzerland never recovered from."
+        },
+        {
+          "player": "Harold Lozano",
+          "team": "Colombia",
+          "role": "Late seal",
+          "description": "Added the second goal deep in stoppage time to confirm Colombia’s win."
+        },
+        {
+          "player": "Óscar Córdoba",
+          "team": "Colombia",
+          "role": "Goalkeeper",
+          "description": "Protected Colombia’s advantage as Switzerland pressed for a way back."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c27",
+    "preMatch": {
+      "sceneSetter": "The Rose Bowl gathers the host nation for a final group-stage examination.",
+      "aroundTheWorld": "The final round of group matches begins. From here, simultaneous kickoffs and changing tables create a different kind of tension.",
+      "inTheTournament": "Romania lead Group A. The United States, Switzerland and Colombia remain in contention, and every decision now carries qualification consequences.",
+      "whyItMatters": "The hosts reach their final group match with the stadium, the country and the table all watching. Romania have already shown they can punish mistakes. The United States must balance ambition with the danger of leaving space behind."
+    },
+    "postMatch": {
+      "score": "United States 0–1 Romania",
+      "halftime": "Halftime: 0–1",
+      "goal": "Dan Petrescu 18′",
+      "matchReport": "Petrescu scored from a tight angle. Romania defended the lead with composure. The result completed Group A.",
+      "keyMoments": [
+        {
+          "minute": "18'",
+          "title": "Dan Petrescu scores"
+        },
+        {
+          "title": "Petrescu scored from a tight angle"
+        },
+        {
+          "title": "Romania defended the lead with composure"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Dan Petrescu",
+          "team": "Romania",
+          "role": "Decisive scorer",
+          "description": "Converted Romania’s clearest early chance."
+        },
+        {
+          "player": "Gheorghe Hagi",
+          "team": "Romania",
+          "role": "Creative control",
+          "description": "Managed the tempo and helped Romania escape pressure."
+        },
+        {
+          "player": "Tony Meola",
+          "team": "United States",
+          "role": "Kept it close",
+          "description": "Made saves that kept the hosts within one goal."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c28",
+    "preMatch": {
+      "sceneSetter": "Stanford hosts a final group match with pride, memory and release all in the air.",
+      "aroundTheWorld": "Russia’s new international identity and Cameroon’s enduring 1990 aura give the fixture a historical undercurrent. Both arrive carrying more than a simple group-stage task.",
+      "inTheTournament": "Brazil and Sweden are playing simultaneously, and the Group B final day has compressed the possibilities.",
+      "whyItMatters": "Russia need attacking precision after a difficult start; Cameroon rely on their ability to make a game sudden. The match offers room for individual players to leave a mark."
+    },
+    "postMatch": {
+      "score": "Russia 6–1 Cameroon",
+      "halftime": "Halftime: 3–0",
+      "goal": "Oleg Salenko 15′; Oleg Salenko 41′; Oleg Salenko 44′ (pen.); Roger Milla 46′; Oleg Salenko 72′; Oleg Salenko 75′; Dmitri Radchenko 81′",
+      "matchReport": "Salenko scored three times before halftime, including a penalty. Milla replied immediately after the restart, but Salenko added two more before Radchenko completed Russia’s six. Salenko’s five goals remain a World Cup single-match record.",
+      "keyMoments": [
+        {
+          "minute": "15'",
+          "title": "Oleg Salenko scores"
+        },
+        {
+          "minute": "41'",
+          "title": "Oleg Salenko scores"
+        },
+        {
+          "minute": "44'",
+          "title": "Oleg Salenko (pen.) scores"
+        },
+        {
+          "minute": "46'",
+          "title": "Roger Milla scores"
+        },
+        {
+          "minute": "72'",
+          "title": "Oleg Salenko scores"
+        },
+        {
+          "minute": "75'",
+          "title": "Oleg Salenko scores"
+        },
+        {
+          "minute": "81'",
+          "title": "Dmitri Radchenko scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Oleg Salenko",
+          "team": "Russia",
+          "role": "Five-goal record",
+          "description": "Scored five times in a single World Cup match, rewriting the tournament record books."
+        },
+        {
+          "player": "Dmitri Radchenko",
+          "team": "Russia",
+          "role": "Sixth goal",
+          "description": "Completed Russia’s 6–1 rout with a late strike."
+        },
+        {
+          "player": "Roger Milla",
+          "team": "Cameroon",
+          "role": "Historic reply",
+          "description": "Scored Cameroon’s consolation and became the World Cup’s oldest scorer."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c29",
+    "preMatch": {
+      "sceneSetter": "Foxborough’s final group evening carries the peculiar tension of a match watched alongside another.",
+      "aroundTheWorld": "Nigeria’s debut has given African football a vivid new reference point, while Greece are completing their first World Cup journey. The tournament’s simultaneous finale changes every piece of information.",
+      "inTheTournament": "Argentina and Bulgaria are playing at the same time, with Group D still capable of moving beneath the teams’ feet.",
+      "whyItMatters": "Nigeria’s speed and confidence meet a Greek side seeking a composed response. The match asks whether Nigeria can retain their attacking freedom under final-day pressure."
+    },
+    "postMatch": {
+      "score": "Greece 0–2 Nigeria",
+      "halftime": "Halftime: 0–1",
+      "goal": "Finidi George 45′; Daniel Amokachi 90′",
+      "matchReport": "Finidi George struck on the stroke of halftime. Greece searched for a route back but Nigeria kept their transitions dangerous. Amokachi’s late goal settled the match.",
+      "keyMoments": [
+        {
+          "minute": "45'",
+          "title": "Finidi George scores"
+        },
+        {
+          "minute": "90'",
+          "title": "Daniel Amokachi scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Finidi George",
+          "team": "Nigeria",
+          "role": "Opener",
+          "description": "Broke the deadlock before half-time against Greece."
+        },
+        {
+          "player": "Daniel Amokachi",
+          "team": "Nigeria",
+          "role": "Late seal",
+          "description": "Added the second goal late to confirm Nigeria’s progress."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c30",
+    "preMatch": {
+      "sceneSetter": "Chicago’s group-stage finale has the restless mood of a match in which time seems to move differently.",
+      "aroundTheWorld": "The tournament’s schedule is tightening, and several groups are being settled on the same day.",
+      "inTheTournament": "Germany lead Group C, with Spain and South Korea still within reach. The final matches are being played simultaneously.",
+      "whyItMatters": "Germany can finish the group strongly, but South Korea still have something to play for. The defending champions cannot assume control simply because of reputation; the final group match often exposes fatigue and nerves."
+    },
+    "postMatch": {
+      "score": "Germany 3–2 South Korea",
+      "halftime": "Halftime: 3–0",
+      "goal": "Jürgen Klinsmann 12′, 37′; Karl-Heinz Riedle 20′; Hwang Sun-hong 52′; Hong Myung-bo 63′",
+      "matchReport": "Germany led by three at halftime. South Korea scored twice after the break. Germany survived a dramatic second-half comeback.",
+      "keyMoments": [
+        {
+          "minute": "12'",
+          "title": "Jürgen Klinsmann scores"
+        },
+        {
+          "minute": "37'",
+          "title": "Jürgen Klinsmann scores"
+        },
+        {
+          "minute": "20'",
+          "title": "Karl-Heinz Riedle scores"
+        },
+        {
+          "minute": "52'",
+          "title": "Hwang Sun-hong scores"
+        },
+        {
+          "minute": "63'",
+          "title": "Hong Myung-bo scores"
+        },
+        {
+          "title": "Germany led by three at halftime"
+        },
+        {
+          "title": "South Korea scored twice after the break"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Jürgen Klinsmann",
+          "team": "Germany",
+          "role": "Two-goal leader",
+          "description": "Built Germany’s lead with clinical movement and finishing."
+        },
+        {
+          "player": "Hong Myung-bo",
+          "team": "South Korea",
+          "role": "Comeback leader",
+          "description": "Scored and drove South Korea forward from defense."
+        },
+        {
+          "player": "Hwang Sun-hong",
+          "team": "South Korea",
+          "role": "Changed the mood",
+          "description": "His goal began the second-half recovery."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c31",
+    "preMatch": {
+      "sceneSetter": "New Jersey’s final Group E afternoon is dense with calculation and restraint.",
+      "aroundTheWorld": "Ireland and Norway arrive from football cultures that prize collective work and travelling support. The setting magnifies every cautious decision.",
+      "inTheTournament": "Mexico and Italy are playing simultaneously, leaving Group E’s final positions in motion.",
+      "whyItMatters": "Both teams know how to make a match compact. Ireland’s direct game and Norway’s disciplined shape make the first goal, if it comes, likely to reshape everything."
+    },
+    "postMatch": {
+      "score": "Republic of Ireland 0–0 Norway",
+      "halftime": "Halftime: 0–0",
+      "goal": "No goals",
+      "matchReport": "The match remained scoreless throughout. Ireland defended with characteristic concentration while Norway struggled to create a clean decisive chance. The quiet scoreline carried considerable weight.",
+      "keyMoments": [
+        {
+          "title": "A crucial stalemate",
+          "description": "Ireland and Norway share a goalless draw that keeps both in the qualification conversation."
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Packie Bonner",
+          "team": "Republic of Ireland",
+          "role": "Last line",
+          "description": "Helped Ireland secure a goalless draw that kept their knockout hopes alive."
+        },
+        {
+          "player": "Erik Thorstvedt",
+          "team": "Norway",
+          "role": "Matching resolve",
+          "description": "Matched Ireland’s organisation as Norway chased a decisive opening."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c32",
+    "preMatch": {
+      "sceneSetter": "The closing Group E crowd watches two football nations accustomed to carrying their supporters with them.",
+      "aroundTheWorld": "Mexico’s regional following and Italy’s global support turn Giants Stadium into a neutral venue only in name. Both sides have already learned how uneven this group can feel.",
+      "inTheTournament": "Ireland and Norway are playing at the same time, and all four teams remain part of the final-day equation.",
+      "whyItMatters": "Italy need their technical control to withstand Mexico’s movement; Mexico need composure when the game opens. The first hour may decide which side has to chase."
+    },
+    "postMatch": {
+      "score": "Italy 1–1 Mexico",
+      "halftime": "Halftime: 0–0",
+      "goal": "Daniele Massaro 48′; Marcelino Bernal 57′",
+      "matchReport": "Massaro put Italy ahead just after halftime. Bernal responded nine minutes later to restore balance. Neither side found another breakthrough in a compressed, anxious finish.",
+      "keyMoments": [
+        {
+          "minute": "48'",
+          "title": "Daniele Massaro scores"
+        },
+        {
+          "minute": "57'",
+          "title": "Marcelino Bernal scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Daniele Massaro",
+          "team": "Italy",
+          "role": "Opener",
+          "description": "Put Italy ahead early in the second half against Mexico."
+        },
+        {
+          "player": "Marcelino Bernal",
+          "team": "Mexico",
+          "role": "Equaliser",
+          "description": "Answered quickly to earn Mexico a valuable point."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c33",
+    "preMatch": {
+      "sceneSetter": "The Silverdome closes Group B beneath artificial light and very real pressure.",
+      "aroundTheWorld": "The second semifinal brings the tournament back to the Rose Bowl.",
+      "inTheTournament": "Sweden and Brazil have already met once in the group stage. Now the consequence is entirely different.",
+      "whyItMatters": "Familiarity removes some uncertainty but increases the tactical tension. Brazil know Sweden’s strengths; Sweden know Brazil’s patterns. A place in the final now depends on who adapts better."
+    },
+    "postMatch": {
+      "score": "Sweden 0–1 Brazil",
+      "halftime": "Halftime: 0–0",
+      "goal": "Romário 80′",
+      "matchReport": "Sweden defended deep and kept the match level for 80 minutes. Romário scored with a header. Brazil protected the narrow lead to the final whistle.",
+      "keyMoments": [
+        {
+          "minute": "80'",
+          "title": "Romário scores"
+        },
+        {
+          "title": "Sweden defended deep and kept the match level for 80 minutes"
+        },
+        {
+          "title": "Brazil protected the narrow lead to the final whistle"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Romário",
+          "team": "Brazil",
+          "role": "Semifinal winner",
+          "description": "Found space in a crowded penalty area and scored the decisive header."
+        },
+        {
+          "player": "Jorginho",
+          "team": "Brazil",
+          "role": "Created the goal",
+          "description": "Delivered the cross for Romário and provided width."
+        },
+        {
+          "player": "Thomas Ravelli",
+          "team": "Sweden",
+          "role": "Strong resistance",
+          "description": "Made saves that kept Sweden in the contest."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c34",
+    "preMatch": {
+      "sceneSetter": "Washington’s final Group F evening begins with a flash of open grass and possibility.",
+      "aroundTheWorld": "The final day of Group F arrives with the group still unsettled and several possible finishing orders.",
+      "inTheTournament": "Belgium lead the group. Saudi Arabia and the Netherlands remain in contention, while Morocco play simultaneously elsewhere.",
+      "whyItMatters": "Belgium can secure a strong finish. Saudi Arabia have already shown they belong at this level and now face another test of composure. The pressure is not only to create chances, but to understand what the match requires."
+    },
+    "postMatch": {
+      "score": "Belgium 0–1 Saudi Arabia",
+      "halftime": "Halftime: 0–1",
+      "goal": "Saeed Al-Owairan 5′",
+      "matchReport": "Al-Owairan scored after a long solo run. Saudi Arabia protected the lead for the remaining 85 minutes. The result transformed the final Group F standings.",
+      "keyMoments": [
+        {
+          "minute": "5'",
+          "title": "Saeed Al-Owairan scores"
+        },
+        {
+          "title": "Al-Owairan scored after a long solo run"
+        },
+        {
+          "title": "Saudi Arabia protected the lead for the remaining 85 minutes"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Saeed Al-Owairan",
+          "team": "Saudi Arabia",
+          "role": "Match-defining run",
+          "description": "Produced one of the tournament’s most memorable individual goals."
+        },
+        {
+          "player": "Mohamed Al-Deayea",
+          "team": "Saudi Arabia",
+          "role": "Protected the lead",
+          "description": "Handled Belgium’s pressure with authority."
+        },
+        {
+          "player": "Fuad Amin",
+          "team": "Saudi Arabia",
+          "role": "Midfield energy",
+          "description": "Helped Saudi Arabia defend and counter for the full match."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c35",
+    "preMatch": {
+      "sceneSetter": "Orlando’s last Group F afternoon is heavy with heat and the noise of simultaneous news.",
+      "aroundTheWorld": "Morocco and the Netherlands meet with contrasting World Cup histories but equal exposure to the tournament’s American spectacle. The final day makes every crowd reaction feel like information.",
+      "inTheTournament": "Belgium and Saudi Arabia are playing at the same time, leaving Group F unsettled.",
+      "whyItMatters": "The Netherlands want to create through patient width and Bergkamp’s movement; Morocco need their passing game to survive the physical demands of Orlando. A late swing remains entirely possible."
+    },
+    "postMatch": {
+      "score": "Morocco 1–2 Netherlands",
+      "halftime": "Halftime: 0–1",
+      "goal": "Dennis Bergkamp 43′; Abdelkrim Merry 47′; Bryan Roy 77′",
+      "matchReport": "Bergkamp’s goal gave the Netherlands a halftime lead. Morocco replied immediately after the break through Merry. Roy scored late to decide a match that stayed open in the heat.",
+      "keyMoments": [
+        {
+          "minute": "43'",
+          "title": "Dennis Bergkamp scores"
+        },
+        {
+          "minute": "47'",
+          "title": "Abdelkrim Merry scores"
+        },
+        {
+          "minute": "77'",
+          "title": "Bryan Roy scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Dennis Bergkamp",
+          "team": "Netherlands",
+          "role": "Opener",
+          "description": "Opened the scoring and repeatedly threatened Morocco’s defence."
+        },
+        {
+          "player": "Bryan Roy",
+          "team": "Netherlands",
+          "role": "Winner",
+          "description": "Struck the decisive second-half goal that settled the contest."
+        },
+        {
+          "player": "Hassan Nader",
+          "team": "Morocco",
+          "role": "Equaliser",
+          "description": "Levelled after the interval and forced the Netherlands to respond."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c36",
+    "preMatch": {
+      "sceneSetter": "Dallas feels taut as a final Group D match begins under a hard sun.",
+      "aroundTheWorld": "Argentina’s tournament has been watched around the world, while Bulgaria’s gifted side have grown into the competition. The setting is stark, the stakes immediate.",
+      "inTheTournament": "Nigeria and Greece are playing simultaneously, with Group D’s final order still unresolved.",
+      "whyItMatters": "Argentina have individual brilliance but must manage disruption; Bulgaria have the creativity of Stoichkov and the belief of a side that has responded to adversity. Set pieces and transitions loom large."
+    },
+    "postMatch": {
+      "score": "Argentina 0–2 Bulgaria",
+      "halftime": "Halftime: 0–0",
+      "goal": "Hristo Stoichkov 61′; Nasko Sirakov 90′",
+      "matchReport": "Stoichkov broke the deadlock after an hour. Argentina pressed for a response, but Sirakov scored late to complete Bulgaria’s win. The match became increasingly open as time ran out.",
+      "keyMoments": [
+        {
+          "minute": "61'",
+          "title": "Hristo Stoichkov scores"
+        },
+        {
+          "minute": "90'",
+          "title": "Nasko Sirakov scores"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Hristo Stoichkov",
+          "team": "Bulgaria",
+          "role": "Breakthrough",
+          "description": "Opened the scoring against Argentina and set Bulgaria on a famous path."
+        },
+        {
+          "player": "Nasko Sirakov",
+          "team": "Bulgaria",
+          "role": "Late seal",
+          "description": "Added the second goal late to confirm a result that stunned Group D."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c37",
+    "preMatch": {
+      "sceneSetter": "Knockout football returns to Chicago with no margin for a second match.",
+      "aroundTheWorld": "The World Cup has entered its knockout phase. There are no more points, no second matches and no room to recover.",
+      "inTheTournament": "Sixteen teams remain. Germany and Belgium have survived the group stage and now meet with a quarterfinal place at stake.",
+      "whyItMatters": "Germany bring the experience of defending champions. Belgium have shown they can navigate a difficult group. The structure changes everything: caution can preserve a match, but one mistake can end a tournament."
+    },
+    "postMatch": {
+      "score": "Germany 3–2 Belgium",
+      "halftime": "Halftime: 3–1",
+      "goal": "Rudi Völler 6′, 39′; Georges Grün 8′; Jürgen Klinsmann 10′; Philippe Albert 90′",
+      "matchReport": "The teams exchanged three goals in the opening ten minutes. Völler’s second gave Germany a two-goal halftime cushion. Belgium scored late but could not force extra time.",
+      "keyMoments": [
+        {
+          "minute": "6'",
+          "title": "Rudi Völler scores"
+        },
+        {
+          "minute": "39'",
+          "title": "Rudi Völler scores"
+        },
+        {
+          "minute": "8'",
+          "title": "Georges Grün scores"
+        },
+        {
+          "minute": "10'",
+          "title": "Jürgen Klinsmann scores"
+        },
+        {
+          "minute": "90'",
+          "title": "Philippe Albert scores"
+        },
+        {
+          "title": "The teams exchanged three goals in the opening ten minutes"
+        },
+        {
+          "title": "Völler’s second gave Germany a two-goal halftime cushion"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Rudi Völler",
+          "team": "Germany",
+          "role": "Two-goal veteran",
+          "description": "Punished Belgium’s defensive gaps with two composed finishes."
+        },
+        {
+          "player": "Jürgen Klinsmann",
+          "team": "Germany",
+          "role": "Constant threat",
+          "description": "Scored and stretched Belgium throughout the first half."
+        },
+        {
+          "player": "Georges Grün",
+          "team": "Belgium",
+          "role": "Early response",
+          "description": "Equalized quickly and kept Belgium competitive."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c38",
+    "preMatch": {
+      "sceneSetter": "Washington’s knockout afternoon has the clean, tense air of a match that cannot be retrieved.",
+      "aroundTheWorld": "The knockout stage continues across the country, with every match now creating the next round in real time.",
+      "inTheTournament": "Spain and Switzerland have advanced from very different groups. One will leave Washington with its tournament still alive.",
+      "whyItMatters": "Spain bring technical quality and the expectation that comes with a talented squad. Switzerland have already shown resilience and organization. The longer the match remains level, the more pressure shifts toward the favorite."
+    },
+    "postMatch": {
+      "score": "Spain 3–0 Switzerland",
+      "halftime": "Halftime: 1–0",
+      "goal": "Fernando Hierro 15′; Luis Enrique 74′; Txiki Begiristain 86′ (pen.)",
+      "matchReport": "Hierro scored early. Spain added two second-half goals. Switzerland’s tournament ended without finding a response.",
+      "keyMoments": [
+        {
+          "minute": "15'",
+          "title": "Fernando Hierro scores"
+        },
+        {
+          "minute": "74'",
+          "title": "Luis Enrique scores"
+        },
+        {
+          "minute": "86'",
+          "title": "Txiki Begiristain (pen.) scores"
+        },
+        {
+          "title": "Hierro scored early"
+        },
+        {
+          "title": "Spain added two second-half goals"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Fernando Hierro",
+          "team": "Spain",
+          "role": "Set the tone",
+          "description": "Scored early and led the defense."
+        },
+        {
+          "player": "Luis Enrique",
+          "team": "Spain",
+          "role": "Two-way influence",
+          "description": "Pressed, ran beyond midfield and scored the second."
+        },
+        {
+          "player": "Andoni Zubizarreta",
+          "team": "Spain",
+          "role": "Clean-sheet security",
+          "description": "Handled Switzerland’s limited chances confidently."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c39",
+    "preMatch": {
+      "sceneSetter": "Dallas heat turns a knockout meeting into a test of recovery as much as talent.",
+      "aroundTheWorld": "Dallas hosts another knockout match, and the heat is now part of the tournament’s competitive landscape.",
+      "inTheTournament": "Saudi Arabia and Sweden have both emerged from the group stage with confidence and distinct identities.",
+      "whyItMatters": "Saudi Arabia are carrying the momentum of a memorable group campaign. Sweden bring experience, physical presence and a calmness suited to knockout football. The contrast is less about status than about who can impose the preferred rhythm."
+    },
+    "postMatch": {
+      "score": "Saudi Arabia 1–3 Sweden",
+      "halftime": "Halftime: 0–1",
+      "goal": "Martin Dahlin 6′; Kennet Andersson 51′, 88′; Fahad Al-Ghesheyan 85′",
+      "matchReport": "Dahlin scored early. Andersson added two second-half goals. Saudi Arabia briefly threatened a comeback late.",
+      "keyMoments": [
+        {
+          "minute": "6'",
+          "title": "Martin Dahlin scores"
+        },
+        {
+          "minute": "51'",
+          "title": "Kennet Andersson scores"
+        },
+        {
+          "minute": "88'",
+          "title": "Kennet Andersson scores"
+        },
+        {
+          "minute": "85'",
+          "title": "Fahad Al-Ghesheyan scores"
+        },
+        {
+          "title": "Dahlin scored early"
+        },
+        {
+          "title": "Andersson added two second-half goals"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Kennet Andersson",
+          "team": "Sweden",
+          "role": "Two-goal target",
+          "description": "Dominated aerially and finished twice."
+        },
+        {
+          "player": "Martin Dahlin",
+          "team": "Sweden",
+          "role": "Fast start",
+          "description": "Gave Sweden immediate control with an early goal."
+        },
+        {
+          "player": "Tomas Brolin",
+          "team": "Sweden",
+          "role": "Creative engine",
+          "description": "Linked midfield and attack throughout."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c40",
+    "preMatch": {
+      "sceneSetter": "The Rose Bowl holds a knockout match full of attacking imagination.",
+      "aroundTheWorld": "The Rose Bowl welcomes one of the round’s most anticipated matches.",
+      "inTheTournament": "Romania have impressed in Group A. Argentina have advanced from Group D and arrive with enormous attention surrounding them.",
+      "whyItMatters": "Romania combine technical quality with a willingness to attack. Argentina possess individual talent and tournament experience. Both teams are capable of turning a quiet spell into a dangerous attack with very little warning."
+    },
+    "postMatch": {
+      "score": "Romania 3–2 Argentina",
+      "halftime": "Halftime: 2–1",
+      "goal": "Ilie Dumitrescu 11′, 18′; Gabriel Batistuta 16′ (pen.); Gheorghe Hagi 58′; Abel Balbo 75′",
+      "matchReport": "Three goals arrived in the opening 18 minutes. Hagi extended Romania’s lead in the second half. Balbo’s goal created a tense finish.",
+      "keyMoments": [
+        {
+          "minute": "11'",
+          "title": "Ilie Dumitrescu scores"
+        },
+        {
+          "minute": "18'",
+          "title": "Ilie Dumitrescu scores"
+        },
+        {
+          "minute": "16'",
+          "title": "Gabriel Batistuta (pen.) scores"
+        },
+        {
+          "minute": "58'",
+          "title": "Gheorghe Hagi scores"
+        },
+        {
+          "minute": "75'",
+          "title": "Abel Balbo scores"
+        },
+        {
+          "title": "Three goals arrived in the opening 18 minutes"
+        },
+        {
+          "title": "Hagi extended Romania’s lead in the second half"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Ilie Dumitrescu",
+          "team": "Romania",
+          "role": "Two-goal spark",
+          "description": "Scored twice early and repeatedly attacked Argentina’s defensive gaps."
+        },
+        {
+          "player": "Gheorghe Hagi",
+          "team": "Romania",
+          "role": "Creative master",
+          "description": "Controlled transitions and scored the decisive third goal."
+        },
+        {
+          "player": "Gabriel Batistuta",
+          "team": "Argentina",
+          "role": "Persistent threat",
+          "description": "Converted the penalty and kept Romania under pressure."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c41",
+    "preMatch": {
+      "sceneSetter": "Orlando’s knockout evening asks two contrasting teams to reveal their nerve.",
+      "aroundTheWorld": "The knockout schedule reaches Orlando, where the margins are narrowing with every match.",
+      "inTheTournament": "The Netherlands and the Republic of Ireland have each survived groups that demanded patience and resilience.",
+      "whyItMatters": "The Netherlands want the ball and usually want the game played on their terms. Ireland are comfortable defending, competing and waiting for the match to offer them a moment. The longer the contest stays close, the more important concentration becomes."
+    },
+    "postMatch": {
+      "score": "Netherlands 2–0 Republic of Ireland",
+      "halftime": "Halftime: 2–0",
+      "goal": "Dennis Bergkamp 11′; Wim Jonk 41′",
+      "matchReport": "Bergkamp scored early. Jonk doubled the lead before halftime. The Netherlands controlled the second half.",
+      "keyMoments": [
+        {
+          "minute": "11'",
+          "title": "Dennis Bergkamp scores"
+        },
+        {
+          "minute": "41'",
+          "title": "Wim Jonk scores"
+        },
+        {
+          "title": "Bergkamp scored early"
+        },
+        {
+          "title": "Jonk doubled the lead before halftime"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Dennis Bergkamp",
+          "team": "Netherlands",
+          "role": "Early breakthrough",
+          "description": "Created separation with a composed finish."
+        },
+        {
+          "player": "Wim Jonk",
+          "team": "Netherlands",
+          "role": "Long-range quality",
+          "description": "Scored the second and controlled midfield possession."
+        },
+        {
+          "player": "Frank de Boer",
+          "team": "Netherlands",
+          "role": "Defensive distribution",
+          "description": "Helped the Dutch build calmly from the back."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c42",
+    "preMatch": {
+      "sceneSetter": "On Independence Day, Stanford carries the particular electricity of the hosts facing a global power.",
+      "aroundTheWorld": "Independence Day brings the host nation back onto the field, this time with no safety net.",
+      "inTheTournament": "The United States have reached the knockout stage on home soil. Brazil stand between them and a place in the quarterfinals.",
+      "whyItMatters": "The hosts now face one of the tournament favorites. Brazil have been controlled and confident; the United States have relied on organization, energy and home support. The occasion guarantees emotion, but the match will still be decided by discipline."
+    },
+    "postMatch": {
+      "score": "Brazil 1–0 United States",
+      "halftime": "Halftime: 0–0",
+      "goal": "Bebeto 72′",
+      "matchReport": "Leonardo was sent off before halftime. Brazil played with ten men for most of the second half. Bebeto scored the only goal.",
+      "keyMoments": [
+        {
+          "minute": "72'",
+          "title": "Bebeto scores"
+        },
+        {
+          "title": "Leonardo was sent off before halftime"
+        },
+        {
+          "title": "Brazil played with ten men for most of the second half"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Bebeto",
+          "team": "Brazil",
+          "role": "Match winner",
+          "description": "Found the decisive space and finished Brazil’s best move."
+        },
+        {
+          "player": "Romário",
+          "team": "Brazil",
+          "role": "Created the opening",
+          "description": "His movement and combination play helped produce the goal."
+        },
+        {
+          "player": "Tony Meola",
+          "team": "United States",
+          "role": "Outstanding resistance",
+          "description": "Made several saves and kept the hosts alive."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c43",
+    "preMatch": {
+      "sceneSetter": "Foxborough hosts an elimination match with two teams who have made the tournament feel different.",
+      "aroundTheWorld": "The final day of the round of 16 begins in Foxborough. The occasion sits inside a global football summer that has drawn both sides into the same 1994 narrative.",
+      "inTheTournament": "Nigeria have announced themselves as one of the tournament’s most exciting teams. Italy have survived a difficult group and remain dangerous.",
+      "whyItMatters": "Nigeria bring speed, confidence and little fear. Italy bring experience and the ability to remain alive in difficult matches. The contrast makes this one of the round’s most intriguing fixtures."
+    },
+    "postMatch": {
+      "score": "Nigeria 1–2 Italy (a.e.t.)",
+      "halftime": "Halftime: 1–0",
+      "goal": "Emmanuel Amunike 25′; Roberto Baggio 88′, 102′ (pen.)",
+      "matchReport": "Nigeria led until the 88th minute. Roberto Baggio forced extra time. His penalty in extra time completed Italy’s comeback.",
+      "keyMoments": [
+        {
+          "minute": "25'",
+          "title": "Emmanuel Amunike scores"
+        },
+        {
+          "minute": "88'",
+          "title": "Roberto Baggio scores"
+        },
+        {
+          "minute": "102'",
+          "title": "Roberto Baggio (pen.) scores"
+        },
+        {
+          "title": "Nigeria led until the 88th minute"
+        },
+        {
+          "title": "His penalty in extra time completed Italy’s comeback"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Roberto Baggio",
+          "team": "Italy",
+          "role": "Tournament-saving performance",
+          "description": "Scored both goals under enormous pressure."
+        },
+        {
+          "player": "Emmanuel Amunike",
+          "team": "Nigeria",
+          "role": "Opened the match",
+          "description": "Put Nigeria ahead and remained a direct threat."
+        },
+        {
+          "player": "Dino Baggio",
+          "team": "Italy",
+          "role": "Midfield resilience",
+          "description": "Helped Italy survive with ten men and reach extra time."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c44",
+    "preMatch": {
+      "sceneSetter": "New Jersey’s late knockout slot feels built for anxiety.",
+      "aroundTheWorld": "The last round-of-16 place is decided in New Jersey. The occasion sits inside a global football summer that has drawn both sides into the same 1994 narrative.",
+      "inTheTournament": "Mexico and Bulgaria have both navigated demanding groups and now face the possibility of extra time or penalties.",
+      "whyItMatters": "Mexico bring technical control and strong support. Bulgaria have attacking quality and the belief earned from their group campaign. At this stage, the match can become as much a test of nerve as of football."
+    },
+    "postMatch": {
+      "score": "Mexico 1–1 Bulgaria (Bulgaria won 3–1 on pens)",
+      "halftime": "Halftime: 1–1",
+      "goal": "Hristo Stoichkov 7′; Alberto García Aspe 18′ (pen.)",
+      "matchReport": "Both goals came in the first 18 minutes. The match remained level through extra time. Bulgaria won the penalty shootout 3–1.",
+      "keyMoments": [
+        {
+          "minute": "7'",
+          "title": "Hristo Stoichkov scores"
+        },
+        {
+          "minute": "18'",
+          "title": "Alberto García Aspe (pen.) scores"
+        },
+        {
+          "title": "Both goals came in the first 18 minutes"
+        },
+        {
+          "title": "The match remained level through extra time"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Borislav Mihaylov",
+          "team": "Bulgaria",
+          "role": "Shootout hero",
+          "description": "Made decisive saves in the penalty shootout."
+        },
+        {
+          "player": "Hristo Stoichkov",
+          "team": "Bulgaria",
+          "role": "Early scorer",
+          "description": "Opened the match with another forceful finish."
+        },
+        {
+          "player": "Jorge Campos",
+          "team": "Mexico",
+          "role": "Kept Mexico alive",
+          "description": "Made important saves through regulation and extra time."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c45",
+    "preMatch": {
+      "sceneSetter": "Foxborough’s quarter-final carries the hush of a match between two teams who can both keep the ball.",
+      "aroundTheWorld": "The quarterfinals begin. Eight teams remain, and the tournament’s shape is becoming clearer without becoming predictable.",
+      "inTheTournament": "Italy and Spain have survived very different paths to reach Foxborough.",
+      "whyItMatters": "Spain arrive with technical confidence. Italy have repeatedly found ways to stay alive under pressure. Quarterfinals often reward the team that manages emotion and game state rather than the team that simply attacks more."
+    },
+    "postMatch": {
+      "score": "Italy 2–1 Spain",
+      "halftime": "Halftime: 1–0",
+      "goal": "Dino Baggio 25′; José Luis Caminero 58′; Roberto Baggio 88′",
+      "matchReport": "Dino Baggio gave Italy the lead. Caminero equalized in the second half. Roberto Baggio scored the winner late.",
+      "keyMoments": [
+        {
+          "minute": "25'",
+          "title": "Dino Baggio scores"
+        },
+        {
+          "minute": "58'",
+          "title": "José Luis Caminero scores"
+        },
+        {
+          "minute": "88'",
+          "title": "Roberto Baggio scores"
+        },
+        {
+          "title": "Caminero equalized in the second half"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Roberto Baggio",
+          "team": "Italy",
+          "role": "Late match winner",
+          "description": "Produced the decisive finish when extra time seemed likely."
+        },
+        {
+          "player": "Dino Baggio",
+          "team": "Italy",
+          "role": "Midfield scoring threat",
+          "description": "Opened the scoring and covered enormous ground."
+        },
+        {
+          "player": "José Luis Caminero",
+          "team": "Spain",
+          "role": "Equalizer and drive",
+          "description": "Restored Spain’s belief and pushed the team forward."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c46",
+    "preMatch": {
+      "sceneSetter": "Dallas holds a quarter-final that feels too full of attacking talent for silence.",
+      "aroundTheWorld": "Dallas hosts a quarterfinal between two of the tournament’s most recognizable football nations.",
+      "inTheTournament": "The Netherlands and Brazil have each advanced with their attacking identity intact.",
+      "whyItMatters": "Brazil have looked composed and efficient. The Netherlands have the structure and talent to challenge any opponent. This is a meeting of two teams comfortable with the ball, but not necessarily comfortable without it."
+    },
+    "postMatch": {
+      "score": "Netherlands 2–3 Brazil",
+      "halftime": "Halftime: 0–0",
+      "goal": "Romário 53′; Bebeto 63′; Dennis Bergkamp 64′; Aron Winter 76′; Branco 81′",
+      "matchReport": "All five goals came in the second half. The Netherlands recovered from two goals down. Branco’s free kick decided the quarterfinal.",
+      "keyMoments": [
+        {
+          "minute": "53'",
+          "title": "Romário scores"
+        },
+        {
+          "minute": "63'",
+          "title": "Bebeto scores"
+        },
+        {
+          "minute": "64'",
+          "title": "Dennis Bergkamp scores"
+        },
+        {
+          "minute": "76'",
+          "title": "Aron Winter scores"
+        },
+        {
+          "minute": "81'",
+          "title": "Branco scores"
+        },
+        {
+          "title": "All five goals came in the second half"
+        },
+        {
+          "title": "The Netherlands recovered from two goals down"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Branco",
+          "team": "Brazil",
+          "role": "Decisive free kick",
+          "description": "Scored the winning goal from distance."
+        },
+        {
+          "player": "Romário",
+          "team": "Brazil",
+          "role": "Opened the game",
+          "description": "His finish transformed a tense match."
+        },
+        {
+          "player": "Dennis Bergkamp",
+          "team": "Netherlands",
+          "role": "Comeback catalyst",
+          "description": "Responded immediately and reignited the Netherlands."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c47",
+    "preMatch": {
+      "sceneSetter": "East Rutherford gathers a defending champion and a side playing into belief.",
+      "aroundTheWorld": "The quarterfinals move to New Jersey, where the defending champions face one of the tournament’s growing stories.",
+      "inTheTournament": "Germany have reached another major knockout match. Bulgaria arrive with confidence from a strong group stage and round-of-16 victory.",
+      "whyItMatters": "Germany carry experience, structure and the expectation of progress. Bulgaria possess creative players capable of changing a match suddenly. The longer the game stays close, the more belief matters."
+    },
+    "postMatch": {
+      "score": "Bulgaria 2–1 Germany",
+      "halftime": "Halftime: 0–0",
+      "goal": "Lothar Matthäus 47′ (pen.); Hristo Stoichkov 75′; Yordan Letchkov 78′",
+      "matchReport": "Germany led from a penalty. Stoichkov equalized with a free kick. Letchkov scored the winner three minutes later.",
+      "keyMoments": [
+        {
+          "minute": "47'",
+          "title": "Lothar Matthäus (pen.) scores"
+        },
+        {
+          "minute": "75'",
+          "title": "Hristo Stoichkov scores"
+        },
+        {
+          "minute": "78'",
+          "title": "Yordan Letchkov scores"
+        },
+        {
+          "title": "Germany led from a penalty"
+        },
+        {
+          "title": "Stoichkov equalized with a free kick"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Hristo Stoichkov",
+          "team": "Bulgaria",
+          "role": "Changed the match",
+          "description": "His free kick erased Germany’s lead and shifted momentum."
+        },
+        {
+          "player": "Yordan Letchkov",
+          "team": "Bulgaria",
+          "role": "Historic winner",
+          "description": "Timed his run perfectly to head Bulgaria in front."
+        },
+        {
+          "player": "Borislav Mihaylov",
+          "team": "Bulgaria",
+          "role": "Defensive confidence",
+          "description": "Kept Bulgaria close until the late turnaround."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c48",
+    "preMatch": {
+      "sceneSetter": "Pasadena’s late light frames the last quarter-final as a contest between two tournament revelations.",
+      "aroundTheWorld": "The final quarterfinal takes place in California with the last semifinal place at stake.",
+      "inTheTournament": "Romania and Sweden have each produced convincing reasons to believe their tournament can continue.",
+      "whyItMatters": "Romania bring imagination and attacking confidence. Sweden bring organization, aerial strength and calm. Neither team sees itself as an outsider anymore."
+    },
+    "postMatch": {
+      "score": "Romania 2–2 Sweden (Sweden won 5–4 on pens)",
+      "halftime": "Halftime: 0–0",
+      "goal": "Tomas Brolin 78′; Florin Răducioiu 88′, 101′; Kennet Andersson 115′",
+      "matchReport": "Romania equalized late in regulation. Răducioiu scored again in extra time. Andersson forced penalties, where Sweden won 5–4.",
+      "keyMoments": [
+        {
+          "minute": "78'",
+          "title": "Tomas Brolin scores"
+        },
+        {
+          "minute": "88'",
+          "title": "Florin Răducioiu scores"
+        },
+        {
+          "minute": "101'",
+          "title": "Florin Răducioiu scores"
+        },
+        {
+          "minute": "115'",
+          "title": "Kennet Andersson scores"
+        },
+        {
+          "title": "Romania equalized late in regulation"
+        },
+        {
+          "title": "Răducioiu scored again in extra time"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Thomas Ravelli",
+          "team": "Sweden",
+          "role": "Shootout hero",
+          "description": "Saved the decisive penalty and kept Sweden alive earlier."
+        },
+        {
+          "player": "Florin Răducioiu",
+          "team": "Romania",
+          "role": "Two-goal performance",
+          "description": "Scored in regulation and extra time."
+        },
+        {
+          "player": "Kennet Andersson",
+          "team": "Sweden",
+          "role": "Late rescue",
+          "description": "Equalized in extra time with an aerial finish."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c49",
+    "preMatch": {
+      "sceneSetter": "The first semi-final arrives in New Jersey with two very different journeys converging.",
+      "aroundTheWorld": "The semifinals begin. Four teams remain, and every player is now one match from the final.",
+      "inTheTournament": "Bulgaria and Italy have survived pressure, close games and changing expectations to reach New Jersey.",
+      "whyItMatters": "Bulgaria are playing with the freedom of a team that has already exceeded many outside expectations. Italy bring the experience of a traditional power and the resilience of a team repeatedly tested."
+    },
+    "postMatch": {
+      "score": "Bulgaria 1–2 Italy",
+      "halftime": "Halftime: 1–2",
+      "goal": "Roberto Baggio 21′, 25′; Hristo Stoichkov 44′ (pen.)",
+      "matchReport": "Roberto Baggio scored twice in four minutes. Stoichkov pulled one back before halftime. Italy protected the lead through the second half.",
+      "keyMoments": [
+        {
+          "minute": "21'",
+          "title": "Roberto Baggio scores"
+        },
+        {
+          "minute": "25'",
+          "title": "Roberto Baggio scores"
+        },
+        {
+          "minute": "44'",
+          "title": "Hristo Stoichkov (pen.) scores"
+        },
+        {
+          "title": "Stoichkov pulled one back before halftime"
+        },
+        {
+          "title": "Italy protected the lead through the second half"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Roberto Baggio",
+          "team": "Italy",
+          "role": "Semifinal difference",
+          "description": "Scored both Italian goals with precision."
+        },
+        {
+          "player": "Hristo Stoichkov",
+          "team": "Bulgaria",
+          "role": "Kept hope alive",
+          "description": "Converted the penalty and remained Bulgaria’s main threat."
+        },
+        {
+          "player": "Franco Baresi",
+          "team": "Italy",
+          "role": "Defensive leadership",
+          "description": "Organized Italy through sustained second-half pressure."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c50",
+    "preMatch": {
+      "sceneSetter": "The Rose Bowl waits for a semi-final between teams already familiar with each other.",
+      "aroundTheWorld": "The second semifinal brings the tournament back to the Rose Bowl.",
+      "inTheTournament": "Sweden and Brazil have already met once in the group stage. Now the consequence is entirely different.",
+      "whyItMatters": "Familiarity removes some uncertainty but increases the tactical tension. Brazil know Sweden’s strengths; Sweden know Brazil’s patterns. A place in the final now depends on who adapts better."
+    },
+    "postMatch": {
+      "score": "Sweden 0–1 Brazil",
+      "halftime": "Halftime: 0–0",
+      "goal": "Romário 80′",
+      "matchReport": "Brazil controlled long stretches of a tense semi-final against Sweden. Romário’s decisive finish separated the sides after a careful tactical battle. Sweden remained competitive, but Brazil’s composure in the key moments proved decisive.",
+      "keyMoments": [
+        {
+          "minute": "80'",
+          "title": "Romário scores"
+        },
+        {
+          "title": "Sweden defended deep and kept the match level for 80 minutes"
+        },
+        {
+          "title": "Brazil protected the narrow lead to the final whistle"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Romário",
+          "team": "Brazil",
+          "role": "Semifinal winner",
+          "description": "Found space in a crowded penalty area and scored the decisive header."
+        },
+        {
+          "player": "Jorginho",
+          "team": "Brazil",
+          "role": "Created the goal",
+          "description": "Delivered the cross for Romário and provided width."
+        },
+        {
+          "player": "Thomas Ravelli",
+          "team": "Sweden",
+          "role": "Strong resistance",
+          "description": "Made saves that kept Sweden in the contest."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c51",
+    "preMatch": {
+      "sceneSetter": "The third-place match begins in Pasadena with two teams asked to recover from near misses.",
+      "aroundTheWorld": "One match remains before the final, but this game has its own meaning for two teams closing memorable campaigns.",
+      "inTheTournament": "Sweden and Bulgaria meet for third place after falling one step short of the final.",
+      "whyItMatters": "The emotional challenge is unusual: both teams must recover quickly from semifinal disappointment and find a reason to finish strongly. These matches can become open because the fear of elimination has already passed."
+    },
+    "postMatch": {
+      "score": "Sweden 4–0 Bulgaria",
+      "halftime": "Halftime: 4–0",
+      "goal": "Tomas Brolin 8′; Mild 30′; Henrik Larsson 37′; Kennet Andersson 39′",
+      "matchReport": "Sweden scored four times in the first half. Brolin opened the scoring early. The second half was played at a calmer pace.",
+      "keyMoments": [
+        {
+          "minute": "8'",
+          "title": "Tomas Brolin scores"
+        },
+        {
+          "minute": "30'",
+          "title": "Mild scores"
+        },
+        {
+          "minute": "37'",
+          "title": "Henrik Larsson scores"
+        },
+        {
+          "minute": "39'",
+          "title": "Kennet Andersson scores"
+        },
+        {
+          "title": "Sweden scored four times in the first half"
+        },
+        {
+          "title": "Brolin opened the scoring early"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Tomas Brolin",
+          "team": "Sweden",
+          "role": "Set the tone",
+          "description": "Scored early and drove Sweden’s attacking play."
+        },
+        {
+          "player": "Kennet Andersson",
+          "team": "Sweden",
+          "role": "Aerial presence",
+          "description": "Added the fourth and occupied Bulgaria’s defense."
+        },
+        {
+          "player": "Henrik Larsson",
+          "team": "Sweden",
+          "role": "Young impact",
+          "description": "Scored his first World Cup goal in a lively performance."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  },
+  {
+    "canonicalMatchId": "usa-1994-c52",
+    "preMatch": {
+      "sceneSetter": "The Rose Bowl reaches its final afternoon beneath the weight of a month’s worth of stories.",
+      "aroundTheWorld": "After one month, the tournament reaches its final match at the Rose Bowl.",
+      "inTheTournament": "Brazil and Italy are the last two teams standing. Everything before this has led to one final afternoon.",
+      "whyItMatters": "Both nations understand this stage and the weight attached to it. Brazil have built their campaign around control, movement and attacking quality. Italy have survived adversity and reached the final through resilience and discipline. There is no next match."
+    },
+    "postMatch": {
+      "score": "Brazil 0–0 Italy (Brazil won 3–2 on pens)",
+      "halftime": "Halftime: 0–0",
+      "goal": "No goals — Brazil won the shootout 3–2",
+      "matchReport": "The final remained scoreless through 120 minutes. Brazil converted three penalties in the shootout. Cláudio Taffarel saved Massaro’s penalty before Roberto Baggio missed the final kick.",
+      "keyMoments": [
+        {
+          "title": "The final remained scoreless through 120 minutes"
+        },
+        {
+          "title": "Brazil converted three penalties in the shootout"
+        },
+        {
+          "title": "Cláudio Taffarel saved Massaro’s penalty before Roberto Baggio missed the final kick"
+        }
+      ],
+      "playersWhoShapedTheMatch": [
+        {
+          "player": "Cláudio Taffarel",
+          "team": "Brazil",
+          "role": "Shootout hero",
+          "description": "Saved a penalty and projected calm throughout the shootout."
+        },
+        {
+          "player": "Franco Baresi",
+          "team": "Italy",
+          "role": "Defensive masterclass",
+          "description": "Returned from injury and led Italy through 120 scoreless minutes."
+        },
+        {
+          "player": "Romário",
+          "team": "Brazil",
+          "role": "Persistent attacking threat",
+          "description": "Created Brazil’s most dangerous moments and converted in the shootout."
+        }
+      ],
+      "archiveNote": "Score, scorers and major incidents cross-checked against RSSSF’s complete USA ’94 match archive.",
+      "sources": [
+        "RSSSF",
+        "FIFA match records"
+      ]
+    }
+  }
+]

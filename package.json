@@ -7,8 +7,20 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "build": "node scripts/build-production.mjs",
+    "start": "next start",
+    "test": "tsx --test lib/replays/**/*.test.ts lib/archive/**/*.test.ts lib/experiences/**/*.test.ts lib/editorial/**/*.test.ts lib/home/**/*.test.ts lib/ui/**/*.test.ts lib/dev/**/*.test.ts",
+    "validate-flags": "tsx scripts/validate-flags.ts",
+    "validate-experiences": "tsx scripts/validate-experiences.ts",
+    "validate-editorial": "tsx scripts/validate-editorial.ts",
+    "audit-replays": "tsx scripts/audit-replays.ts",
+    "validate-archive": "tsx scripts/validate-archive.ts",
+    "generate-replay-qa": "tsx scripts/generate-replay-qa.ts",
+    "generate-recovery-queue": "tsx scripts/generate-recovery-queue.ts",
+    "index-fifa-replays": "tsx scripts/index-fifa-replays.ts",
+    "discover-fifa-replays": "tsx scripts/discover-fifa-replays.ts",
+    "validate-recovery": "tsx scripts/validate-recovery.ts",
+    "replay-qa-server": "tsx scripts/replay-qa-server.ts"
   },
   "dependencies": {
     "next": "16.2.10",
@@ -19,6 +31,8 @@
     "@types/node": "26.1.1",
     "@types/react": "19.2.17",
     "@types/react-dom": "19.2.3",
+    "happy-dom": "^20.11.1",
+    "tsx": "4.21.0",
     "typescript": "5.9.3"
   }
 }
