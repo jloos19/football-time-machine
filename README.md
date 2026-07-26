@@ -54,6 +54,8 @@ The easiest route:
 
 Vercel will detect Next.js automatically and provide a public URL.
 
+This is a standard Next.js app (serverless functions on Vercel), not a static export. Do not set `output: "export"` in `next.config.ts` — that omits API routes such as `/api/feedback`.
+
 ## Current content status
 
 - USA '94: complete prototype content

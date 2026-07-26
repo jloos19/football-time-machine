@@ -11,7 +11,7 @@ out/
 reports/
 data/replay-qa/current-state.json
 
-# Never ship internal reports via the static public tree
+# Never ship internal reports via the public static asset tree
 public/reports/
 
 # Temporary stash used by scripts/build-production.mjs

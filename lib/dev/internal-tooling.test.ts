@@ -195,7 +195,7 @@ describe("internal tooling security", () => {
     assert.equal(existsSync(join(ROOT, "app/sitemap.ts")), false);
   });
 
-  it("production build excludes app/dev from the static export", () => {
+  it("production build excludes app/dev and keeps the Feedback API route", () => {
     const pkg = JSON.parse(readFileSync(join(ROOT, "package.json"), "utf8")) as {
       scripts: Record<string, string>;
     };
@@ -203,8 +203,10 @@ describe("internal tooling security", () => {
     const buildScript = readFileSync(join(ROOT, "scripts/build-production.mjs"), "utf8");
     assert.match(buildScript, /app\/dev/);
     assert.match(buildScript, /\.tmp-dev-routes/);
-    assert.match(buildScript, /out\/dev/);
-    assert.match(buildScript, /out\/reports/);
+    assert.match(buildScript, /\.next\/server\/app\/dev/);
+    assert.match(buildScript, /public\/reports/);
+    assert.match(buildScript, /\/api\/feedback/);
+    assert.match(buildScript, /assertFeedbackApiRouteBuilt/);
   });
 
   it("keeps internal tooling styles out of the production globals stylesheet", () => {

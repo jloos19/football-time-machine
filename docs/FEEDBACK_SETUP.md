@@ -2,6 +2,8 @@
 
 In-app **Send Feedback** posts to the server-only route `POST /api/feedback`, which emails the site owner through [Resend](https://resend.com).
 
+This route is a **Vercel / Next.js serverless function**. The project must use a standard Next.js deployment — **not** `output: "export"` / static export — or `/api/feedback` will not be deployed and the form cannot send email.
+
 API keys and addresses are never exposed to the browser. Do not use `NEXT_PUBLIC_*` for feedback secrets.
 
 ## Environment variables
