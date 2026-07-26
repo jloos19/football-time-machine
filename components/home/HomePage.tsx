@@ -1,5 +1,6 @@
 "use client";
 
+import { SiteFooter } from "@/components/feedback/SiteFooter";
 import { ContinueWatching } from "./ContinueWatching";
 import { Hero } from "./Hero";
 import { PosterShelf } from "./PosterShelf";
@@ -10,6 +11,7 @@ import type { TournamentId } from "@/lib/archive/types";
 
 type HomePageProps = {
   onNavigateToWorldCups: () => void;
+  onNavigateToOurStory: () => void;
   onSelectSeason: (seasonId: string) => void;
   onBeginJourney: () => void;
   onContinueWatching: (args: {
@@ -21,6 +23,7 @@ type HomePageProps = {
 
 export function HomePage({
   onNavigateToWorldCups,
+  onNavigateToOurStory,
   onSelectSeason,
   onBeginJourney,
   onContinueWatching,
@@ -37,6 +40,7 @@ export function HomePage({
       <SiteNav
         onWorldCups={onNavigateToWorldCups}
         onScrollToArchive={scrollToArchive}
+        onOurStory={onNavigateToOurStory}
       />
       <Hero
         progressRevision={progressRevision}
@@ -45,9 +49,7 @@ export function HomePage({
       />
       <ContinueWatching onSelectSeason={onSelectSeason} progressRevision={progressRevision} />
       <PosterShelf onSelectSeason={onSelectSeason} progressRevision={progressRevision} />
-      <footer className="home-footer">
-        <p>Where football history is experienced — not explained.</p>
-      </footer>
+      <SiteFooter variant="home" />
     </div>
   );
 }

@@ -9,6 +9,7 @@ import type { TournamentId } from "@/lib/archive/types";
 
 export type AppScreen =
   | { type: "home" }
+  | { type: "our-story" }
   | {
       type: "tournament-landing";
       tournamentId: TournamentId;
@@ -33,6 +34,9 @@ export function parseAppPathname(pathname: string): AppScreen | null {
   // and scrolls to the Men's World Cups shelf.
   if (pathname === "/collection" || pathname === "/world-cups") {
     return { type: "home" };
+  }
+  if (pathname === "/our-story") {
+    return { type: "our-story" };
   }
 
   const parts = pathname.split("/").filter(Boolean);
@@ -70,6 +74,8 @@ export function screenToPath(screen: AppScreen): string {
   switch (screen.type) {
     case "home":
       return "/";
+    case "our-story":
+      return "/our-story";
     case "tournament-landing":
       return tournamentLandingPath(screen.tournamentId);
     case "team-picker":

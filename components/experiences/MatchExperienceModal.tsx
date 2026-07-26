@@ -12,6 +12,8 @@ import {
   shouldShowDailymotionRecommendation,
 } from "@/lib/replays";
 import { splitMatchTeams } from "@/lib/experiences/presentation";
+import { SendFeedbackButton } from "@/components/feedback/SendFeedbackButton";
+import type { FeedbackPageContext } from "@/lib/feedback";
 import { ExperienceNav } from "./ExperienceNav";
 import { TeamMark } from "./TeamMark";
 import {
@@ -36,6 +38,8 @@ type MatchExperienceModalProps = {
   prev: ExperienceEpisode | null;
   next: ExperienceEpisode | null;
   standings: StandingsData | null;
+  /** Auto-included when opening Send Feedback from this match page. */
+  feedbackContext?: FeedbackPageContext | null;
   onClose: () => void;
   onToggleComplete: () => void;
   onOpen: (episode: ExperienceEpisode) => void;
@@ -56,6 +60,7 @@ export function MatchExperienceModal({
   prev,
   next,
   standings,
+  feedbackContext = null,
   onClose,
   onToggleComplete,
   onOpen,
@@ -453,6 +458,25 @@ export function MatchExperienceModal({
             </div>
           )}
         </div>
+
+        <p className="match-experience__feedback">
+          <SendFeedbackButton
+            className="match-experience__feedback-link"
+            context={
+              feedbackContext
+                ? {
+                    ...feedbackContext,
+                    experience:
+                      feedbackContext.experience ??
+                      feedbackContext.journey ??
+                      experience.title,
+                    replayProvider:
+                      feedbackContext.replayProvider ?? replay?.provider,
+                  }
+                : null
+            }
+          />
+        </p>
       </article>
 
       <TeamProfileOverlay

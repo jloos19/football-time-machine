@@ -28,6 +28,18 @@ npm run dev
 
 6. Open http://localhost:3000
 
+## Feedback (Resend)
+
+In-app **Send Feedback** posts to server-only `POST /api/feedback`, which emails the site owner through Resend.
+
+Required environment variables (see `.env.example` and [docs/FEEDBACK_SETUP.md](docs/FEEDBACK_SETUP.md)):
+
+- `RESEND_API_KEY`
+- `FEEDBACK_FROM_EMAIL` — e.g. `Football Time Machine <feedback@football-timemachine.com>`
+- `FEEDBACK_TO_EMAIL` — site-owner inbox
+
+Never use `NEXT_PUBLIC_*` for these values. Keep secrets in `.env.local` locally and in Vercel Environment Variables in production, then redeploy.
+
 ## Put it online without coding
 
 The easiest route:

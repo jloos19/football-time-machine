@@ -3,12 +3,15 @@
 import { useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import { usePathname, useRouter } from "next/navigation";
 import { Episode, Season, seasons } from "@/data/seasons";
+import { SiteFooter } from "@/components/feedback/SiteFooter";
 import { HomePage } from "@/components/home/HomePage";
+import { OurStoryPage } from "@/components/our-story/OurStoryPage";
 import { ExperiencePicker } from "@/components/experiences/ExperiencePicker";
 import { TeamPicker } from "@/components/experiences/TeamPicker";
 import { TournamentLanding } from "@/components/experiences/TournamentLanding";
 import { JourneyView } from "@/components/experiences/StoryView";
 import { MatchExperienceModal } from "@/components/experiences/MatchExperienceModal";
+import type { FeedbackPageContext } from "@/lib/feedback";
 import {
   EMPTY_RESUME_HINTS,
   FRANCE_1998_GROUPS,
@@ -43,6 +46,8 @@ import {
   requestScrollToMensWorldCups,
   scrollToMensWorldCups,
 } from "@/lib/home";
+import { OUR_STORY_TITLE } from "@/lib/our-story";
+import { SITE_NAME } from "@/lib/site";
 import {
   hasEnteredExperience,
   markExperienceEntered,
@@ -358,6 +363,27 @@ export function FootballTimeMachine() {
     setScreen({ type: "home" });
   }
 
+  function navigateToOurStory() {
+    if (screen.type === "our-story") {
+      window.scrollTo(0, 0);
+      return;
+    }
+    clearMatchState();
+    setScreen({ type: "our-story" });
+  }
+
+  function navigateToHome() {
+    clearMatchState();
+    setScreen({ type: "home" });
+  }
+
+  /** Browse the Archive / Men's World Cups shelf from editorial surfaces. */
+  function browseArchive() {
+    clearMatchState();
+    requestScrollToMensWorldCups();
+    setScreen({ type: "home" });
+  }
+
   /** Resolve legacy `returnTo: "collection"` into homepage + Men's World Cups scroll. */
   function navigateReturnTo(returnTo: ReturnTarget) {
     clearMatchState();
@@ -435,9 +461,28 @@ export function FootballTimeMachine() {
     setHasHydratedProgress(true);
   }, [activeSeason, progressRevision]);
 
+  // Keep the document title in sync for shell-owned screens (page children are not mounted).
+  useEffect(() => {
+    if (screen.type === "our-story") {
+      document.title = OUR_STORY_TITLE;
+      return;
+    }
+    if (screen.type === "home") {
+      document.title = SITE_NAME;
+    }
+  }, [screen.type]);
+
   // Prefetch likely next routes so destination screens paint in one step.
   useEffect(() => {
     if (screen.type === "home") {
+      router.prefetch(tournamentLandingPath("usa-1994"));
+      router.prefetch(tournamentLandingPath("france-1998"));
+      router.prefetch(tournamentLandingPath("korea-japan-2002"));
+      router.prefetch("/our-story");
+      return;
+    }
+    if (screen.type === "our-story") {
+      router.prefetch("/");
       router.prefetch(tournamentLandingPath("usa-1994"));
       router.prefetch(tournamentLandingPath("france-1998"));
       router.prefetch(tournamentLandingPath("korea-japan-2002"));
@@ -566,8 +611,28 @@ export function FootballTimeMachine() {
 
   const showChrome =
     screen.type !== "home" &&
+    screen.type !== "our-story" &&
     screen.type !== "tournament-landing" &&
     !isJourneyExperience;
+
+  /** Match-page context for feedback — only when a match is open. */
+  const matchFeedbackContext = useMemo((): FeedbackPageContext | null => {
+    if (
+      !selectedEpisode ||
+      !activeSeason ||
+      screen.type !== "experience"
+    ) {
+      return null;
+    }
+    return {
+      tournament: activeSeason.name,
+      journey: screen.experience.title,
+      experience: screen.experience.title,
+      match: selectedEpisode.match,
+      route: pathname,
+      currentRoute: pathname,
+    };
+  }, [selectedEpisode, activeSeason, screen, pathname]);
 
   const overallArchive = useMemo(() => {
     if (
@@ -580,10 +645,16 @@ export function FootballTimeMachine() {
     return getExperienceByRoute(screen.tournamentId, "every-match");
   }, [screen]);
 
+  const showAppFooter =
+    screen.type === "tournament-landing" ||
+    screen.type === "team-picker" ||
+    screen.type === "experience" ||
+    showChrome;
+
   return (
     <main
       className={
-        screen.type === "home"
+        screen.type === "home" || screen.type === "our-story"
           ? "main--home"
           : screen.type === "tournament-landing" || isJourneyExperience
             ? "main--intro"
@@ -599,6 +670,9 @@ export function FootballTimeMachine() {
             <button type="button" onClick={navigateToMensWorldCups}>
               World Cups
             </button>
+            <button type="button" onClick={navigateToOurStory}>
+              Our Story
+            </button>
           </nav>
         </header>
       )}
@@ -607,11 +681,27 @@ export function FootballTimeMachine() {
         <HomePage
           progressRevision={progressRevision}
           onNavigateToWorldCups={navigateToMensWorldCups}
+          onNavigateToOurStory={navigateToOurStory}
           onSelectSeason={(seasonId) => navigateToSeason(seasonId, "home")}
           onBeginJourney={() => navigateToSeason("usa-1994", "home")}
           onContinueWatching={({ experience }) =>
             continueExperience(experience, "home")
           }
+        />
+      )}
+
+      {screen.type === "our-story" && (
+        <OurStoryPage
+          onNavigateHome={navigateToHome}
+          onBrowseArchive={browseArchive}
+          onWorldCups={navigateToMensWorldCups}
+          onSelectTournament={(href) => {
+            const parsed = parseAppPathname(href);
+            if (parsed?.type === "tournament-landing") {
+              clearMatchState();
+              setScreen(parsed);
+            }
+          }}
         />
       )}
 
@@ -776,6 +866,7 @@ export function FootballTimeMachine() {
             prev={prev}
             next={next}
             standings={standingsForEpisode(selectedEpisode)}
+            feedbackContext={matchFeedbackContext}
             onClose={() => setSelectedEpisode(null)}
             onToggleComplete={() => toggleComplete(selectedEpisode)}
             onOpen={(ep) => openEpisode(ep, experience)}
@@ -792,10 +883,12 @@ export function FootballTimeMachine() {
         );
       })()}
 
-      {showChrome && (
-        <footer className="app-footer">
-          Where football history is experienced—not explained.
-        </footer>
+      {showAppFooter && (
+        <SiteFooter
+          variant="app"
+          tagline="Where football history is experienced—not explained."
+          feedbackContext={matchFeedbackContext}
+        />
       )}
     </main>
   );

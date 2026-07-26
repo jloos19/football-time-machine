@@ -3,6 +3,7 @@
 import type { ReactNode } from "react";
 import { usePathname } from "next/navigation";
 import { isAppShellPath } from "@/lib/experiences/app-routes";
+import { FeedbackProvider } from "./feedback/FeedbackContext";
 import { FootballTimeMachine } from "./FootballTimeMachine";
 import { ScrollToTop } from "./ScrollToTop";
 
@@ -15,9 +16,9 @@ export function AppShell({ children }: { children: ReactNode }) {
   const pathname = usePathname() || "/";
 
   return (
-    <>
+    <FeedbackProvider>
       <ScrollToTop />
       {isAppShellPath(pathname) ? <FootballTimeMachine /> : children}
-    </>
+    </FeedbackProvider>
   );
 }

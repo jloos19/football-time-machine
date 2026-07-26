@@ -524,9 +524,11 @@ describe("homepage World Cups collection labeling", () => {
       createElement(SiteNav, {
         onWorldCups: () => undefined,
         onScrollToArchive: () => undefined,
+        onOurStory: () => undefined,
       })
     );
     assert.match(html, />World Cups</);
+    assert.match(html, />Our Story</);
     assert.doesNotMatch(html, /Men's World Cups/);
   });
 

@@ -15,6 +15,7 @@ describe("app-routes", () => {
     // Legacy collection URLs map to home (shell replaces URL + scrolls to shelf).
     assert.deepEqual(parseAppPathname("/world-cups"), { type: "home" });
     assert.deepEqual(parseAppPathname("/collection"), { type: "home" });
+    assert.deepEqual(parseAppPathname("/our-story"), { type: "our-story" });
     assert.equal(parseAppPathname("/tournaments/usa-1994")?.type, "tournament-landing");
     assert.equal(parseAppPathname("/tournaments/usa-1994/story")?.type, "experience");
     assert.equal(parseAppPathname("/tournaments/usa-1994/team")?.type, "team-picker");

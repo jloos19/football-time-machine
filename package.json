@@ -9,7 +9,7 @@
     "dev": "next dev",
     "build": "node scripts/build-production.mjs",
     "start": "next start",
-    "test": "tsx --test lib/replays/**/*.test.ts lib/archive/**/*.test.ts lib/experiences/**/*.test.ts lib/editorial/**/*.test.ts lib/home/**/*.test.ts lib/ui/**/*.test.ts lib/dev/**/*.test.ts",
+    "test": "tsx --test lib/replays/**/*.test.ts lib/archive/**/*.test.ts lib/experiences/**/*.test.ts lib/editorial/**/*.test.ts lib/home/**/*.test.ts lib/our-story/**/*.test.ts lib/feedback/**/*.test.ts lib/ui/**/*.test.ts lib/dev/**/*.test.ts",
     "validate-flags": "tsx scripts/validate-flags.ts",
     "validate-experiences": "tsx scripts/validate-experiences.ts",
     "validate-editorial": "tsx scripts/validate-editorial.ts",
@@ -25,7 +25,8 @@
   "dependencies": {
     "next": "16.2.10",
     "react": "19.2.7",
-    "react-dom": "19.2.7"
+    "react-dom": "19.2.7",
+    "resend": "^6.18.0"
   },
   "devDependencies": {
     "@types/node": "26.1.1",
