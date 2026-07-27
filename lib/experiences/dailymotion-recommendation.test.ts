@@ -80,7 +80,8 @@ describe("Dailymotion viewing recommendation", () => {
       /as Dailymotion can contain intrusive advertisements\./
     );
     assert.match(html, new RegExp(DAILYMOTION_SPOILER.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")));
-    assert.match(html, /▶ Watch Match/);
+    assert.match(html, /▶ Full Match/);
+    assert.match(html, /Watch the Match/);
   });
 
   it("links only the words uBlock Origin with secure new-tab attributes", () => {
@@ -134,6 +135,11 @@ describe("Dailymotion viewing recommendation", () => {
     assert.doesNotMatch(html, /data-testid="dailymotion-recommendation"/);
     assert.doesNotMatch(html, /hosted on Dailymotion/);
     assert.doesNotMatch(html, /uBlock Origin/);
-    assert.match(html, /▶ Watch Match/);
+    assert.match(html, /▶ Full Match/);
+    // Official FIFA highlights coexist with Full Match; CTA label stays "Highlights".
+    assert.match(html, /data-watch-kind="official-highlights"/);
+    assert.match(html, />▶ Highlights</);
+    assert.doesNotMatch(html, /Official FIFA Highlights|Extended Highlights/);
+    assert.doesNotMatch(html, /data-testid="highlights-coming-soon"/);
   });
 });

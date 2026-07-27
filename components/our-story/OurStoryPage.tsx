@@ -278,6 +278,12 @@ export function OurStoryPage({
                       Every match begins with only the information supporters
                       would have known at the time.
                     </p>
+                    <p>
+                      Across the growing archive, matches can include both a full
+                      replay and a condensed highlights option, so you can
+                      experience football history whether you have 90 minutes or
+                      just 9.
+                    </p>
                     <p>Before kickoff you’ll discover:</p>
                     <ul>
                       <li>why the match mattered;</li>

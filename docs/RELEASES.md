@@ -46,11 +46,13 @@ First-time visitors understand the spoiler-safe model; users who will not watch 
 
 ---
 
-## V1.1 — Retention and continuity
+## V1.1 — Retention, continuity, and documentary framing
 
-**Theme:** Help people come back and keep their place in the story.
+**Theme:** Help people come back, keep their place in the story, and enter every tournament as a film—not a fixture list.
 
 **Includes**
+- Storyline-Driven Essentials (very high priority)
+- Tournament Prologues (high priority)
 - Accounts
 - Cloud Progress
 - Tournament Completion Experience
@@ -58,36 +60,39 @@ First-time visitors understand the spoiler-safe model; users who will not watch 
 - Team Journey Epilogues
 
 **Success lens**
-Cross-device resume works; Continue Watching is the natural return path; finishing a tournament feels complete; Team Journey completers get an earned epilogue.
+Essentials reads as narrative chapters built on 4–6 pre-tournament storylines; prologues orient new viewers without spoilers; cross-device resume works; Continue Watching is the natural return path; finishing a tournament feels complete; Team Journey completers get an earned epilogue.
 
 ---
 
-## V1.2 — Archive expansion and discovery
+## V1.2 — Archive expansion, nation hubs, and discovery
 
-**Theme:** Grow the shelf and help users find their way—without lowering the quality bar.
+**Theme:** Grow the shelf, deepen discovery, and let nations and cast live beyond a single tournament—without lowering the quality bar.
 
 **Includes**
-- Germany 2006
+- National Team Hubs (high priority; expansion of Team Profiles)
+- Tournament Cast (medium priority)
+- Germany 2006 (full documentary edition: prologue, cast, storyline Essentials, hubs)
 - Search
 - Player Profiles
 - Additional curated journeys
 
 **Success lens**
-New editions meet V1 quality; search and profiles stay spoiler-safe; curated journeys show strong completion relative to length.
+New editions meet the interactive-documentary quality bar; hubs convert into journey starts across tournaments; cast onboards fans before Match 1; search and profiles stay spoiler-safe; curated journeys show strong completion relative to length.
 
 ---
 
 ## Future
 
-Long-horizon themes—not committed release scope. See Research, Vision, and Strategic Opportunities in the roadmap.
+Long-horizon themes for the interactive documentary platform—not committed release scope. See Research, Vision, and Strategic Opportunities in the roadmap.
 
 **Includes (illustrative)**
-- Women’s World Cups
+- Women’s World Cups (same prologue / cast / storyline Essentials / hub model)
 - Project Cinema (in-product watching research → only if validated)
+- Cross-tournament documentaries and Player Journeys
 - Other competitions (Euros, Copa América, Champions League campaigns, and more)
 
 **Success lens**
-Nothing ships from Future until it answers the roadmap’s three questions and clears product-principle review.
+Nothing ships from Future until it answers the roadmap’s three questions and clears product-principle review. Growth means more cinematic editions, not a denser database.
 
 ---
 

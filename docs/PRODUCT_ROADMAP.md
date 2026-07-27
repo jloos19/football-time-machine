@@ -4,6 +4,16 @@ Planning document for product direction after the live beta launch. Does not des
 
 ---
 
+## Product direction
+
+Football Time Machine is evolving from a **spoiler-safe tournament archive** into an **interactive documentary platform**.
+
+The archive remains the foundation—canonical matches, verified replays, and earned progression—but the product’s north star is cinematic storytelling: orient the viewer, introduce the cast, follow living storylines through the tournament, and let nations and personalities be explored across editions without dumping database density or spoilers.
+
+Roadmap work that deepens documentary framing (prologues, cast, storyline-driven Essentials, national hubs) ranks alongside retention and reliability. Archive expansion without narrative craft is incomplete.
+
+---
+
 ## Roadmap philosophy
 
 Now that Football Time Machine is live, roadmap decisions should primarily be driven by **real user feedback and analytics** rather than assumptions.
@@ -25,7 +35,7 @@ Initiatives are grouped to distinguish what we know we are building from long-te
 | Category | Meaning |
 |---|---|
 | **Committed** | Near-term work we intend to ship (currently V1.0.1) |
-| **Planned** | Named releases with clear themes (V1.1, V1.2) |
+| **Planned** | Named releases with clear themes (V1.1, V1.2); within a release, **Very High / High / Medium** priority labels sequence documentary-platform work against retention and shelf growth |
 | **Research** | Ideas that need technical, legal, or product validation before commitment |
 | **Vision** | Strategic opportunities and long-horizon product ideas—not committed |
 
@@ -127,7 +137,7 @@ Stabilize and clarify the live product. Priority order:
 | **Intended user value** | Indirect: faster fixes and better prioritization for the paths people actually use. |
 | **Track** | Homepage visits; tournament selection; journey selection; match opened; full match clicked; highlights clicked; mark complete; continue watching; tournament completion; replay failures. |
 | **MVP scope** | Lightweight analytics for the funnel events above; error/replay-failure monitoring; privacy-respecting defaults. |
-| **How analytics inform the roadmap** | Drop-offs after tournament or journey selection → clarify UX / About / Continue Watching; low full-match click-through → Highlights or replay reliability; high mark-complete but low continue → completion experience / next-journey CTAs; replay failures → reliability work before archive expansion. |
+| **How analytics inform the roadmap** | Drop-offs after tournament or journey selection → clarify UX / About / Prologues / Cast / Continue Watching; low full-match click-through → Highlights or replay reliability; high mark-complete but low continue → completion experience / next-journey CTAs; replay failures → reliability work before archive expansion; low Essentials completion → storyline framing quality. |
 | **Dependencies** | Production hosting; event taxonomy; privacy review. |
 | **Risks** | Over-collection; vanity metrics; instrumenting noise instead of journeys. |
 | **Success signal** | We can name top drop-off points and top errors weekly; critical failures are alerted; roadmap debates cite funnel evidence. |
@@ -182,7 +192,47 @@ Stabilize and clarify the live product. Priority order:
 
 ## Planned — V1.1
 
-**Theme:** Retention and continuity—help people come back and keep their place in the story.
+**Theme:** Retention, continuity, and documentary framing—help people come back, keep their place in the story, and enter every tournament as a film, not a fixture list.
+
+**Priority order within V1.1 (documentary track):**
+
+1. Storyline-Driven Essentials — **Very High**
+2. Tournament Prologues — **High**
+3. Then retention track: Accounts, Cloud Progress, Completion, Continue Watching, Epilogues
+
+---
+
+### 1. Storyline-Driven Essentials — Very High Priority
+
+| Field | Detail |
+|---|---|
+| **Problem / opportunity** | Essentials today risks reading as “the most important matches,” which can feel like a highlights reel of significance rather than a living narrative. The documentary identity needs Essentials rebuilt around the major storylines entering each tournament. |
+| **Intended user value** | Follow 4–6 clear narratives through a tournament—suspense and historical context preserved—so Essentials feels like chapters of a documentary, not a ranked match list. |
+| **Editorial philosophy** | Before every tournament begins (in product time), identify **4–6 key storylines**. Select matches that naturally advance those narratives. Prefer progression of drama over “biggest games on paper.” Never spoil outcomes; pre-tournament expectations and in-tournament tension stay intact. |
+| **MVP scope** | Redesign Essentials selection criteria and UX around named storylines; apply to existing published tournaments where capacity allows; document the philosophy in product docs ([PRODUCT_PRINCIPLES.md](./PRODUCT_PRINCIPLES.md) and related editorial notes); establish a reusable editorial template for future editions. |
+| **Dependencies** | Canonical match model; editorial capacity; spoiler-safe labeling of storylines (no outcome language). |
+| **Risks** | Forcing every match into a storyline; over-literary framing that obscures the watch path; inconsistent quality across tournaments. |
+| **Success signal** | Users can name the storylines they followed; Essentials completion and continue-to-next-match rates improve vs prior “important matches” framing; editorial reviews cite narrative advancement, not only prestige of fixtures. |
+| **Target release** | V1.1 |
+| **Priority** | Very High |
+
+---
+
+### 2. Tournament Prologues — High Priority
+
+| Field | Detail |
+|---|---|
+| **Problem / opportunity** | Users often drop into Match 1 without the historical and cultural frame that makes a tournament feel like a documentary series. |
+| **Intended user value** | A cinematic, spoiler-free introduction that sets the stage before any result can leak. |
+| **Goals** | Cover historical context, major storylines, biggest stars, tactical trends, political backdrop where relevant, and pre-tournament expectations—without revealing how the tournament unfolds. |
+| **MVP scope** | A 2–5 minute spoiler-free prologue before every tournament; positioned as the **first chapter** of every tournament experience (Story, Essentials, and other entry points should route through or clearly offer it); consistent structure across editions with tournament-specific editorial. |
+| **Dependencies** | Editorial production; tournament landing / experience entry UX; storyline identification from Storyline-Driven Essentials (can share research). |
+| **Risks** | Feeling like a mandatory essay gate; accidental spoilers in “expectations” copy; production cost that delays edition launches. |
+| **Success signal** | High prologue start rate among new tournament entrants; qualitative feedback that users “felt oriented” before Match 1; no spoiler incidents attributed to prologue content. |
+| **Target release** | V1.1 |
+| **Priority** | High |
+
+---
 
 ### Accounts
 
@@ -235,15 +285,54 @@ Stabilize and clarify the live product. Priority order:
 
 ## Planned — V1.2
 
-**Theme:** Expand the archive and deepen discovery—without lowering the quality bar.
+**Theme:** Expand the archive, deepen discovery, and let nations and cast live beyond a single tournament—without lowering the quality bar.
+
+**Priority order within V1.2 (documentary / discovery track):**
+
+1. National Team Hubs — **High**
+2. Tournament Cast — **Medium**
+3. Then shelf growth: Germany 2006, Search, Player Profiles, Additional curated journeys
+
+---
+
+### 1. National Team Hubs — High Priority
+
+| Field | Detail |
+|---|---|
+| **Problem / opportunity** | Team Profiles today are largely tournament-scoped. Users want to explore a nation across every available edition—program history, competitions, and journeys—without leaving the documentary frame for a wiki dump. |
+| **Intended user value** | Permanent National Team pages that make a country a first-class destination: understand the program, then jump into any available tournament journey with spoiler-safe presentation. |
+| **MVP scope** | Expand Team Profiles into permanent **National Team Hubs**. Each hub includes: history of the program; World Cup history; Women’s World Cup history; continental competitions; qualification history; tactical identity over time; legendary players and managers; available tournament journeys. Users can explore a nation across tournaments, not only within a single edition. Spoiler-gate outcome-heavy retrospectives until earned where needed. |
+| **Dependencies** | Existing Team Profile content model; Men’s/Women’s equal collections; journey linking; editorial dossiers (not scraped dumps). |
+| **Risks** | Database density crowding out storytelling; Men’s-weighted hubs that undervalue Women’s history; spoilers in “history” sections; scope creep into full federation encyclopedias. |
+| **Success signal** | Hub visits convert into journey starts; users return to hubs across multiple tournaments; qualitative feedback that hubs feel like dossiers, not databases. |
+| **Target release** | V1.2 |
+| **Priority** | High |
+
+---
+
+### 2. Tournament Cast — Medium Priority
+
+| Field | Detail |
+|---|---|
+| **Problem / opportunity** | New fans often do not know who matters before Match 1—teams, stars, managers, and personalities worth watching. |
+| **Intended user value** | A spoiler-free “Meet the Cast” onboarding section that introduces the major figures of the tournament before kickoff. |
+| **MVP scope** | Pre-tournament Cast section for each edition: major teams, stars, managers, and personalities to watch; framed as onboarding before Match 1; complements Tournament Prologues (prologue = world and stakes; cast = who to watch); no outcome spoilers or “this is their tournament” retrospective language. |
+| **Dependencies** | Tournament entry UX; Prologues pattern (ideally ship Prologues first); Player / manager naming consistent with future profiles and National Team Hubs. |
+| **Risks** | Overlap or redundancy with Prologues; cast lists that imply favorites/winners; production cost per edition. |
+| **Success signal** | Cast viewed before Match 1 among first-time tournament users; fewer “who is this?” friction reports; cast → match/journey click-through without spoiler incidents. |
+| **Target release** | V1.2 |
+| **Priority** | Medium |
+
+---
 
 ### Germany 2006
 
 | Field | Detail |
 |---|---|
 | **Problem / opportunity** | Natural next Men’s World Cup after 2002 for chronological archive growth. |
-| **Intended user value** | Another complete tournament edition in the same spoiler-safe model. |
-| **MVP scope** | Full tournament edition: Story, Essentials, Team Journeys, Every Match, Team Profiles, verified replays, canonical match records. |
+| **Intended user value** | Another complete tournament edition in the same spoiler-safe documentary model. |
+| **MVP scope** | Full tournament edition: Prologue, Cast, Story, storyline-driven Essentials, Team Journeys, Every Match, National Team Hub coverage for participating nations, verified replays, canonical match records. |
+| **Dependencies** | Storyline-Driven Essentials template; Prologue / Cast patterns from V1.1–V1.2 documentary track. |
 | **Target release** | V1.2 |
 
 ### Search
@@ -252,7 +341,7 @@ Stabilize and clarify the live product. Priority order:
 |---|---|
 | **Problem / opportunity** | As the archive grows, browsing alone will not find matches, teams, or players quickly. |
 | **Intended user value** | Jump to a known team, match, or tournament without spoiling unearned outcomes. |
-| **MVP scope** | Search across tournaments, teams, and matches with spoiler-safe result presentation. |
+| **MVP scope** | Search across tournaments, teams, National Team Hubs, and matches with spoiler-safe result presentation. |
 | **Target release** | V1.2 |
 
 ### Player Profiles
@@ -260,8 +349,8 @@ Stabilize and clarify the live product. Priority order:
 | Field | Detail |
 |---|---|
 | **Problem / opportunity** | Users want to know who players are without leaving the documentary frame. |
-| **Intended user value** | Contextual player pages that enrich matches and journeys. |
-| **MVP scope** | Profile pages for featured players tied to tournaments; spoiler-gated career retrospectives. |
+| **Intended user value** | Contextual player pages that enrich matches, cast, and journeys. |
+| **MVP scope** | Profile pages for featured players tied to tournaments; spoiler-gated career retrospectives; link from Tournament Cast and National Team Hubs where relevant. |
 | **Target release** | V1.2 |
 
 ### Additional curated journeys
@@ -269,7 +358,7 @@ Stabilize and clarify the live product. Priority order:
 | Field | Detail |
 |---|---|
 | **Problem / opportunity** | Not every compelling path is “full tournament” or “one team.” |
-| **Intended user value** | Shorter or thematic routes (e.g. group of death, underdog runs) with narrative shape. |
+| **Intended user value** | Shorter or thematic routes (e.g. group of death, underdog runs) with narrative shape—aligned with storyline thinking from Essentials. |
 | **MVP scope** | A small number of high-quality curated paths per major tournament. |
 | **Target release** | V1.2 |
 
@@ -310,26 +399,29 @@ Clear answers on embed feasibility per major provider, licensing/ToS risk, spoil
 
 ## Vision
 
-Long-term product opportunities. These are strategic possibilities, **not committed roadmap items**. Promote only when feedback, analytics, and capacity support it—and when the work still answers the three roadmap questions.
+Long-term product opportunities for the interactive documentary platform. These are strategic possibilities, **not committed roadmap items**. Promote only when feedback, analytics, and capacity support it—and when the work still answers the three roadmap questions.
+
+The future product is not “more fixtures in a catalog.” It is a growing shelf of **cinematic tournament experiences**—prologues, cast, storyline-shaped paths, nation hubs, and earned retrospectives—backed by a reliable archive.
 
 | Initiative | Notes |
 |---|---|
-| **Women’s World Cups** | First-class collection (e.g. beginning with USA 1999); equal IA and quality bar to Men’s |
+| **Women’s World Cups** | First-class collection (e.g. beginning with USA 1999); equal IA and quality bar to Men’s; same prologue / cast / storyline Essentials model |
 | **Euros** | European Championships as a future collection |
 | **Copa América** | Landmark South American tournament stories |
 | **Champions League** | Iconic club campaigns as curated journeys—not a full CL database |
 | **AI Companion** | Documentary-toned companion that never spoils unearned outcomes |
-| **Player Journeys** | Follow a player through a tournament with spoiler-safe progression |
-| **Manager Profiles** | Editorial dossiers, not coaching databases |
+| **Player Journeys** | Follow a player through a tournament with spoiler-safe progression; pairs with Tournament Cast and Player Profiles |
+| **Manager Profiles** | Standalone editorial dossiers beyond what National Team Hubs cover—not coaching databases |
 | **Stadium Profiles** | Place and atmosphere as storytelling context |
+| **Cross-tournament documentaries** | Multi-edition arcs (dynasties, rivalries, tactical eras) stitched from hubs + journeys |
 | **Community Match Ratings** | Post-watch reactions without spoiling others |
-| **Personalized Recommendations** | Next-journey suggestions from progress—not scoreboard noise |
+| **Personalized Recommendations** | Next-journey suggestions from progress and storylines followed—not scoreboard noise |
 | **On This Day** | Calendar discovery that stays spoiler-safe by default |
 | **Mobile Apps** | Native clients only after web retention and watching model are strong |
 
-Preserve **separate Men’s and Women’s** collections wherever both exist. Women’s tournaments are first-class, not an add-on under Men’s.
+Preserve **separate Men’s and Women’s** collections wherever both exist. Women’s tournaments are first-class, not an add-on under Men’s. National Team Hubs must treat Women’s World Cup and continental women’s history with equal care.
 
-Other continental competitions (AFCON, Asian Cup, Gold Cup, Women’s Euros, historic club seasons) remain vision-tier collection candidates under the same principles.
+Other continental competitions (AFCON, Asian Cup, Gold Cup, Women’s Euros, historic club seasons) remain vision-tier collection candidates under the same documentary principles.
 
 ---
 

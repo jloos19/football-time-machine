@@ -183,7 +183,10 @@ describe("match typography system", () => {
     assert.match(markup, new RegExp(`kicker red[^"]*${MATCH_TYPE.eyebrow}`));
     assert.match(markup, new RegExp(`watch-button[^"]*${MATCH_TYPE.action}`));
     assert.match(markup, new RegExp(`secondary-button[^"]*${MATCH_TYPE.actionSecondary}`));
-    assert.match(markup, /▶ Watch Match/);
+    assert.match(markup, /▶ Full Match/);
+    assert.match(markup, /▶ Highlights/);
+    assert.doesNotMatch(markup, /Official FIFA/);
+    assert.match(markup, /Watch the Match/);
     assert.match(markup, /Mark complete/);
   });
 

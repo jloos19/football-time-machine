@@ -60,7 +60,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c01-src-2"
+    "preferredSourceId": "usa-1994-c01-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c01-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/7KOfJAvcrGyZrMxhZcIFTh",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c01-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -116,7 +140,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "officialSource": false
       }
     ],
-    "preferredSourceId": "usa-1994-c02-src-2"
+    "preferredSourceId": "usa-1994-c02-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c02-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=3X0ZnOz3Cbc",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c02-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -177,7 +225,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c03-src-2"
+    "preferredSourceId": "usa-1994-c03-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c03-hl-1",
+        "provider": "Dailymotion" as const,
+        "url": "https://www.dailymotion.com/video/x9lek66",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (Dailymotion); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (Dailymotion) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (Dailymotion)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c03-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -238,7 +310,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c04-src-2"
+    "preferredSourceId": "usa-1994-c04-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c04-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5i2kIrSVCPrJmjeZTbxvib",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c04-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -275,7 +371,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "usa-1994-c05-src-1"
+    "preferredSourceId": "usa-1994-c05-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c05-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/1OOQHGFjCXVEjoTaRMvzfW",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c05-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -312,7 +432,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "usa-1994-c06-src-1"
+    "preferredSourceId": "usa-1994-c06-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c06-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/1yTANxFWtrZQys6bRZR4QU",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c06-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -353,7 +497,31 @@ export const usa1994Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "usa-1994-04",
       "journeySlot": 4
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "usa-1994-c07-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3H2dYSdQwlHhaCGVX0MVWX",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c07-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -414,7 +582,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c08-src-2"
+    "preferredSourceId": "usa-1994-c08-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c08-hl-1",
+        "provider": "Dailymotion" as const,
+        "url": "https://www.dailymotion.com/video/x9lewha",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (Dailymotion); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (Dailymotion) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (Dailymotion)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c08-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -451,7 +643,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Official FIFA full-match replay"
       }
     ],
-    "preferredSourceId": "usa-1994-c09-src-1"
+    "preferredSourceId": "usa-1994-c09-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c09-hl-1",
+        "provider": "Dailymotion" as const,
+        "url": "https://www.dailymotion.com/video/x9lhzke",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (Dailymotion); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (Dailymotion) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (Dailymotion)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c09-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -488,7 +704,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "officialSource": false
       }
     ],
-    "preferredSourceId": "usa-1994-c10-src-1"
+    "preferredSourceId": "usa-1994-c10-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c10-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6lTRw8Jo05sYTPC77o1y41",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c10-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -525,7 +765,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "usa-1994-c11-src-1"
+    "preferredSourceId": "usa-1994-c11-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c11-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4TcxQTKBCITOb6tHJq0HIv",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c11-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -585,7 +849,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "officialSource": false
       }
     ],
-    "preferredSourceId": "usa-1994-c12-src-2"
+    "preferredSourceId": "usa-1994-c12-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c12-hl-1",
+        "provider": "Dailymotion" as const,
+        "url": "https://www.dailymotion.com/video/x9lf5qo",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (Dailymotion); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (Dailymotion) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (Dailymotion)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c12-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -626,7 +914,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "officialSource": false
       }
     ],
-    "preferredSourceId": "usa-1994-c13-src-1"
+    "preferredSourceId": "usa-1994-c13-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c13-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6FfAn3tRCoE1mfpOR73MNa",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c13-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -667,7 +979,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "officialSource": false
       }
     ],
-    "preferredSourceId": "usa-1994-c14-src-1"
+    "preferredSourceId": "usa-1994-c14-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c14-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/t0THMJ2yY7aBIMT0LXGLr",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c14-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -708,7 +1044,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "officialSource": false
       }
     ],
-    "preferredSourceId": "usa-1994-c15-src-1"
+    "preferredSourceId": "usa-1994-c15-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c15-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/ZmuFFdsQWhzEWzPpcNmPU",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c15-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -745,7 +1105,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Official FIFA full-match replay"
       }
     ],
-    "preferredSourceId": "usa-1994-c16-src-1"
+    "preferredSourceId": "usa-1994-c16-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c16-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4bKKDEUuyVnUDHbJoT1Npf",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c16-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -782,7 +1166,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "officialSource": false
       }
     ],
-    "preferredSourceId": "usa-1994-c17-src-1"
+    "preferredSourceId": "usa-1994-c17-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c17-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/76WGQ5wUJjBLpQzJTwpTgQ",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c17-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -839,7 +1247,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c18-src-2"
+    "preferredSourceId": "usa-1994-c18-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c18-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=n6PJMzfS1oI",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c18-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -876,7 +1308,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Official FIFA full-match replay"
       }
     ],
-    "preferredSourceId": "usa-1994-c19-src-1"
+    "preferredSourceId": "usa-1994-c19-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c19-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3V1EmDW7271x4XWb3maA6x",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c19-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -917,7 +1373,31 @@ export const usa1994Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "usa-1994-10",
       "journeySlot": 10
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "usa-1994-c20-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/2Pq2DEpqTit0oepM3m6Tih",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c20-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -954,7 +1434,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Official FIFA full-match replay"
       }
     ],
-    "preferredSourceId": "usa-1994-c21-src-1"
+    "preferredSourceId": "usa-1994-c21-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c21-hl-1",
+        "provider": "Dailymotion" as const,
+        "url": "https://www.dailymotion.com/video/x9li5pm",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (Dailymotion); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (Dailymotion) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (Dailymotion)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c21-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -991,7 +1495,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Official FIFA full-match replay"
       }
     ],
-    "preferredSourceId": "usa-1994-c22-src-1"
+    "preferredSourceId": "usa-1994-c22-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c22-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/1TiHCtl86BHikForIoAX15",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c22-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1052,7 +1580,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c23-src-1"
+    "preferredSourceId": "usa-1994-c23-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c23-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5BT03afM76AUMqqYaSRBs2",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c23-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1113,7 +1665,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c24-src-2"
+    "preferredSourceId": "usa-1994-c24-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c24-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3so3Y00003mkFLLMuSXUCO",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c24-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1150,7 +1726,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Official FIFA full-match replay"
       }
     ],
-    "preferredSourceId": "usa-1994-c25-src-1"
+    "preferredSourceId": "usa-1994-c25-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c25-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=XJnNevyaDV8",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c25-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1187,7 +1787,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Official FIFA full-match replay"
       }
     ],
-    "preferredSourceId": "usa-1994-c26-src-1"
+    "preferredSourceId": "usa-1994-c26-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c26-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/2auBz7S2rnA5hJGWJlD5Ex",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c26-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1248,7 +1872,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c27-src-1"
+    "preferredSourceId": "usa-1994-c27-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c27-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5Vp8l5Jbew0mpJ6UZscJYL",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c27-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1285,7 +1933,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Official FIFA full-match replay"
       }
     ],
-    "preferredSourceId": "usa-1994-c28-src-1"
+    "preferredSourceId": "usa-1994-c28-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c28-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=S6IOnEZyTEI",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c28-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1322,7 +1994,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "usa-1994-c29-src-1"
+    "preferredSourceId": "usa-1994-c29-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c29-hl-1",
+        "provider": "Dailymotion" as const,
+        "url": "https://www.dailymotion.com/video/x9lkjym",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (Dailymotion); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (Dailymotion) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (Dailymotion)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c29-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1383,7 +2079,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c30-src-2"
+    "preferredSourceId": "usa-1994-c30-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c30-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5oJenL8ezjLLTvPGnnF8rD",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c30-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1420,7 +2140,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "usa-1994-c31-src-1"
+    "preferredSourceId": "usa-1994-c31-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c31-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3bWV7qHkv8Vsmt8vhexfBQ",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c31-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1476,7 +2220,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "officialSource": false
       }
     ],
-    "preferredSourceId": "usa-1994-c32-src-2"
+    "preferredSourceId": "usa-1994-c32-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c32-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4AciXHsuNjdtMHKAR92yOQ",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c32-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1517,7 +2285,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "officialSource": false
       }
     ],
-    "preferredSourceId": "usa-1994-c33-src-1"
+    "preferredSourceId": "usa-1994-c33-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c33-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=WPYvsebMAmc",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c33-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1578,7 +2370,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c34-src-1"
+    "preferredSourceId": "usa-1994-c34-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c34-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4YK6YT9twGXUk4YnFvaTOX",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c34-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1615,7 +2431,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Official FIFA full-match replay"
       }
     ],
-    "preferredSourceId": "usa-1994-c35-src-1"
+    "preferredSourceId": "usa-1994-c35-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c35-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4JoFaD9WKDcmr1oDG4R0ym",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c35-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1652,7 +2492,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "officialSource": false
       }
     ],
-    "preferredSourceId": "usa-1994-c36-src-1"
+    "preferredSourceId": "usa-1994-c36-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c36-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6KEtmLSov69cCUcTSrDB2t",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c36-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1712,7 +2576,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c37-src-1"
+    "preferredSourceId": "usa-1994-c37-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c37-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6hoTfMt9i7LujeQ6NzaZPN",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c37-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1772,7 +2660,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c38-src-2"
+    "preferredSourceId": "usa-1994-c38-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c38-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4rtQMv0ESzC0pjzCl0gJJU",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c38-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1832,7 +2744,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c39-src-1"
+    "preferredSourceId": "usa-1994-c39-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c39-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/36PJHw9PTbDhEYB5UNeWBx",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c39-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1892,7 +2828,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c40-src-2"
+    "preferredSourceId": "usa-1994-c40-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c40-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/fkN5NSEN5e6czwHatV9mL",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c40-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -1952,7 +2912,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c41-src-2"
+    "preferredSourceId": "usa-1994-c41-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c41-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5zBSfWmv9YWrDdHr5Vl4mo",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c41-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -2012,7 +2996,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c42-src-2"
+    "preferredSourceId": "usa-1994-c42-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c42-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/2qKt4e9PKsCihAUtijryO8",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c42-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -2072,7 +3080,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c43-src-1"
+    "preferredSourceId": "usa-1994-c43-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c43-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4iCRiAfpi0ZntPBPhqp0n4",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c43-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -2132,7 +3164,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c44-src-2"
+    "preferredSourceId": "usa-1994-c44-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c44-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6arrPyDjcxvFuLyuCdxpsD",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c44-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -2192,7 +3248,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c45-src-1"
+    "preferredSourceId": "usa-1994-c45-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c45-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3nZZ1euGzGe6Vh5EtANF8b",
+        "status": "active",
+        "packageKind": "extended-highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Extended highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Extended highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Extended highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c45-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -2252,7 +3332,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c46-src-2"
+    "preferredSourceId": "usa-1994-c46-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c46-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/1OINggfc2NuyBoGigT4Bt2",
+        "status": "active",
+        "packageKind": "extended-highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Extended highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Extended highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Extended highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c46-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -2312,7 +3416,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c47-src-1"
+    "preferredSourceId": "usa-1994-c47-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c47-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4coghu6zf00KTkL2Wxt3W6",
+        "status": "active",
+        "packageKind": "extended-highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Extended highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Extended highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Extended highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c47-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -2372,7 +3500,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c48-src-1"
+    "preferredSourceId": "usa-1994-c48-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c48-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5kwrREcrMCS9N9ecvjSI1r",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c48-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -2432,7 +3584,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c49-src-1"
+    "preferredSourceId": "usa-1994-c49-src-1",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c49-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/2mJY7xQeQlY07jGRSibkTg",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c49-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -2492,7 +3668,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c50-src-2"
+    "preferredSourceId": "usa-1994-c50-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c50-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6laEkqinSAYpaGJQvROIfU",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c50-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -2552,7 +3752,31 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c51-src-2"
+    "preferredSourceId": "usa-1994-c51-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c51-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/itz9GOGFzRbj7JwJSHxLS",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c51-hl-1"
   },
   {
     "tournamentId": "usa-1994",
@@ -2612,6 +3836,30 @@ export const usa1994Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated USA 1994 Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "usa-1994-c52-src-2"
+    "preferredSourceId": "usa-1994-c52-src-2",
+    "highlightSources": [
+      {
+        "id": "usa-1994-c52-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3DVmRfaGYZahU0FaujCQuO",
+        "status": "active",
+        "packageKind": "extended-highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Extended highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T00:53:20.297Z",
+          "notes": "Extended highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Extended highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "usa-1994-c52-hl-1"
   }
 ];

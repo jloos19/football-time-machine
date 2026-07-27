@@ -1,16 +1,32 @@
 import type { ReplayProvider } from "./types";
 import type { Replay, ReplayAlternate } from "@/data/seasons";
-import type { CanonicalMatch, CanonicalReplaySource } from "@/lib/archive/types";
+import type {
+  CanonicalMatch,
+  CanonicalReplaySource,
+  HighlightPackageKind,
+} from "@/lib/archive/types";
 import {
   getAllCanonicalMatches,
   getCanonicalMatch,
   getCanonicalMatchByEpisodeId,
   getEligibleSources,
+  getPreferredHighlightSource,
   getPreferredSource,
   isProductionReadySource,
   sortSourcesByPriority,
   TOURNAMENT_NAMES,
 } from "@/lib/archive";
+import { officialHighlightsLabel } from "@/lib/archive/highlights-label";
+
+/** User-facing official highlights link — never marks a match complete. */
+export type OfficialHighlights = {
+  url: string;
+  provider: ReplayProvider;
+  packageKind: HighlightPackageKind;
+  /** Display label — always "Highlights" in the primary UI. */
+  label: string;
+  official: boolean;
+} | null;
 
 export { TOURNAMENT_NAMES };
 export { UBLOCK_ORIGIN_URL } from "./constants";
@@ -114,6 +130,39 @@ export function resolveReplay(match: CanonicalMatch | null): Replay {
   };
 }
 
+/**
+ * Resolves official highlights for a match.
+ * Independent of full-match provider selection — FIFA / Dailymotion / future.
+ */
+export function resolveHighlights(match: CanonicalMatch | null): OfficialHighlights {
+  if (!match) return null;
+  const preferred = getPreferredHighlightSource(match);
+  if (!preferred) return null;
+  const packageKind = preferred.packageKind ?? "highlights";
+  return {
+    url: preferred.url,
+    provider: preferred.provider,
+    packageKind,
+    label: officialHighlightsLabel(preferred.provider, packageKind),
+    official: preferred.officialSource === true || preferred.provider === "FIFA",
+  };
+}
+
+function resolveMatchForEpisode(episode: {
+  id: string;
+  tournamentId: string;
+  canonicalMatchId?: string;
+}): CanonicalMatch | null {
+  const tournamentId = episode.tournamentId as
+    | "usa-1994"
+    | "france-1998"
+    | "korea-japan-2002";
+  return (
+    getMatchReplay(episode.tournamentId, episode.id) ??
+    getCanonicalMatch(tournamentId, episode.canonicalMatchId ?? episode.id)
+  );
+}
+
 export function getPreferredReplay(matchId: string): Replay {
   const match = getAllCanonicalMatches().find(
     (m) =>
@@ -128,15 +177,15 @@ export function getPreferredReplayForEpisode(episode: {
   tournamentId: string;
   canonicalMatchId?: string;
 }): Replay {
-  const tournamentId = episode.tournamentId as
-    | "usa-1994"
-    | "france-1998"
-    | "korea-japan-2002";
-  const byEpisode = getMatchReplay(episode.tournamentId, episode.id);
-  if (byEpisode) return resolveReplay(byEpisode);
+  return resolveReplay(resolveMatchForEpisode(episode));
+}
 
-  const canonicalId = episode.canonicalMatchId ?? episode.id;
-  return resolveReplay(getCanonicalMatch(tournamentId, canonicalId));
+export function getPreferredHighlightsForEpisode(episode: {
+  id: string;
+  tournamentId: string;
+  canonicalMatchId?: string;
+}): OfficialHighlights {
+  return resolveHighlights(resolveMatchForEpisode(episode));
 }
 
 /**

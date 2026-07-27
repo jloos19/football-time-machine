@@ -44,7 +44,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c01-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/liuB6SSFkgYJ5uwpV3cDD",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c01-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -85,7 +109,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c02-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/2YrXyDeWEfgMBpa9CN8k5E",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c02-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -406,7 +454,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c08-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4RIMdhcYlI4RWqBsSNlbcC",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c08-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -680,7 +752,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c13-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3tXmLnx5iNmlWnvbBlWZEv",
+        "status": "active",
+        "packageKind": "extended-highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Extended highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Extended highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Extended highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c13-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -782,7 +878,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c15-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/7d3arnsUbwJS0Kl9ByFesw",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c15-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -847,7 +967,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c16-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/44DSnhaY4tK0bjvAyqKBIf",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c16-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -913,7 +1057,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c17-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/7Bl7iGjE6EgVlsGw8f1DD3",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c17-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -1163,7 +1331,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c22-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5X25YRrRVkdElu8BI5aoM7",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c22-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -1228,7 +1420,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c23-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/17SOa0EZTaD8SRIXBU4fxy",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c23-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -1290,7 +1506,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c24-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4nJ1L9ktIJRRppj0fJGICx",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c24-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -1655,7 +1895,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c31-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/2DBd3JHoQgWRrGwfQrKSe4",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c31-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -1696,7 +1960,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c32-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4SDutyDM84tlEzwcgpCd3",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c32-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -1737,7 +2025,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c33-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/2zwDu6VNddBg8WiEqtB9Tx",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c33-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -1884,7 +2196,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c36-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6vtIzG7GoV8H7DX2ENNW2j",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c36-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -2057,7 +2393,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c39-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5Il5BOo7RMUKB7MydNZ7KI",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c39-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -2376,7 +2736,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c45-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/1SC9AxIloIjyTrcQNrj3Og",
+        "status": "active",
+        "packageKind": "extended-highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Extended highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Extended highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Extended highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c45-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -2417,7 +2801,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c46-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/7Hvw71RS0hjavYc7u8oGZx",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c46-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -2584,7 +2992,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c49-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3LXJydL3jSlJ5qf1xsvmDY",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c49-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -2649,7 +3081,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c50-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/1NYYfh9o9AEyCrs3t3FDiR",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c50-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -2713,7 +3169,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c51-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3ydrZpAFrtkkWrcBORVcz5",
+        "status": "active",
+        "packageKind": "extended-highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Extended highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Extended highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Extended highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c51-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -2777,7 +3257,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c52-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/69mfZhVvz2xN11gk7uaclH",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c52-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -2841,7 +3345,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c53-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6fYxrAaL2ceE3kwgoOa3TV",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c53-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -2905,7 +3433,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c54-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/1OFSxqeyK05xM6BBWMuNiA",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c54-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -2969,7 +3521,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c55-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4qelFbks06aujS9Y64MnOi",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c55-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -3033,7 +3609,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c56-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3Ie3xqHN6It2iQg9NPCyZp",
+        "status": "active",
+        "packageKind": "extended-highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Extended highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Extended highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Extended highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c56-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -3077,7 +3677,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c57-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/7zLNWgf5PYwqwnQHmXtx0G",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c57-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -3142,7 +3766,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c58-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/1rbgHn5tPS4DjDtp0wu6qP",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c58-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -3186,7 +3834,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c59-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/1wy510yzqXQQnfLGDIEuqM",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c59-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -3251,7 +3923,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c60-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/iMFyvC9s0NfZBeo1DNyUR",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c60-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -3295,7 +3991,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c61-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4nz68YFC1c6VSDcCz5ey7Y",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c61-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -3360,7 +4080,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c62-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4gNlpr5WAwNjTBuD6xNcTa",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c62-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -3424,7 +4168,31 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c63-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5v4IuPCfHf4xswGX3vSHZD",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c63-hl-1"
   },
   {
     "tournamentId": "korea-japan-2002",
@@ -3489,6 +4257,30 @@ export const koreaJapan2002Matches: CanonicalMatch[] = [
     "qaState": {
       "hasHumanVerifiedFullMatch": true,
       "productionReady": true
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "korea-japan-2002-c64-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/2t5caS1C0fMww1ndh81gj",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T02:01:08.536Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "korea-japan-2002-c64-hl-1"
   }
 ];

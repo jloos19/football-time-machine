@@ -8,6 +8,7 @@ import { journeyItemLabel } from "@/lib/experiences/journey";
 import { MATCH_TYPE } from "@/lib/experiences/match-typography";
 import {
   UBLOCK_ORIGIN_URL,
+  getPreferredHighlightsForEpisode,
   getPreferredReplayForEpisode,
   shouldShowDailymotionRecommendation,
 } from "@/lib/replays";
@@ -70,6 +71,7 @@ export function MatchExperienceModal({
   const modalRef = useRef<HTMLElement>(null);
   const [profile, setProfile] = useState<TeamProfileSelection | null>(null);
   const replay = getPreferredReplayForEpisode(episode);
+  const highlights = getPreferredHighlightsForEpisode(episode);
   const showDailymotionRecommendation =
     shouldShowDailymotionRecommendation(replay);
   const teams = splitMatchTeams(episode.match);
@@ -239,8 +241,19 @@ export function MatchExperienceModal({
             <h3
               className={`match-chapter__title match-experience__watch-title ${MATCH_TYPE.heading}`}
             >
-              Watch match
+              Watch the Match
             </h3>
+            <p
+              className={`match-chapter__body match-experience__watch-lead ${MATCH_TYPE.body}`}
+            >
+              {replay && highlights
+                ? "Experience the full match as it unfolded, or choose the highlights if you're short on time."
+                : replay
+                  ? "Experience the full match as it unfolded."
+                  : highlights
+                    ? "Watch the highlights for this match."
+                    : "A replay is not ready for this fixture yet."}
+            </p>
             {replay ? (
               <>
                 <p className={`spoiler-warning ${MATCH_TYPE.meta}`}>
@@ -252,9 +265,24 @@ export function MatchExperienceModal({
                     target="_blank"
                     rel="noreferrer"
                     href={replay.url}
+                    data-watch-kind="full-match"
+                    data-replay-provider={replay.provider}
                   >
-                    ▶ Watch Match
+                    ▶ Full Match
                   </a>
+                  {highlights && (
+                    <a
+                      className={`secondary-button ${MATCH_TYPE.actionSecondary}`}
+                      target="_blank"
+                      rel="noreferrer"
+                      href={highlights.url}
+                      data-watch-kind="official-highlights"
+                      data-highlights-provider={highlights.provider}
+                      data-highlights-package={highlights.packageKind}
+                    >
+                      ▶ Highlights
+                    </a>
+                  )}
                   {replay.continuationUrl && (
                     <a
                       className={`secondary-button ${MATCH_TYPE.actionSecondary}`}
@@ -337,13 +365,36 @@ export function MatchExperienceModal({
                   A full-match replay is not ready for this fixture yet. You can still mark
                   the match complete when you have watched it elsewhere.
                 </p>
-                <button
-                  type="button"
-                  className={`secondary-button ${MATCH_TYPE.actionSecondary}`}
-                  onClick={onToggleComplete}
-                >
-                  Mark complete
-                </button>
+                {highlights ? (
+                  <div className="actions match-experience__watch-actions">
+                    <a
+                      className={`watch-button ${MATCH_TYPE.actionPrimary}`}
+                      target="_blank"
+                      rel="noreferrer"
+                      href={highlights.url}
+                      data-watch-kind="official-highlights"
+                      data-highlights-provider={highlights.provider}
+                      data-highlights-package={highlights.packageKind}
+                    >
+                      ▶ Highlights
+                    </a>
+                    <button
+                      type="button"
+                      className={`secondary-button ${MATCH_TYPE.actionSecondary}`}
+                      onClick={onToggleComplete}
+                    >
+                      Mark complete
+                    </button>
+                  </div>
+                ) : (
+                  <button
+                    type="button"
+                    className={`secondary-button ${MATCH_TYPE.actionSecondary}`}
+                    onClick={onToggleComplete}
+                  >
+                    Mark complete
+                  </button>
+                )}
               </div>
             )}
             <div className="locked-report">
@@ -369,16 +420,32 @@ export function MatchExperienceModal({
             >
               Match complete
             </div>
-            {replay && (
+            {(replay || highlights) && (
               <div className="actions match-experience__post-actions">
-                <a
-                  className={`secondary-button ${MATCH_TYPE.actionSecondary}`}
-                  target="_blank"
-                  rel="noreferrer"
-                  href={replay.url}
-                >
-                  Rewatch match
-                </a>
+                {replay && (
+                  <a
+                    className={`secondary-button ${MATCH_TYPE.actionSecondary}`}
+                    target="_blank"
+                    rel="noreferrer"
+                    href={replay.url}
+                    data-watch-kind="full-match"
+                  >
+                    Rewatch full match
+                  </a>
+                )}
+                {highlights && (
+                  <a
+                    className={`secondary-button ${MATCH_TYPE.actionSecondary}`}
+                    target="_blank"
+                    rel="noreferrer"
+                    href={highlights.url}
+                    data-watch-kind="official-highlights"
+                    data-highlights-provider={highlights.provider}
+                    data-highlights-package={highlights.packageKind}
+                  >
+                    Highlights
+                  </a>
+                )}
                 <button
                   type="button"
                   className={`text-button ${MATCH_TYPE.meta}`}
@@ -388,7 +455,7 @@ export function MatchExperienceModal({
                 </button>
               </div>
             )}
-            {!replay && (
+            {!replay && !highlights && (
               <div className="actions match-experience__post-actions">
                 <button
                   type="button"

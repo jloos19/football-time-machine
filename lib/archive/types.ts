@@ -57,6 +57,27 @@ export type CanonicalReplaySource = {
   continuationUrl?: string;
 };
 
+/** Distinguishes standard highlights from extended packages. */
+export type HighlightPackageKind = "highlights" | "extended-highlights";
+
+/**
+ * Official highlights package for a match — stored separately from full-match
+ * replaySources so provider selection for Full Match stays unchanged.
+ */
+export type CanonicalHighlightSource = {
+  id: string;
+  provider: ReplayProvider;
+  url: string;
+  status: ReplaySourceStatus;
+  /** Standard highlights vs extended highlights (FIFA package length). */
+  packageKind: HighlightPackageKind;
+  /** True for official provider libraries (e.g. FIFA match highlights). */
+  officialSource?: boolean;
+  automatedCheck: AutomatedCheck;
+  humanVerification: HumanVerification;
+  notes?: string;
+};
+
 export type CanonicalMatch = {
   tournamentId: TournamentId;
   canonicalMatchId: string;
@@ -75,8 +96,12 @@ export type CanonicalMatch = {
     auditNote?: string;
     runtime?: string;
   };
+  /** Full-match replay sources (FIFA, Dailymotion, etc.). */
   replaySources: CanonicalReplaySource[];
   preferredSourceId?: string;
+  /** Official highlights sources — never used for Full Match selection. */
+  highlightSources?: CanonicalHighlightSource[];
+  preferredHighlightSourceId?: string;
   qaState?: {
     hasHumanVerifiedFullMatch: boolean;
     productionReady: boolean;

@@ -80,7 +80,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "oEmbed returned playable metadata with a title"
       }
     ],
-    "preferredSourceId": "france-1998-c01-src-3"
+    "preferredSourceId": "france-1998-c01-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c01-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6SolerLcmaupnkXOgwYS2p",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c01-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -138,7 +162,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Dailymotion returns a private-video page; excluded from replay options. (oEmbed returned HTTP 401 — video is private or access-restricted)"
       }
     ],
-    "preferredSourceId": "france-1998-c02-src-1"
+    "preferredSourceId": "france-1998-c02-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c02-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5Bktnpcv71BIqr2YgnhLip",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c02-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -215,7 +263,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c03-src-3"
+    "preferredSourceId": "france-1998-c03-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c03-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/tYRHpPXzrBwWoipa8q0Vh",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c03-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -272,7 +344,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "oEmbed returned playable metadata with a title"
       }
     ],
-    "preferredSourceId": "france-1998-c04-src-2"
+    "preferredSourceId": "france-1998-c04-src-2",
+    "highlightSources": [
+      {
+        "id": "france-1998-c04-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=v7zziCQzG4Y",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c04-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -349,7 +445,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c05-src-3"
+    "preferredSourceId": "france-1998-c05-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c05-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3JzsqjHiR4zeQTsvtZAA8R",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c05-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -426,7 +546,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c06-src-3"
+    "preferredSourceId": "france-1998-c06-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c06-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6nlZboBaambCNIRIng9zlm",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c06-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -503,7 +647,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c07-src-3"
+    "preferredSourceId": "france-1998-c07-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c07-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6dgTuLBzFt557iAA36Ntpq",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c07-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -584,7 +752,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-03",
       "journeySlot": 3
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c08-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/2e4gUaH8DKeDyl1fqkEomG",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c08-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -645,7 +837,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-04",
       "journeySlot": 4
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c09-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6wevAfVmqXajEnTOM0OyS",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c09-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -722,7 +938,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c10-src-3"
+    "preferredSourceId": "france-1998-c10-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c10-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4Ib6lZEaHffWoXyneLkvit",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c10-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -783,7 +1023,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "oEmbed returned playable metadata with a title"
       }
     ],
-    "preferredSourceId": "france-1998-c11-src-2"
+    "preferredSourceId": "france-1998-c11-src-2",
+    "highlightSources": [
+      {
+        "id": "france-1998-c11-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/kz0u6xu6GBLG7e8sp8ore",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c11-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -860,7 +1124,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c12-src-3"
+    "preferredSourceId": "france-1998-c12-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c12-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/333emv5kWECUp4N9XI5lEq",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c12-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -897,7 +1185,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c13-src-1"
+    "preferredSourceId": "france-1998-c13-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c13-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6XWRh6iGsNbuI2F4IaNqzP",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c13-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -974,7 +1286,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c14-src-3"
+    "preferredSourceId": "france-1998-c14-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c14-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/42uFilJGccTFwiqsxxeagQ",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c14-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1035,7 +1371,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-06",
       "journeySlot": 6
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c15-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=5R3VuBv62DE",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c15-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1072,7 +1432,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Official FIFA full-match replay"
       }
     ],
-    "preferredSourceId": "france-1998-c16-src-1"
+    "preferredSourceId": "france-1998-c16-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c16-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=UMZUWkSb1EM",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c16-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1129,7 +1513,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c17-src-2"
+    "preferredSourceId": "france-1998-c17-src-2",
+    "highlightSources": [
+      {
+        "id": "france-1998-c17-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/Y2INwgr1pAmR9YmRUbr7X",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c17-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1186,7 +1594,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Replaced by curated browser-extracted FIFA full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "france-1998-c18-src-2"
+    "preferredSourceId": "france-1998-c18-src-2",
+    "highlightSources": [
+      {
+        "id": "france-1998-c18-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=15Ed2cmU_wg",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c18-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1247,7 +1679,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-07",
       "journeySlot": 7
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c19-hl-1",
+        "provider": "Dailymotion" as const,
+        "url": "https://www.dailymotion.com/video/xa8g25q",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (Dailymotion); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (Dailymotion) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (Dailymotion)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c19-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1308,7 +1764,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-08",
       "journeySlot": 8
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c20-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/cnSC7X9cZmelv0YQvYasR",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c20-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1389,7 +1869,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "oEmbed returned playable metadata with a title"
       }
     ],
-    "preferredSourceId": "france-1998-c21-src-3"
+    "preferredSourceId": "france-1998-c21-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c21-hl-1",
+        "provider": "Dailymotion" as const,
+        "url": "https://www.dailymotion.com/video/xa360zc",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (Dailymotion); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (Dailymotion) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (Dailymotion)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c21-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1430,7 +1934,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-10",
       "journeySlot": 10
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c22-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=0IfQt1I62mE",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c22-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1487,7 +2015,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c23-src-2"
+    "preferredSourceId": "france-1998-c23-src-2",
+    "highlightSources": [
+      {
+        "id": "france-1998-c23-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/2ZLuKcCjgLYQZrTZXoDli0",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c23-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1544,7 +2096,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "france-1998-c24-src-2"
+    "preferredSourceId": "france-1998-c24-src-2",
+    "highlightSources": [
+      {
+        "id": "france-1998-c24-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/N8kbeYWUm1MyfEFQw0xz8",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c24-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1585,7 +2161,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-11",
       "journeySlot": 11
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c25-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=Z--KCbzYBtg",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c25-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1646,7 +2246,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-12",
       "journeySlot": 12
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c26-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=vFPHX2Ig3zU",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c26-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1683,7 +2307,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c27-src-1"
+    "preferredSourceId": "france-1998-c27-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c27-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4fhvCh8mTnMVa5g6P6wRqS",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c27-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1744,7 +2392,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-13",
       "journeySlot": 13
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c28-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/1JmPIJoVp238GXrlNw9owQ",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c28-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1804,7 +2476,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Dailymotion response was inconclusive — manual review required"
       }
     ],
-    "preferredSourceId": "france-1998-c29-src-2"
+    "preferredSourceId": "france-1998-c29-src-2",
+    "highlightSources": [
+      {
+        "id": "france-1998-c29-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/7eTPqUPkbC2TACRXKSqVFv",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c29-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1841,7 +2537,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c30-src-1"
+    "preferredSourceId": "france-1998-c30-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c30-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/53a14lKCOPrH5QeMCNsB9f",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c30-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1882,7 +2602,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-15",
       "journeySlot": 15
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c31-hl-1",
+        "provider": "Dailymotion" as const,
+        "url": "https://www.dailymotion.com/video/xa9j2wa",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (Dailymotion); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (Dailymotion) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (Dailymotion)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c31-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1962,7 +2706,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Dailymotion response was inconclusive — manual review required"
       }
     ],
-    "preferredSourceId": "france-1998-c32-src-3"
+    "preferredSourceId": "france-1998-c32-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c32-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/7AuVHBFaCeG7DDCHaTlf5W",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c32-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -1999,7 +2767,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c33-src-1"
+    "preferredSourceId": "france-1998-c33-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c33-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/2HtjY8uPPI7VjnaQUFTnW6",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c33-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2040,7 +2832,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-17",
       "journeySlot": 17
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c34-hl-1",
+        "provider": "Dailymotion" as const,
+        "url": "https://www.dailymotion.com/video/xa9qmrs",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (Dailymotion); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (Dailymotion) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (Dailymotion)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c34-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2081,7 +2897,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-18",
       "journeySlot": 18
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c35-hl-1",
+        "provider": "Dailymotion" as const,
+        "url": "https://www.dailymotion.com/video/xa9qoq4",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (Dailymotion); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (Dailymotion) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (Dailymotion)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c35-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2142,7 +2982,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-19",
       "journeySlot": 19
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c36-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=_6YI24sAszs",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c36-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2179,7 +3043,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Official FIFA full-match replay"
       }
     ],
-    "preferredSourceId": "france-1998-c37-src-1"
+    "preferredSourceId": "france-1998-c37-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c37-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=4XiORDBysKI",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c37-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2256,7 +3144,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c38-src-3"
+    "preferredSourceId": "france-1998-c38-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c38-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4kxwvnRHkMu5vDPGgvCzd6",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c38-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2313,7 +3225,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c39-src-2"
+    "preferredSourceId": "france-1998-c39-src-2",
+    "highlightSources": [
+      {
+        "id": "france-1998-c39-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3RKyuku4Kj0AJD1srcTjlM",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c39-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2350,7 +3286,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c40-src-1"
+    "preferredSourceId": "france-1998-c40-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c40-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/7uM3Dmhf3Oull5axIjmgDN",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c40-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2407,7 +3367,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c41-src-2"
+    "preferredSourceId": "france-1998-c41-src-2",
+    "highlightSources": [
+      {
+        "id": "france-1998-c41-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/71rf6hrfdwDdqGMs1n88hI",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c41-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2463,7 +3447,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c42-src-2"
+    "preferredSourceId": "france-1998-c42-src-2",
+    "highlightSources": [
+      {
+        "id": "france-1998-c42-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4kU4f4vuxhpVI8pnkdzXqR",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c42-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2500,7 +3508,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c43-src-1"
+    "preferredSourceId": "france-1998-c43-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c43-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/7saxJt3dFe9KNHXbczsKDq",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c43-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2581,7 +3613,31 @@ export const france1998Matches: CanonicalMatch[] = [
     "editorial": {
       "journeyEpisodeId": "france-1998-20",
       "journeySlot": 20
-    }
+    },
+    "highlightSources": [
+      {
+        "id": "france-1998-c44-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5Br8OiixNpg2wQo2P7pkee",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c44-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2638,7 +3694,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Superseded by manually curated Complete Tournament full-match URL; retained as non-production fallback only."
       }
     ],
-    "preferredSourceId": "france-1998-c45-src-2"
+    "preferredSourceId": "france-1998-c45-src-2",
+    "highlightSources": [
+      {
+        "id": "france-1998-c45-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/rb6pkx4Xdg5pIrAO6Dei3",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c45-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2675,7 +3755,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Official FIFA full-match replay"
       }
     ],
-    "preferredSourceId": "france-1998-c46-src-1"
+    "preferredSourceId": "france-1998-c46-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c46-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5ztEMaeXWKFt2LLbQ67eUC",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c46-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2712,7 +3816,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Official FIFA full-match replay"
       }
     ],
-    "preferredSourceId": "france-1998-c47-src-1"
+    "preferredSourceId": "france-1998-c47-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c47-hl-1",
+        "provider": "YouTube" as const,
+        "url": "https://www.youtube.com/watch?v=3yzkDblc_GI",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": false,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (YouTube); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (YouTube) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (YouTube)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c47-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2771,7 +3899,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Dailymotion response was inconclusive — manual review required"
       }
     ],
-    "preferredSourceId": "france-1998-c48-src-1"
+    "preferredSourceId": "france-1998-c48-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c48-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3xm8DDsbSwT6rFFtumzotY",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c48-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2831,7 +3983,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "oEmbed returned playable metadata with a title"
       }
     ],
-    "preferredSourceId": "france-1998-c49-src-1"
+    "preferredSourceId": "france-1998-c49-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c49-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5zHibItvA8QzFHFqzqScfe",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c49-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2868,7 +4044,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Curated Complete Tournament Dailymotion full-match"
       }
     ],
-    "preferredSourceId": "france-1998-c50-src-1"
+    "preferredSourceId": "france-1998-c50-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c50-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/37bF1JYRCumYAnNEfwtmp2",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c50-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -2927,7 +4127,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Dailymotion response was inconclusive — manual review required"
       }
     ],
-    "preferredSourceId": "france-1998-c51-src-2"
+    "preferredSourceId": "france-1998-c51-src-2",
+    "highlightSources": [
+      {
+        "id": "france-1998-c51-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4ieqFMavo3IW95W7jkiLiN",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c51-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -3006,7 +4230,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "oEmbed returned playable metadata with a title"
       }
     ],
-    "preferredSourceId": "france-1998-c52-src-3"
+    "preferredSourceId": "france-1998-c52-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c52-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/1vbf2gkmsNfpzl2pJPtJMy",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c52-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -3086,7 +4334,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "oEmbed returned playable metadata with a title"
       }
     ],
-    "preferredSourceId": "france-1998-c53-src-3"
+    "preferredSourceId": "france-1998-c53-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c53-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/7gE0QHv3YHzljf8wTUCJz5",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c53-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -3143,7 +4415,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Dailymotion returns a private-video page; excluded from replay options. (oEmbed returned HTTP 401 — video is private or access-restricted)"
       }
     ],
-    "preferredSourceId": "france-1998-c54-src-1"
+    "preferredSourceId": "france-1998-c54-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c54-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/697X1xT3JCh4NEuWCrb3Rm",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c54-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -3202,7 +4498,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Dailymotion response was inconclusive — manual review required"
       }
     ],
-    "preferredSourceId": "france-1998-c55-src-1"
+    "preferredSourceId": "france-1998-c55-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c55-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/6NKL2kBH2KIpOVVU11XUC4",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c55-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -3261,7 +4581,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Continuation URL failed: Dailymotion response was inconclusive — manual review required"
       }
     ],
-    "preferredSourceId": "france-1998-c56-src-1"
+    "preferredSourceId": "france-1998-c56-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c56-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4i4DO9vZggfks2Ju4QMfzF",
+        "status": "active",
+        "packageKind": "extended-highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Extended highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Extended highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Extended highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c56-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -3318,7 +4662,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Continuation URL failed: oEmbed returned HTTP 401 — video is private or access-restricted"
       }
     ],
-    "preferredSourceId": "france-1998-c57-src-1"
+    "preferredSourceId": "france-1998-c57-src-1",
+    "highlightSources": [
+      {
+        "id": "france-1998-c57-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/7g8TwPQhao2JGL1hL4kveL",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c57-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -3398,7 +4766,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "oEmbed returned playable metadata with a title"
       }
     ],
-    "preferredSourceId": "france-1998-c58-src-3"
+    "preferredSourceId": "france-1998-c58-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c58-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/7H5B7p22GLwXt4WrVbeNmj",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c58-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -3478,7 +4870,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "oEmbed returned playable metadata with a title"
       }
     ],
-    "preferredSourceId": "france-1998-c59-src-3"
+    "preferredSourceId": "france-1998-c59-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c59-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/7Jpy3atpY0sSuH28AOoTmf",
+        "status": "active",
+        "packageKind": "extended-highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Extended highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Extended highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Extended highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c59-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -3558,7 +4974,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "oEmbed returned playable metadata with a title"
       }
     ],
-    "preferredSourceId": "france-1998-c60-src-3"
+    "preferredSourceId": "france-1998-c60-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c60-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/11omnk6gBNziGRrLXlLCpn",
+        "status": "active",
+        "packageKind": "extended-highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Extended highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Extended highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Extended highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c60-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -3618,7 +5058,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "Continuation URL failed: Dailymotion response was inconclusive — manual review required"
       }
     ],
-    "preferredSourceId": "france-1998-c61-src-2"
+    "preferredSourceId": "france-1998-c61-src-2",
+    "highlightSources": [
+      {
+        "id": "france-1998-c61-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/4WVZioPrG1WugDLW8bljzO",
+        "status": "active",
+        "packageKind": "extended-highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Extended highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Extended highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Extended highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c61-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -3698,7 +5162,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "oEmbed returned playable metadata with a title"
       }
     ],
-    "preferredSourceId": "france-1998-c62-src-3"
+    "preferredSourceId": "france-1998-c62-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c62-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5jtUx01w54zzzudbzcIp21",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c62-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -3778,7 +5266,31 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "oEmbed returned playable metadata with a title"
       }
     ],
-    "preferredSourceId": "france-1998-c63-src-3"
+    "preferredSourceId": "france-1998-c63-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c63-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/5EEPlWk5SSwmS2YMGn3GwI",
+        "status": "active",
+        "packageKind": "highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c63-hl-1"
   },
   {
     "tournamentId": "france-1998",
@@ -3858,6 +5370,30 @@ export const france1998Matches: CanonicalMatch[] = [
         "notes": "oEmbed returned playable metadata with a title"
       }
     ],
-    "preferredSourceId": "france-1998-c64-src-3"
+    "preferredSourceId": "france-1998-c64-src-3",
+    "highlightSources": [
+      {
+        "id": "france-1998-c64-hl-1",
+        "provider": "FIFA" as const,
+        "url": "https://www.fifa.com/en/watch/3sffkAQMQ7jlbfjI4SIs2F",
+        "status": "active",
+        "packageKind": "extended-highlights" as const,
+        "officialSource": true,
+        "automatedCheck": {
+          "status": "ok",
+          "lastChecked": "2026-07-27",
+          "reason": "Extended highlights (FIFA); browser-extracted manual curation",
+          "recheckRecommended": false
+        },
+        "humanVerification": {
+          "status": "verified",
+          "verifiedBy": "browser-extracted-manual-curation",
+          "verifiedAt": "2026-07-27T01:50:54.831Z",
+          "notes": "Extended highlights (FIFA) (browser-extracted manual curation)"
+        },
+        "notes": "Extended highlights (FIFA)"
+      }
+    ],
+    "preferredHighlightSourceId": "france-1998-c64-hl-1"
   }
 ];

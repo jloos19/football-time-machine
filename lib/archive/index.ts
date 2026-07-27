@@ -1,9 +1,9 @@
 import type {
+  CanonicalHighlightSource,
   CanonicalMatch,
   CanonicalReplaySource,
   ExperienceDefinition,
   ExperienceKind,
-  HumanVerification,
   TournamentId,
 } from "./types";
 import { usa1994Matches } from "./matches/usa1994";
@@ -103,7 +103,9 @@ export function getExperiencesForMatch(match: CanonicalMatch): ExperienceKind[] 
     .map((exp) => exp.kind);
 }
 
-export function isHumanVerified(source: CanonicalReplaySource): boolean {
+export function isHumanVerified(
+  source: Pick<CanonicalReplaySource, "humanVerification">
+): boolean {
   return source.humanVerification.status === "verified";
 }
 
@@ -115,12 +117,38 @@ export function isProductionReadySource(source: CanonicalReplaySource): boolean 
   );
 }
 
+/** Production-ready official highlights — independent of full-match selection. */
+export function isProductionReadyHighlight(
+  source: CanonicalHighlightSource
+): boolean {
+  return source.status === "active" && isHumanVerified(source);
+}
+
+const PROVIDER_PRIORITY = [
+  "FIFA",
+  "Official broadcaster",
+  "Dailymotion",
+  "YouTube",
+] as const;
+
+function providerPriorityIndex(provider: string): number {
+  const index = (PROVIDER_PRIORITY as readonly string[]).indexOf(provider);
+  return index === -1 ? PROVIDER_PRIORITY.length : index;
+}
+
 export function sortSourcesByPriority(
   sources: CanonicalReplaySource[]
 ): CanonicalReplaySource[] {
-  const priority = ["FIFA", "Official broadcaster", "Dailymotion", "YouTube"];
   return [...sources].sort(
-    (a, b) => priority.indexOf(a.provider) - priority.indexOf(b.provider)
+    (a, b) => providerPriorityIndex(a.provider) - providerPriorityIndex(b.provider)
+  );
+}
+
+export function sortHighlightSourcesByPriority(
+  sources: CanonicalHighlightSource[]
+): CanonicalHighlightSource[] {
+  return [...sources].sort(
+    (a, b) => providerPriorityIndex(a.provider) - providerPriorityIndex(b.provider)
   );
 }
 
@@ -147,6 +175,32 @@ export function getPreferredSource(
   );
 }
 
+export function getPreferredHighlightSource(
+  match: CanonicalMatch
+): CanonicalHighlightSource | null {
+  const sources = match.highlightSources ?? [];
+  if (sources.length === 0) return null;
+
+  if (match.preferredHighlightSourceId) {
+    const preferred = sources.find(
+      (s) => s.id === match.preferredHighlightSourceId
+    );
+    if (preferred && isProductionReadyHighlight(preferred)) {
+      return preferred;
+    }
+  }
+
+  const fifa = sources.find(
+    (s) => s.provider === "FIFA" && isProductionReadyHighlight(s)
+  );
+  if (fifa) return fifa;
+
+  return (
+    sortHighlightSourcesByPriority(sources).find(isProductionReadyHighlight) ??
+    null
+  );
+}
+
 export function getEligibleSources(
   match: CanonicalMatch
 ): CanonicalReplaySource[] {
@@ -157,6 +211,10 @@ export function getEligibleSources(
 
 export function hasHumanVerifiedFullMatch(match: CanonicalMatch): boolean {
   return match.replaySources.some(isProductionReadySource);
+}
+
+export function hasOfficialHighlights(match: CanonicalMatch): boolean {
+  return getPreferredHighlightSource(match) != null;
 }
 
 export type ExperienceProgress = {
@@ -209,3 +267,33 @@ export {
   findCanonicalMatchForUsa1994Entry,
   applyUsa1994ReplayCatalogToArchive,
 } from "./usa1994-replay-apply";
+export {
+  USA_1994_HIGHLIGHTS_CATALOG,
+  USA_1994_HIGHLIGHTS_VERIFIED_BY,
+} from "./usa1994-highlights-catalog";
+export {
+  mapUsa1994HighlightsCatalog,
+  applyUsa1994HighlightsCatalogToArchive,
+} from "./usa1994-highlights-apply";
+export {
+  FRANCE_1998_HIGHLIGHTS_CATALOG,
+  FRANCE_1998_HIGHLIGHTS_VERIFIED_BY,
+} from "./france1998-highlights-catalog";
+export {
+  mapFrance1998HighlightsCatalog,
+  applyFrance1998HighlightsCatalogToArchive,
+} from "./france1998-highlights-apply";
+export {
+  KOREA_JAPAN_2002_HIGHLIGHTS_CATALOG,
+  KOREA_JAPAN_2002_HIGHLIGHTS_VERIFIED_BY,
+  KOREA_JAPAN_2002_REJECTED_DUPLICATE_HIGHLIGHT_URL,
+  PORTUGAL_VS_KOREA_REPUBLIC_CANONICAL_HIGHLIGHT_URL,
+} from "./koreaJapan2002-highlights-catalog";
+export {
+  mapKoreaJapan2002HighlightsCatalog,
+  applyKoreaJapan2002HighlightsCatalogToArchive,
+} from "./koreaJapan2002-highlights-apply";
+export {
+  officialHighlightsLabel,
+  officialHighlightsNotes,
+} from "./highlights-label";

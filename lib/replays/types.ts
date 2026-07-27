@@ -60,9 +60,11 @@ export type MatchReplayEntry = {
 export type MatchReplayLibrary = Record<string, MatchReplayEntry>;
 
 export type {
+  CanonicalHighlightSource,
   CanonicalMatch,
   CanonicalReplaySource,
   ExperienceDefinition,
   ExperienceKind,
+  HighlightPackageKind,
   TournamentId,
 } from "@/lib/archive/types";

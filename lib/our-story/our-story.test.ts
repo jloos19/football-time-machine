@@ -217,6 +217,19 @@ describe("Our Story content and CTAs", () => {
     assert.match(html, /not affiliated with FIFA, Dailymotion/);
   });
 
+  it("includes Full Match and Highlights viewing option copy", () => {
+    const html = renderOurStory();
+    assert.match(
+      html,
+      /Across the growing archive, matches can include both a full replay and a condensed highlights option/
+    );
+    assert.match(html, /90 minutes or just 9/);
+    assert.doesNotMatch(
+      html,
+      /Every match includes both a full replay and a condensed highlights option/
+    );
+  });
+
   it("includes the creator origin question", () => {
     const html = renderOurStory();
     assert.match(html, /experience historic tournaments/);

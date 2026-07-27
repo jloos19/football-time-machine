@@ -22,16 +22,17 @@ Users should be able to experience a tournament as if it were unfolding live. Sc
 
 ## 2. Experience history before explaining it
 
-The primary verb is watch and progress—not read a Wikipedia-shaped summary first.
+The primary verb is watch and progress—not read a Wikipedia-shaped summary first. Spoiler-free **Tournament Prologues** and **Meet the Cast** may orient the viewer before Match 1; they set context and expectations, they never explain how the tournament turned out.
 
 **Aligns**
 - Story / Essentials / Team Journeys lead with matches and pre-match context.
-- Deeper historical essays unlock after relevant progression.
+- Cinematic, spoiler-free prologues as the first chapter of a tournament experience.
+- Deeper historical essays and outcome retrospectives unlock after relevant progression.
 - About copy explains the product model without narrating tournament outcomes.
 
 **Conflicts**
 - Tournament landing pages that summarize who won and why before any match.
-- Mandatory long-form history gates before the first kickoff.
+- Mandatory encyclopedic history dumps (wiki-shaped) before the first kickoff.
 - Feature tours that spoil iconic moments as examples.
 
 ---
@@ -57,8 +58,8 @@ A match has a single source of truth. Story, Essentials, Team Journeys, Every Ma
 Curated narrative beats beat exhaustive tables. Density is allowed only when it serves the story the user is in.
 
 **Aligns**
-- Essentials as a shaped path, not “all stats for all teams.”
-- Team Profiles written as dossiers, not scraped dumps.
+- Essentials built around **4–6 major storylines** entering each tournament—matches selected to advance those narratives while preserving suspense—not merely “the most important fixtures.”
+- National Team Hubs (and Team Profiles) written as dossiers, not scraped dumps.
 - Optional advanced analysis kept optional and secondary.
 
 **Conflicts**
@@ -158,6 +159,7 @@ If a feature makes Football Time Machine feel like a generic scores app, fantasy
 
 **Aligns**
 - Continue Watching as resume-into-documentary.
+- Tournament Prologues, Tournament Cast, storyline-driven Essentials, and National Team Hubs as documentary framing—not archive chrome.
 - Curated journeys and epilogues.
 - Spoiler-safe search and profiles that support watching.
 - Visual identity that is archival and cinematic—compatible with the editorial palette—rather than generic sports-app chrome.

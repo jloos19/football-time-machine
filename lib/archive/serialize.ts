@@ -14,5 +14,9 @@ export function serializeCanonicalMatches(
     /"provider": "(FIFA|Official broadcaster|Dailymotion|YouTube)"/g,
     '"provider": "$1" as const'
   );
+  body = body.replace(
+    /"packageKind": "(highlights|extended-highlights)"/g,
+    '"packageKind": "$1" as const'
+  );
   return `import type { CanonicalMatch } from "../types";\n\nexport const ${exportName}: CanonicalMatch[] = ${body};\n`;
 }

@@ -4173,12 +4173,33 @@ button.match-experience__team-trigger:focus-visible {
 }
 
 .match-experience__watch-title {
-  margin-bottom: 16px;
+  margin-bottom: 12px;
+}
+
+.match-experience__watch-lead {
+  margin: 0 0 4px;
+  max-width: 36em;
 }
 
 .match-experience__watch-actions {
   margin: 24px 0 8px;
   gap: 12px;
+}
+
+.highlights-coming-soon {
+  margin: 10px 0 6px;
+  max-width: 36em;
+}
+
+.highlights-coming-soon__label {
+  display: block;
+  margin: 0 0 4px;
+}
+
+.highlights-coming-soon__status {
+  display: block;
+  margin: 0;
+  color: var(--muted);
 }
 
 .dailymotion-note {
